@@ -1,0 +1,63 @@
+id_category;name;id_parent;parent_name;link_rewrite
+6;Impresión en tintas directas;5;Tarjeta de visita;impresion-tintas-directas
+7;Acabados especiales;5;Tarjeta de visita;impresion-tintas-directas-plastificado-mate
+9;Clase A - Plastificado Mate una cara;8;Folleto Postal Mate;clase-a-plastificado-mate-una-cara
+11;Clase A - Plastificado Mate una cara;10;Punto de libro | Señalador;clase-a-plastificado-mate-una-cara
+13;Clase A . Plastificado Mate una cara;12;Invitación | Tarjetón;clase-a-plastificado-mate-una-cara
+15;Papel est. 135grs.- Todo color 2c;14;Flyer Brillo Low Cost 135grs.;tarifa-en-promocion-especial-135
+19;Plastificado Brillo una cara;18;Folletos dípticos;plastificado-brillo-una-cara
+20;Clase A - Plastificado Mate una cara;18;Folletos dípticos;clase-a-plastificado-mate-una-cara
+22;Sobre americano con o sin ventana;21;Sobres;sobre-americano-d-l
+24;Troqueladas Automontables con tarjetero;23;Carpetas;troqueladas-automontables
+25;Clase A - Plastificado Mate una cara;5;Tarjeta de visita;clase-a-plastificado-mate-una-cara
+26;Papel est. 150 grs.- Todo color 2c;18;Folletos dípticos;papel-de-150-grs
+28;Papel est. 150 grs.- Todo color 2c;27;Folletos trípticos;papel-de-150-grs
+29;Plastificado Brillo una cara;27;Folletos trípticos;plastificado-brillo-una-cara
+30;Clase A - Plastificado Mate una cara;27;Folletos trípticos;clase-a-plastificado-mate-una-cara
+32;Papel de 100 grs.;31;Posters | Carteles;papel-100-grs
+34;Clase A - Plastificado Mate una cara;33;Packs Tarjetas de Visita;clase-a-plastificado-mate-una-cara
+36;Papel Offset Extra Blanco;35;Papel Carta | Membrete;colores-directos
+38;Impreso en papel adhesivo;37;Pegatinas | Adhesivos;impresion-pegatinas-papel
+39;Impresión Tintas Directas;33;Packs Tarjetas de Visita;impresion-tintas-directas
+40;Acabados especiales;33;Packs Tarjetas de Visita;impresion-tintas-directas-plastificado-mate
+42;Clase A - Plastificado Mate una cara;41;Calendarios;calendario-plastificado-mate
+43;Invitaciones con Plastificado Brillo;12;Invitación | Tarjetón;invitaciones-con-plastificado-brillo
+45;Revista A6 | Programa de Mano;44;Catálogos | Revistas;revista-o-programa-de-mano
+47;Papel 150grs;46;Flyers Urgentes;papel-150grs
+48;Papel 300grs;46;Flyers Urgentes;papel-300grs
+50;Papel 150grs;49;Flyers 48hrs. Offset;papel-150grs
+51;Papel 300grs;49;Flyers 48hrs. Offset;papel-300grs
+53;Papel 150grs;52;Folletos cuadrípticos;papel-150grs
+54;Revista A5 | Magazine;44;Catálogos | Revistas;revista-a5-magazine
+55;Revista A5 Plus | Minicatálogo;44;Catálogos | Revistas;revista-a5-plus-minicatalogo
+56;Revista A4 | Catálogo;44;Catálogos | Revistas;revista-a4-catalogo
+58;Papel Reciclado Cyclus Offset;57;Flyer Papel Reciclado;folleto-flyer-papel-reciclado
+59;Papel Reciclado Cyclus Offset;49;Flyers 48hrs. Offset;folleto-flyer-papel-reciclado
+60;Todo color sin plastificar;5;Tarjeta de visita;estucado-mate
+61;Sobre A5;21;Sobres;sobre-a5
+62;Sobre Bolsa;21;Sobres;sobre-bolsa-c4
+63;Sobre Folio Prolongado;21;Sobres;sobre-bolsa-grande
+64;Todo color sin plastificar;33;Packs Tarjetas de Visita;estucado-mate
+65;Papel Reciclado Cyclus Offset;35;Papel Carta | Membrete;papel-carta-todo-color
+66;Calendario de mesa;41;Calendarios;calendario-de-mesa
+67;Papel Reciclado Cyclus Offset;46;Flyers Urgentes;flyers-papel-reciclado-urgente
+69;Papel 150grs.;68;Mapas desplegables;papel-150grs
+70;Papel 115grs.;68;Mapas desplegables;papel-115grs
+71;Plastificado Brillo una cara;10;Punto de libro | Señalador;plastificado-brillo
+73;Papel offset;72;Manteles individuales;papel-offset-manteles
+75;Preimpresión;74;Diseño Gráfico;preimpresion
+76;Diseño | Maquetación;74;Diseño Gráfico;diseno-maquetacion
+79;Sitio web institucional;78;Diseño Web;pagina-web-basica
+80;Completa tu presencia en internet;78;Diseño Web;posicionamiento-web-redes-sociales
+82;Distribución de Folletos;81;Distribución;distribucion-folletos-flyers
+83;Buzoneo;81;Distribución;buzoneo
+84;Parabriseado;81;Distribución;parabriseado
+85;Perching;81;Distribución;perching
+86;Pegado de carteles;81;Distribución;pegado-de-carteles-barcelona
+88;Reparto en mano;81;Distribución;reparto-en-mano
+90;Papel offset 90grs.- Todo color 2c;89;Carta Complet;carta-sin-sobre-complet
+92;Papel 300 grs. - Todo color 2c - Plastificado mate 2c;91;Menú | Carta Digital;menus-cartas-plastificados
+94;Cartulina gráfica 350grs.;93;Paipái | Abanico;paipai-abanico-cartulina-grafica-350grs
+96;Papel est. 300grs.- Todo color 2c;95;Flyer Brillo Low Cost 300grs.;tarifa-en-promocion-especial-300
+98;Papel est. 135 grs.- Todo color 2c;97;Desplegables Low Cost;papel-135-grs-todo-color
+100;Papel Reciclado Satinado;99;Eco Flyer Low Cost;flyer-papel-reciclado-satinado

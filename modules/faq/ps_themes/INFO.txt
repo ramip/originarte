@@ -1,0 +1,19 @@
+MODULE FAQ
+
+Templates for themes
+--------------------------------------------
+If you use a theme which directory exists in this folder. You can use optimized templates, follow this steps :
+1. copy folder which have same name of your theme
+2. paste it in your modules theme folder /themes/<theme name>/modules/
+3. rename this folder in "faq"
+Now you should have a folder /themes/<theme name>/modules/faq/ which contains tpl files and language files (en.php, fr.php, etc.)
+
+
+Fichiers template pour thèmes
+--------------------------------------------
+Si vous utiliser un thème qui est lister dans ce dossier. Vous pouvez utiliser les templates optimisés en suivant ces étapes :
+1. copier le répertoire qui possède le même nom que votre thème
+2. coller le dans le dossier "modules" de votre thème /themes/<nom du thème>/modules/
+3. renommer ce dossier en "faq"
+En résumé, vous devez avoir un répertoire /themes/<nom du thème>/modules/faq/ qui contient des fichiers tpl et les fichiers de langues (en.php, fr.php, etc.)
+

@@ -1,0 +1,17 @@
+#social_block li:hover
+{
+	opacity: 1;
+}
+ul.lof-items li.lof-text li {padding-left:25px !important}
+.lof-items .ad-phone
+{
+	background:url(img/icon-phone.png) no-repeat;
+	padding-left:30px;
+	font-size:16px;
+	color:#e65940;
+	margin:10px 0px 10px 0px;
+}
+.lof-module #newsletter_block_left .title_block
+{
+	display:none;
+}

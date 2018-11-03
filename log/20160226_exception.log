@@ -1,0 +1,166 @@
+*ERROR* 	2016/02/26 - 09:22:50: Duplicate entry '124' for key 'group_key'<br /><br /><pre>SELECT p.*, product_shop.*, stock.out_of_stock, IFNULL(stock.quantity, 0) as quantity, MAX(product_attribute_shop.id_product_attribute) id_product_attribute, product_attribute_shop.minimal_quantity AS product_attribute_minimal_quantity, pl.`description`, pl.`description_short`, pl.`available_now`,
+					pl.`available_later`, pl.`link_rewrite`, pl.`meta_description`, pl.`meta_keywords`, pl.`meta_title`, pl.`name`, MAX(image_shop.`id_image`) id_image,
+					il.`legend`, m.`name` AS manufacturer_name, cl.`name` AS category_default,
+					DATEDIFF(product_shop.`date_add`, DATE_SUB(NOW(),
+					INTERVAL 5
+						DAY)) > 0 AS new, product_shop.price AS orderprice
+				FROM `ps_category_product` cp
+				LEFT JOIN `ps_product` p
+					ON p.`id_product` = cp.`id_product`
+				 INNER JOIN ps_product_shop product_shop
+		ON (product_shop.id_product = p.id_product AND product_shop.id_shop = 1)
+				LEFT JOIN `ps_product_attribute` pa
+				ON (p.`id_product` = pa.`id_product`)
+				 LEFT JOIN ps_product_attribute_shop product_attribute_shop
+		ON (product_attribute_shop.id_product_attribute = pa.id_product_attribute AND product_attribute_shop.id_shop = 1 AND product_attribute_shop.`default_on` = 1)
+				 LEFT 
+			JOIN ps_stock_available stock
+			ON (stock.id_product = p.id_product AND stock.id_product_attribute = IFNULL(`product_attribute_shop`.id_product_attribute, 0) AND stock.id_shop = 1  )
+				LEFT JOIN `ps_category_lang` cl
+					ON (product_shop.`id_category_default` = cl.`id_category`
+					AND cl.`id_lang` = 3 AND cl.id_shop = 1 )
+				LEFT JOIN `ps_product_lang` pl
+					ON (p.`id_product` = pl.`id_product`
+					AND pl.`id_lang` = 3 AND pl.id_shop = 1 )
+				LEFT JOIN `ps_image` i
+					ON (i.`id_product` = p.`id_product`) LEFT JOIN ps_image_shop image_shop
+		ON (image_shop.id_image = i.id_image AND image_shop.id_shop = 1 AND image_shop.cover=1)
+				LEFT JOIN `ps_image_lang` il
+					ON (image_shop.`id_image` = il.`id_image`
+					AND il.`id_lang` = 3)
+				LEFT JOIN `ps_manufacturer` m
+					ON m.`id_manufacturer` = p.`id_manufacturer`
+				WHERE product_shop.`id_shop` = 1
+					AND cp.`id_category` = 103 AND product_shop.`active` = 1 AND product_shop.`visibility` IN ("both", "catalog") GROUP BY product_shop.id_product ORDER BY pl.`name` ASC
+			LIMIT 0,12</pre> at line 609 in file classes/db/Db.php
+*ERROR* 	2016/02/26 - 09:25:26: Duplicate entry '131' for key 'group_key'<br /><br /><pre>SELECT p.*, product_shop.*, stock.out_of_stock, IFNULL(stock.quantity, 0) as quantity, MAX(product_attribute_shop.id_product_attribute) id_product_attribute, product_attribute_shop.minimal_quantity AS product_attribute_minimal_quantity, pl.`description`, pl.`description_short`, pl.`available_now`,
+					pl.`available_later`, pl.`link_rewrite`, pl.`meta_description`, pl.`meta_keywords`, pl.`meta_title`, pl.`name`, MAX(image_shop.`id_image`) id_image,
+					il.`legend`, m.`name` AS manufacturer_name, cl.`name` AS category_default,
+					DATEDIFF(product_shop.`date_add`, DATE_SUB(NOW(),
+					INTERVAL 5
+						DAY)) > 0 AS new, product_shop.price AS orderprice
+				FROM `ps_category_product` cp
+				LEFT JOIN `ps_product` p
+					ON p.`id_product` = cp.`id_product`
+				 INNER JOIN ps_product_shop product_shop
+		ON (product_shop.id_product = p.id_product AND product_shop.id_shop = 1)
+				LEFT JOIN `ps_product_attribute` pa
+				ON (p.`id_product` = pa.`id_product`)
+				 LEFT JOIN ps_product_attribute_shop product_attribute_shop
+		ON (product_attribute_shop.id_product_attribute = pa.id_product_attribute AND product_attribute_shop.id_shop = 1 AND product_attribute_shop.`default_on` = 1)
+				 LEFT 
+			JOIN ps_stock_available stock
+			ON (stock.id_product = p.id_product AND stock.id_product_attribute = IFNULL(`product_attribute_shop`.id_product_attribute, 0) AND stock.id_shop = 1  )
+				LEFT JOIN `ps_category_lang` cl
+					ON (product_shop.`id_category_default` = cl.`id_category`
+					AND cl.`id_lang` = 1 AND cl.id_shop = 1 )
+				LEFT JOIN `ps_product_lang` pl
+					ON (p.`id_product` = pl.`id_product`
+					AND pl.`id_lang` = 1 AND pl.id_shop = 1 )
+				LEFT JOIN `ps_image` i
+					ON (i.`id_product` = p.`id_product`) LEFT JOIN ps_image_shop image_shop
+		ON (image_shop.id_image = i.id_image AND image_shop.id_shop = 1 AND image_shop.cover=1)
+				LEFT JOIN `ps_image_lang` il
+					ON (image_shop.`id_image` = il.`id_image`
+					AND il.`id_lang` = 1)
+				LEFT JOIN `ps_manufacturer` m
+					ON m.`id_manufacturer` = p.`id_manufacturer`
+				WHERE product_shop.`id_shop` = 1
+					AND cp.`id_category` = 103 AND product_shop.`active` = 1 AND product_shop.`visibility` IN ("both", "catalog") GROUP BY product_shop.id_product ORDER BY pl.`name` ASC
+			LIMIT 0,12</pre> at line 609 in file classes/db/Db.php
+*ERROR* 	2016/02/26 - 09:32:05: Got error -1 from storage engine<br /><br /><pre>
+			SELECT
+				p.*,
+				product_shop.*,
+				product_shop.id_category_default,
+				pl.*,
+				i.id_image,
+				il.legend, 
+				m.name manufacturer_name,
+				DATEDIFF(product_shop.`date_add`, DATE_SUB(NOW(), INTERVAL 5 DAY)) > 0 AS new
+			FROM `ps_category_product` cp
+			LEFT JOIN ps_category c ON (c.id_category = cp.id_category)
+			LEFT JOIN `ps_product` p ON p.`id_product` = cp.`id_product`
+			 INNER JOIN ps_product_shop product_shop
+		ON (product_shop.id_product = p.id_product AND product_shop.id_shop = 1)
+			LEFT JOIN ps_product_lang pl ON (pl.id_product = p.id_product AND pl.id_shop = 1 )
+			LEFT JOIN ps_image i ON (i.id_product = p.id_product AND i.cover = 1)
+			LEFT JOIN ps_image_lang il ON (i.id_image = il.id_image AND il.id_lang = 3)
+			LEFT JOIN ps_manufacturer m ON (m.id_manufacturer = p.id_manufacturer)
+			WHERE product_shop.`active` = 1 AND
+			c.nleft >= 15
+			AND c.nright <= 30
+			AND c.active = 1
+			AND pl.id_lang = 3
+			AND p.id_product IN (23,28,29,31,32,33,34,36,42,43,44,48,52,61,62,196,198,199,200,201,202,203,204,207,240,256,260,261,274,275,276,278,279,280,283,287,294,298) GROUP BY p.id_product ORDER BY cp.position asc LIMIT 0,20</pre> at line 609 in file classes/db/Db.php
+*ERROR* 	2016/02/26 - 09:58:30: Incorrect key file for table '/tmp/#sql_76f0_1.MYI'; try to repair it<br /><br /><pre>
+		SELECT	DISTINCT(nl.`id_prestablog_news`), n.*, nl.*,
+				LEFT(nl.`title`, 80) As title
+		FROM `ps_prestablog_news_lang` nl
+		LEFT JOIN `ps_prestablog_news` n
+			ON (n.`id_prestablog_news` = nl.`id_prestablog_news`)
+		LEFT JOIN `ps_prestablog_correspondancecategorie` cc
+			ON (n.`id_prestablog_news` = cc.`news`)
+		WHERE 1=1 
+		AND n.`id_shop` = 1
+		AND nl.`id_lang` = 3
+		AND n.`actif` = 1
+		AND nl.`actif_langue` = 1
+		
+		
+		AND TIMESTAMP(n.`date`) <= '2016-02-26 09:58:30'
+		ORDER BY n.`date` desc
+		LIMIT 0, 16</pre> at line 609 in file classes/db/Db.php
+*ERROR* 	2016/02/26 - 09:58:35: Incorrect key file for table '/tmp/#sql_76f0_0.MYI'; try to repair it<br /><br /><pre>
+		SELECT	DISTINCT(nl.`id_prestablog_news`), n.*, nl.*,
+				LEFT(nl.`title`, 80) As title
+		FROM `ps_prestablog_news_lang` nl
+		LEFT JOIN `ps_prestablog_news` n
+			ON (n.`id_prestablog_news` = nl.`id_prestablog_news`)
+		LEFT JOIN `ps_prestablog_correspondancecategorie` cc
+			ON (n.`id_prestablog_news` = cc.`news`)
+		WHERE 1=1 
+		AND n.`id_shop` = 1
+		AND nl.`id_lang` = 3
+		AND n.`actif` = 1
+		AND nl.`actif_langue` = 1
+		
+		
+		AND TIMESTAMP(n.`date`) <= '2016-02-26 09:58:35'
+		ORDER BY n.`date` desc
+		LIMIT 0, 16</pre> at line 609 in file classes/db/Db.php
+*ERROR* 	2016/02/26 - 10:00:36: Duplicate entry '168' for key 'group_key'<br /><br /><pre>SELECT p.*, product_shop.*, stock.out_of_stock, IFNULL(stock.quantity, 0) as quantity, MAX(product_attribute_shop.id_product_attribute) id_product_attribute, product_attribute_shop.minimal_quantity AS product_attribute_minimal_quantity, pl.`description`, pl.`description_short`, pl.`available_now`,
+					pl.`available_later`, pl.`link_rewrite`, pl.`meta_description`, pl.`meta_keywords`, pl.`meta_title`, pl.`name`, MAX(image_shop.`id_image`) id_image,
+					il.`legend`, m.`name` AS manufacturer_name, cl.`name` AS category_default,
+					DATEDIFF(product_shop.`date_add`, DATE_SUB(NOW(),
+					INTERVAL 5
+						DAY)) > 0 AS new, product_shop.price AS orderprice
+				FROM `ps_category_product` cp
+				LEFT JOIN `ps_product` p
+					ON p.`id_product` = cp.`id_product`
+				 INNER JOIN ps_product_shop product_shop
+		ON (product_shop.id_product = p.id_product AND product_shop.id_shop = 1)
+				LEFT JOIN `ps_product_attribute` pa
+				ON (p.`id_product` = pa.`id_product`)
+				 LEFT JOIN ps_product_attribute_shop product_attribute_shop
+		ON (product_attribute_shop.id_product_attribute = pa.id_product_attribute AND product_attribute_shop.id_shop = 1 AND product_attribute_shop.`default_on` = 1)
+				 LEFT 
+			JOIN ps_stock_available stock
+			ON (stock.id_product = p.id_product AND stock.id_product_attribute = IFNULL(`product_attribute_shop`.id_product_attribute, 0) AND stock.id_shop = 1  )
+				LEFT JOIN `ps_category_lang` cl
+					ON (product_shop.`id_category_default` = cl.`id_category`
+					AND cl.`id_lang` = 3 AND cl.id_shop = 1 )
+				LEFT JOIN `ps_product_lang` pl
+					ON (p.`id_product` = pl.`id_product`
+					AND pl.`id_lang` = 3 AND pl.id_shop = 1 )
+				LEFT JOIN `ps_image` i
+					ON (i.`id_product` = p.`id_product`) LEFT JOIN ps_image_shop image_shop
+		ON (image_shop.id_image = i.id_image AND image_shop.id_shop = 1 AND image_shop.cover=1)
+				LEFT JOIN `ps_image_lang` il
+					ON (image_shop.`id_image` = il.`id_image`
+					AND il.`id_lang` = 3)
+				LEFT JOIN `ps_manufacturer` m
+					ON m.`id_manufacturer` = p.`id_manufacturer`
+				WHERE product_shop.`id_shop` = 1
+					AND cp.`id_category` = 102 AND product_shop.`active` = 1 AND product_shop.`visibility` IN ("both", "catalog") GROUP BY product_shop.id_product ORDER BY pl.`name` ASC
+			LIMIT 0,12</pre> at line 609 in file classes/db/Db.php

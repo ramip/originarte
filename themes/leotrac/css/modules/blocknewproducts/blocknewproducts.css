@@ -1,0 +1,32 @@
+/* Block new products */
+#new-products_block_right ul {list-style-type:none;}
+#new-products_block_right li {
+	float:left;
+	margin-right:20px;
+	padding:10px 0;
+}
+#new-products_block_right li.first {margin-left:30px;}
+
+#new-products_block_right dl {
+	list-style-type:none;
+	padding:0px;
+}
+
+#new-products_block_right dt {
+	margin-top:10px
+}
+#new-products_block_right dd {
+	padding:0 0 10px 0;
+	border-bottom:1px dotted #ccc;
+}
+#new-products_block_right dd.last_item {border:none;}
+#new-products_block_right dd a.lnk_more {
+	padding-right: 10px;
+	font-weight:bold;
+	color:#4C4D4E;
+}
+#new-products_block_right p {padding:0px 5px 10px 0px;text-align:right;}
+#new-products_block_right p.title_block, #new-products_block_right h4  {
+	padding:9px 11px;
+	text-align:left;
+}

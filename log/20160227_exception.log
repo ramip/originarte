@@ -1,0 +1,120 @@
+*ERROR* 	2016/02/27 - 10:10:52: Got error 28 from storage engine<br /><br /><pre>
+			SELECT h.id_hook, h.name as h_name, title, description, h.position, live_edit, hm.position as hm_position, m.id_module, m.name, active
+			FROM `ps_hook` h
+			INNER JOIN `ps_hook_module` hm ON (h.id_hook = hm.id_hook AND hm.id_shop = 1)
+			INNER JOIN `ps_module` as m ON (m.id_module = hm.id_module)
+			ORDER BY hm.position</pre> at line 609 in file classes/db/Db.php
+*ERROR* 	2016/02/27 - 10:10:55: Got error 28 from storage engine<br /><br /><pre>
+		SELECT *
+		FROM `ps_loffc_block_item` bi
+		JOIN `ps_loffc_block_item_shop` lbis ON(bi.`id_loffc_block_item` = lbis.`id_loffc_block_item` AND lbis.`id_shop` = 1)
+		LEFT JOIN `ps_loffc_block_item_lang` bil ON(bi.`id_loffc_block_item` = bil.`id_loffc_block_item` AND bil.`id_lang` = 3)
+		WHERE bi.`id_loffc_block`=64
+		ORDER BY bi.`position` ASC </pre> at line 609 in file classes/db/Db.php
+*ERROR* 	2016/02/27 - 10:14:45: Got error 28 from storage engine<br /><br /><pre>
+			SELECT h.id_hook, h.name as h_name, title, description, h.position, live_edit, hm.position as hm_position, m.id_module, m.name, active
+			FROM `ps_hook` h
+			INNER JOIN `ps_hook_module` hm ON (h.id_hook = hm.id_hook AND hm.id_shop = 1)
+			INNER JOIN `ps_module` as m ON (m.id_module = hm.id_module)
+			ORDER BY hm.position</pre> at line 609 in file classes/db/Db.php
+*ERROR* 	2016/02/27 - 10:14:46: Got error 28 from storage engine<br /><br /><pre>
+		SELECT *
+		FROM `ps_loffc_block_item` bi
+		JOIN `ps_loffc_block_item_shop` lbis ON(bi.`id_loffc_block_item` = lbis.`id_loffc_block_item` AND lbis.`id_shop` = 1)
+		LEFT JOIN `ps_loffc_block_item_lang` bil ON(bi.`id_loffc_block_item` = bil.`id_loffc_block_item` AND bil.`id_lang` = 3)
+		WHERE bi.`id_loffc_block`=64
+		ORDER BY bi.`position` ASC </pre> at line 609 in file classes/db/Db.php
+*ERROR* 	2016/02/27 - 10:16:42: Got error 28 from storage engine<br /><br /><pre>
+		SELECT *
+		FROM `ps_loffc_block_item` bi
+		JOIN `ps_loffc_block_item_shop` lbis ON(bi.`id_loffc_block_item` = lbis.`id_loffc_block_item` AND lbis.`id_shop` = 1)
+		LEFT JOIN `ps_loffc_block_item_lang` bil ON(bi.`id_loffc_block_item` = bil.`id_loffc_block_item` AND bil.`id_lang` = 3)
+		WHERE bi.`id_loffc_block`=64
+		ORDER BY bi.`position` ASC </pre> at line 609 in file classes/db/Db.php
+*ERROR* 	2016/02/27 - 10:20:35: Got error 28 from storage engine<br /><br /><pre>
+			SELECT h.id_hook, h.name as h_name, title, description, h.position, live_edit, hm.position as hm_position, m.id_module, m.name, active
+			FROM `ps_hook` h
+			INNER JOIN `ps_hook_module` hm ON (h.id_hook = hm.id_hook AND hm.id_shop = 1)
+			INNER JOIN `ps_module` as m ON (m.id_module = hm.id_module)
+			ORDER BY hm.position</pre> at line 609 in file classes/db/Db.php
+*ERROR* 	2016/02/27 - 10:26:33: Got error 28 from storage engine<br /><br /><pre>
+			SELECT h.id_hook, h.name as h_name, title, description, h.position, live_edit, hm.position as hm_position, m.id_module, m.name, active
+			FROM `ps_hook` h
+			INNER JOIN `ps_hook_module` hm ON (h.id_hook = hm.id_hook AND hm.id_shop = 1)
+			INNER JOIN `ps_module` as m ON (m.id_module = hm.id_module)
+			ORDER BY hm.position</pre> at line 609 in file classes/db/Db.php
+*ERROR* 	2016/02/27 - 10:30:55: Got error 28 from storage engine<br /><br /><pre>
+		SELECT *
+		FROM `ps_loffc_block_item` bi
+		JOIN `ps_loffc_block_item_shop` lbis ON(bi.`id_loffc_block_item` = lbis.`id_loffc_block_item` AND lbis.`id_shop` = 1)
+		LEFT JOIN `ps_loffc_block_item_lang` bil ON(bi.`id_loffc_block_item` = bil.`id_loffc_block_item` AND bil.`id_lang` = 3)
+		WHERE bi.`id_loffc_block`=64
+		ORDER BY bi.`position` ASC </pre> at line 609 in file classes/db/Db.php
+*ERROR* 	2016/02/27 - 10:30:56: Got error 28 from storage engine<br /><br /><pre>
+		SELECT *
+		FROM `ps_loffc_block_item` bi
+		JOIN `ps_loffc_block_item_shop` lbis ON(bi.`id_loffc_block_item` = lbis.`id_loffc_block_item` AND lbis.`id_shop` = 1)
+		LEFT JOIN `ps_loffc_block_item_lang` bil ON(bi.`id_loffc_block_item` = bil.`id_loffc_block_item` AND bil.`id_lang` = 3)
+		WHERE bi.`id_loffc_block`=64
+		ORDER BY bi.`position` ASC </pre> at line 609 in file classes/db/Db.php
+*ERROR* 	2016/02/27 - 10:30:57: Got error 28 from storage engine<br /><br /><pre>
+		SELECT *
+		FROM `ps_loffc_block_item` bi
+		JOIN `ps_loffc_block_item_shop` lbis ON(bi.`id_loffc_block_item` = lbis.`id_loffc_block_item` AND lbis.`id_shop` = 1)
+		LEFT JOIN `ps_loffc_block_item_lang` bil ON(bi.`id_loffc_block_item` = bil.`id_loffc_block_item` AND bil.`id_lang` = 3)
+		WHERE bi.`id_loffc_block`=64
+		ORDER BY bi.`position` ASC </pre> at line 609 in file classes/db/Db.php
+*ERROR* 	2016/02/27 - 10:32:44: Got error 28 from storage engine<br /><br /><pre>
+		SELECT *
+		FROM `ps_loffc_block_item` bi
+		JOIN `ps_loffc_block_item_shop` lbis ON(bi.`id_loffc_block_item` = lbis.`id_loffc_block_item` AND lbis.`id_shop` = 1)
+		LEFT JOIN `ps_loffc_block_item_lang` bil ON(bi.`id_loffc_block_item` = bil.`id_loffc_block_item` AND bil.`id_lang` = 3)
+		WHERE bi.`id_loffc_block`=64
+		ORDER BY bi.`position` ASC </pre> at line 609 in file classes/db/Db.php
+*ERROR* 	2016/02/27 - 10:32:48: Got error 28 from storage engine<br /><br /><pre>
+			SELECT h.id_hook, h.name as h_name, title, description, h.position, live_edit, hm.position as hm_position, m.id_module, m.name, active
+			FROM `ps_hook` h
+			INNER JOIN `ps_hook_module` hm ON (h.id_hook = hm.id_hook AND hm.id_shop = 1)
+			INNER JOIN `ps_module` as m ON (m.id_module = hm.id_module)
+			ORDER BY hm.position</pre> at line 609 in file classes/db/Db.php
+*ERROR* 	2016/02/27 - 10:34:28: Got error 28 from storage engine<br /><br /><pre>
+			SELECT h.id_hook, h.name as h_name, title, description, h.position, live_edit, hm.position as hm_position, m.id_module, m.name, active
+			FROM `ps_hook` h
+			INNER JOIN `ps_hook_module` hm ON (h.id_hook = hm.id_hook AND hm.id_shop = 1)
+			INNER JOIN `ps_module` as m ON (m.id_module = hm.id_module)
+			ORDER BY hm.position</pre> at line 609 in file classes/db/Db.php
+*ERROR* 	2016/02/27 - 10:41:57: Got error 28 from storage engine<br /><br /><pre>
+			SELECT h.id_hook, h.name as h_name, title, description, h.position, live_edit, hm.position as hm_position, m.id_module, m.name, active
+			FROM `ps_hook` h
+			INNER JOIN `ps_hook_module` hm ON (h.id_hook = hm.id_hook AND hm.id_shop = 1)
+			INNER JOIN `ps_module` as m ON (m.id_module = hm.id_module)
+			ORDER BY hm.position</pre> at line 609 in file classes/db/Db.php
+*ERROR* 	2016/02/27 - 10:41:57: Got error 28 from storage engine<br /><br /><pre>
+		SELECT *
+		FROM `ps_loffc_block_item` bi
+		JOIN `ps_loffc_block_item_shop` lbis ON(bi.`id_loffc_block_item` = lbis.`id_loffc_block_item` AND lbis.`id_shop` = 1)
+		LEFT JOIN `ps_loffc_block_item_lang` bil ON(bi.`id_loffc_block_item` = bil.`id_loffc_block_item` AND bil.`id_lang` = 3)
+		WHERE bi.`id_loffc_block`=64
+		ORDER BY bi.`position` ASC </pre> at line 609 in file classes/db/Db.php
+*ERROR* 	2016/02/27 - 10:42:37: Got error 28 from storage engine<br /><br /><pre>
+			SELECT h.id_hook, h.name as h_name, title, description, h.position, live_edit, hm.position as hm_position, m.id_module, m.name, active
+			FROM `ps_hook` h
+			INNER JOIN `ps_hook_module` hm ON (h.id_hook = hm.id_hook AND hm.id_shop = 1)
+			INNER JOIN `ps_module` as m ON (m.id_module = hm.id_module)
+			ORDER BY hm.position</pre> at line 609 in file classes/db/Db.php
+*ERROR* 	2016/02/27 - 10:48:06: Got error 28 from storage engine<br /><br /><pre>
+			SELECT c.*, cl.id_lang, cl.name, cl.description, cl.link_rewrite, cl.meta_title, cl.meta_keywords, cl.meta_description
+			FROM `ps_category` c
+			 INNER JOIN ps_category_shop category_shop
+		ON (category_shop.id_category = c.id_category AND category_shop.id_shop = 1)
+			LEFT JOIN `ps_category_lang` cl
+				ON (c.`id_category` = cl.`id_category`
+				AND `id_lang` = 3 AND cl.id_shop = 1 )
+			LEFT JOIN `ps_category_group` cg
+				ON (cg.`id_category` = c.`id_category`)
+			WHERE `id_parent` = 103
+				AND `active` = 1
+				AND cg.`id_group` =1
+			GROUP BY c.`id_category`
+			ORDER BY `level_depth` ASC, category_shop.`position` ASC
+		</pre> at line 609 in file classes/db/Db.php

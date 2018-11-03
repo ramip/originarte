@@ -1,0 +1,32 @@
+/* Block newsletter */
+#newsletter_block_left {
+	margin-top:0;
+}
+
+#newsletter_block_left p {padding:0;}
+.input-append
+{
+	position:relative;
+}
+#newsletter_block_left p.success_inline {
+	color: #418B19;
+	text-align: center;
+	font-weight: bold;
+}
+
+#newsletter_block_left p.warning_inline {
+	color: #DA0F00;
+	text-align: center;
+	font-weight: bold;
+}
+
+*:first-child+html #newsletter_block_left input.inputNew {position:static;}/* hack ie 7 */
+
+*:first-child+html #newsletter_block_left input.btn{padding-left:24px !important; min-height:25px !important;}/* hack ie 7 */
+
+/*\*//*/div.madiv {
+#newsletter_block_left input.button_mini {
+	position:relative;
+	top: 4px;
+}/* hack ie 8 */
+}/* */

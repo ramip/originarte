@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>shoppingfluxexport</name>
+            <displayName><![CDATA[Advanced Shopping Feed]]></displayName>
+            <version><![CDATA[4.6.1]]></version>
+            <description><![CDATA[Difunda sus productos f&aacute;cilmente desde Shopping Feed hacia Amazon, eBay, Google Shopping, Privalia...]]></description>
+            <author><![CDATA[PrestaShop]]></author>
+            <tab><![CDATA[smart_shopping]]></tab>
+	<confirmUninstall>¿Borrar este módulo?</confirmUninstall>
+            <is_configurable>1</is_configurable>
+            <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+        </module>

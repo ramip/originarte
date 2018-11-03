@@ -1,0 +1,248 @@
+#beezup-header .fleft {
+    float: left;
+}
+
+#beezup-header .beezup-logo {
+    margin: 0 25px 25px;
+}
+
+#beezup-header .beezup-description h2 {
+    font-size: 1.8em;
+}
+
+#beezup-header .beezup-description ul {
+    list-style-type: square;
+    list-style-position: inside;
+    margin-left: 20px;
+}
+
+#beezup-header .beezup-description ul li {
+    padding-bottom: 0.5em;
+}
+
+#beezup-conf-tab ul.tab-header {
+    list-style-type: none;
+    margin: 0 0 0 1em;
+    padding: 0;
+}
+
+#beezup-conf-tab ul.tab-header li {
+    float: left;
+    padding: 0.5em;
+    font-weight: bold;
+    background: #ECEADE url(../../../../img/admin/submenu-bg.gif) repeat-x 0% 100%;
+    margin-left: -1px;
+    border: 1px solid #DFD5C3;
+    border-bottom: none;
+
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+#beezup-conf-tab ul.tab-header li.selected {
+    background: #F4E6C9 url(../../../../img/admin/news-bg.gif) repeat-x 0% 100%;
+}
+
+#beezup-conf-tab div.tab-content {
+    margin-left: -1px;
+    clear: both;
+    border: 1px solid #DFD5C3;
+    padding: 1em;
+}
+
+.conf-table td {
+    padding: 0.25em 0.5em;
+}
+
+.conf-table td.label {
+    color: #585a69;
+    text-shadow: 0 1px 0 #fff;
+    font-weight: bold;
+    text-align: right;
+    vertical-align: top;
+    font-size: 0.8em
+}
+
+.conf-table td ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.conf-table td ul li img {
+    vertical-align: middle;
+}
+
+img.icon {
+    vertical-align: text-top;
+    margin: 0 0.1em;
+}
+
+option:disabled {
+    color: #BBB;
+    font-style: italic;
+}
+
+span.italic {
+    font-style: italic;
+    color: #999;
+    font-size: 0.8em;
+    font-weight: bold;
+}
+
+/* LISTS */
+.conf-category-select {
+    width: 330px;
+    float: left;
+    border-right: 1px solid #E0D0B1;
+    padding: 0 10px;
+}
+
+.conf-category-select .cat-list,
+.conf-category-select .cat-dest {
+    width: 150px;
+}
+
+.conf-product-select {
+    width: 500px;
+    float: left;
+    padding: 0 10px;
+}
+
+.conf-product-select .cat-list,
+.conf-product-select .prod-list,
+.conf-product-select .prod-dest {
+    width: 150px;
+}
+
+/* FIELDS */
+table.config-fields {
+    border-collapse: collapse;
+}
+
+.config-fields .tab {
+    cursor: pointer;
+    border: 1px solid #DFD5C3;
+    color: #996633;
+    font-weight: bold;
+}
+
+.config-fields .id {
+    width: 30px;
+}
+
+.config-fields .active {
+    width: 65px;
+}
+
+.config-fields .name {
+    width: 230px;
+}
+
+.config-fields .default {
+    width: 250px;
+}
+
+.config-fields .attribute_feature {
+    width: 250px;
+}
+
+.config-fields td.id,
+.config-fields td.active,
+.config-fields td.name,
+.config-fields td.default,
+.config-fields td.attribute_feature {
+    border-right: 1px dashed #DFD5C3;
+}
+
+.config-fields .alt-row td {
+    background-color: #FFFFDA;
+}
+
+/* LOG */
+#beezup-log-table {
+    border-collapse: collapse;
+}
+
+#beezup-log-table th {
+    text-align: center;
+}
+
+#beezup-log-table .date,
+#beezup-log-table .ip,
+#beezup-log-table .time {
+    text-align: center;
+}
+
+#beezup-log-table tr.alt-log-row td {
+    background-color: #FFFFDA;
+}
+
+#beezup-log-table tr.last td {
+    font-weight: bold;
+}
+
+#newFieldConfiguration .cache {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    opacity: 0.5;
+    z-index: 2000;
+}
+
+#newFieldConfiguration .form {
+    position: fixed;
+    z-index: 2001;
+    padding: 25px;
+    border-radius: 7px;
+    border: 3px solid #E0D0B1;
+    background-color: #FFF;
+}
+
+#fieldsetLog {
+    width: 48%;
+    float: left;
+}
+
+#fieldsetTest, #fieldsetDebug {
+    width: 43%;
+    float: left;
+    margin-left: 20px;
+}
+
+#fieldsetDebug {
+    margin-top: 20px;
+}
+
+#fieldsetTest label, #fieldsetDebug label {
+    width: 150px;
+}
+
+#fieldsetTest .margin-form, #fieldsetDebug .margin-form {
+    padding-left: 160px;
+}
+
+#beezup-tests .col-lg-1 {
+    text-align: center
+}
+
+#beezup-tests .col-lg-12 {
+    margin-bottom: 1.5em
+}
+
+#beezup-tests i {
+    background: transparent
+}
+
+.cleanup_messages a {
+    text-decoration: underline
+}

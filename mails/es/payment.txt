@@ -1,0 +1,15 @@
+Hola {firstname} {lastname},
+	
+En referencia a tu pedido #{id_order}: 
+
+El pago de tu pedido fue recibido CORRECTAMENTE.
+
+Consulta nuestra Guía Fácil si tienes que enviarnos tu archivo: http://www.originarte.com/guia-facil.html
+
+Puedes revisar tu pedido y descargar la factura desde tu cuenta de nuestra web en (historial de pedidos).
+
+{shop_name} - http://www.originarte.com
+
+Gracias por comprar en {shop_name}.
+
+http://www.originarte.com desarrollado con PrestaShop®

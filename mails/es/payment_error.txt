@@ -1,0 +1,23 @@
+Hola {firstname} {lastname},
+
+
+Hay un problema con tu pago para el pedido: #{id_order}. Por favor, ponte en contacto con nosotros en cuanto puedas.
+
+- Escríbenos a nuestro correo electrónico info@originarte.com
+
+- Llámanos al 934 852 652
+
+- Acércate a nuestras oficinas en C/ Valencia 663, Clot, Barcelona. Nuestro horario de atención al cliente es de 11 a 14h. y de 16.30 a 19.30h., de lunes a viernes.
+
+
+Tu pedido no será puesto en producción hasta que resolvamos este problema. 
+
+
+Puedes revisar tu pedido y descargar la factura desde tu cuenta de nuestra web en (historial de pedidos). 
+Si has ingresado con una cuenta de invitado, puedes conocer el estado de tu pedido en esta página: {shop_url}guest-tracking.php
+
+{shop_name} - http://www.originarte.com
+
+
+
+http://www.originarte.com desarrollado con PrestaShop®

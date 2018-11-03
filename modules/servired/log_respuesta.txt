@@ -1,0 +1,7 @@
+31-10-18   12:22:52
+Clave: 1s+4uaqnYd5DUXtqPPMrPEo8/Us1bcfT
+signatureRecibida: Hf4FJ-m-34DMOrnGFojObexKDS8U9SRA5sn45gWRGQ0=
+firma: Hf4FJ-m-34DMOrnGFojObexKDS8U9SRA5sn45gWRGQ0=
+respuesta: 184
+pedido: 3114
+total: 54.4500

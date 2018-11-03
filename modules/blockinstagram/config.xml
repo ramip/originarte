@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>blockinstagram</name>
+            <displayName><![CDATA[Block Instagram]]></displayName>
+            <version><![CDATA[1.1.0]]></version>
+            <description><![CDATA[Display Instagram pics from an account]]></description>
+            <author><![CDATA[C&eacute;dric Mouleyre]]></author>
+            <tab><![CDATA[]]></tab>
+            <is_configurable>1</is_configurable>
+            <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+        </module>

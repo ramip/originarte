@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<theme>
+	<version value="1.4">
+		<ccc available="true" />
+		<guest_checkout available="true" />
+		<one_page_checkout available="true" />
+		<store_locator available="true" />
+	</version>
+	<author>leotheme</author>
+	<name>Leo Default</name>	
+	<layouts>
+		<layout>default</layout>
+		<layout>main-left-right</layout>
+	</layouts>
+	<positions>
+		<position>userTop</position>
+		<position>leftColumn</position>
+		<position>rightColumn</position>
+		<position>contentTop</position>
+	</positions>	
+	<skins>
+		<skin>default</skin>
+		<skin>orange</skin>
+		<skin>red</skin>
+		<skin>green</skin>
+	</skins>
+</theme>

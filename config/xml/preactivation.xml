@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<partners>
+<partner>
+	<name><![CDATA[skrill2]]></name>
+	<module>skrill</module>
+	<checkconfiguration>
+		<key>MB_SECRET_WORD</key>
+	</checkconfiguration>
+	<logo><![CDATA[https://api.prestashop.com/partner/premium/images/skrill.png]]></logo>
+	<labels>
+		<label iso="en"><![CDATA[Skrill Checkout - sell globally and grow]]></label>
+		<label iso="fr"><![CDATA[Skrill Checkout - vendez dans le monde entier et prospérez]]></label>
+		<label iso="es"><![CDATA[Skrill Checkout – venda globalmente y crezca]]></label>	
+		<label iso="it"><![CDATA[Skrill Checkout - vendi in tutto il mondo e cresci]]></label>
+		<label iso="de"><![CDATA[Skrill Checkout - weltweit verkaufen und expandieren]]></label>
+		<label iso="pl"><![CDATA[Płać i odbieraj płatności na całym świecie]]></label>
+		<label iso="nl"><![CDATA[Skrill Checkout - internationaal verkopen en groeien]]></label>
+	</labels>
+	<optionals>
+	</optionals>
+	<descriptions>
+	</descriptions>
+</partner>
+<partner>
+	<name><![CDATA[cleverreach]]></name>
+	<module>cleverreach</module>
+	<checkconfiguration>
+		<key>NO_CHECK_REQUIRED_YET</key>
+	</checkconfiguration>
+	<logo><![CDATA[https://api.prestashop.com/partner/premium/images/cleverreach.png]]></logo>
+	<labels>
+		<label iso="en"><![CDATA[The clever choice. Click here & test now for free.]]></label>
+		<label iso="de"><![CDATA[Die clevere Alternative. Jetzt hier klicken & kostenfrei testen.]]></label>
+		<label iso="es"><![CDATA[La alternativa inteligente. Haga clic aquí ahora y pruebe gratis.]]></label>
+		<label iso="it"><![CDATA[La scelta intelligente. Clicca qui ed inizia subito la tua prova gratuita.]]></label>
+		<label iso="fr"><![CDATA[L´option intelligente. Cliquez maintenant & testez gratuitement.]]></label>
+	</labels>
+	<optionals>
+	</optionals>
+	<descriptions>
+	</descriptions>
+</partner>
+</partners>

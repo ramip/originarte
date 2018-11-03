@@ -1,0 +1,32 @@
+.applemenu {
+  margin: 5px auto;
+  padding: 0;
+  width: 90%; /*width of menu*/
+  font: normal 14px Tahoma, "Lucida Grande", "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.applemenu .faq_question {
+  background: #4569B1;
+  display: block;
+  position: relative; /*To help in the anchoring of the ".statusicon" icon image*/
+  width: auto;
+  padding: 5px 0;
+  padding-left: 8px;
+  text-decoration: none;
+  line-height: 30px;
+  color: white;
+}
+
+.applemenu .faq_question:visited, .applemenu .faq_question:active{
+}
+
+.applemenu div.selected, .applemenu .faq_question:hover {
+  background: #80AEFF;
+  font-weight:bold;
+}
+
+.applemenu .faq_answer { /*DIV that contains each sub menu*/
+  padding: 5px;
+  /*height: 300px; /*Height that applies to all sub menu DIVs. A good idea when headers are toggled via "mouseover" instead of "click"*/
+  background-color: #f0f8ff;
+}

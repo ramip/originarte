@@ -1,0 +1,259 @@
+@media (min-width: 979px) and (max-width: 1300px) {
+	.navbar .nav > li {margin-left:0}
+}
+@media (min-width: 979px) { 
+
+	 #topnavigation ul.nav > li.dropdown:hover > .dropdown-menu{
+		display: block;
+	}
+}
+@media (max-width: 979px) {
+	
+	.nav-collapse  .iopen > .dropdown-menu {display: block; background:transparent!important}
+	.navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus, 
+	.navbar .nav > li > a:focus,navbar .nav > li > a:hover, .navbar .nav > li > a:focus, .navbar .nav > li > a:hover
+	{background:transparent!important}
+	.navbar .btn-navbar, .navbar .btn-navbar:hover {background: #f25d3c; border: 0}
+	.navbar {margin:0}
+	.navbar .nav > li { border-left:none; border-right:none}
+	.nav-collapse .nav li:last-child {border-bottom:0!important}
+	.nav-collapse .nav > li > a, .nav-collapse .dropdown-menu a{color:#000!important;}
+	.megamenu .caret{top:3px!important;  border-bottom-color: transparent; border-top-color: transparent; z-index:999}
+	.breadcrumb{clear:both;padding-top:10px;}
+	.navbar .nav li.dropdown.open > .dropdown-toggle, .navbar .nav li.dropdown.active > .dropdown-toggle, .navbar .nav li.dropdown.open.active > .dropdown-toggle
+	{background:transparent!important}
+	.megamenu .mega-group > a .menu-title{text-transform:none!important;font-size:15px; color:#393939}
+	.nav-collapse .nav > li{border-bottom:1px dashed #d4d4d4; line-height:25px !important}
+	.nav-collapse .nav > li:hover{background:transparent!important}
+	.nav-collapse .nav > li > a:hover, .nav-collapse .dropdown-menu a:hover{margin-top:0!important; background:transparent!important;color:#000!important;}
+	.nav-collapse .nav{background:#fff;margin-top:12px!important}
+	
+	.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus, .dropdown-submenu:hover > a, .dropdown-submenu:focus > a {background:transparent}
+	.nav-collapse .nav > li > a, .nav-collapse .dropdown-menu a
+	{padding:5px 10px!important; font-weight:normal!important;font-size:14px;display: block; margin-top:0 !important}
+	.navbar .nav > li > a {background:none!important}
+	.navbar .nav > li > a:focus:after, .navbar .nav > li.active > a:after, .navbar .nav > li > a:hover:after, .navbar .nav > li > a:active:after {display:none}
+	.nav-collapse .nav {padding-bottom:1px; margin-bottom:0!important; border-bottom:1px solid #e8ebf0}
+	
+	.custom_new .readmore_new .pull-right a{color:#fff!important}
+	
+	.lp_other .block .s_title_block, .lp_other  .s_title_block, .lp_other .s_title_block a, .lp_other .block .s_title_block a{margin-top:0;}
+	.megamenu ul li {line-height:18px!important}
+
+	.caret {
+    border-radius: 3px 3px 3px 3px;
+    color: #555555;
+    cursor: default;
+    display: block;
+    float: right;
+    font-size: 14px;
+    font-weight: 700;
+    height: 18px;
+    line-height: 15px;
+    margin-top: 3px;
+    padding: 0;
+    text-align: center;
+    width: 14px;
+	height:14px;
+	background:url("../img/default/caret_open.png") center center no-repeat}
+
+	.iopen .caret {background:url("../img/default/caret_close.png") center center no-repeat;}
+	 
+	.navbar .nav li.dropdown.open > .dropdown-toggle .caret, .navbar .nav li.dropdown.active > .dropdown-toggle .caret, .navbar .nav li.dropdown.open.active > .dropdown-toggle .caret,
+	.nav li.dropdown.open .caret, .nav li.dropdown.open.active .caret, .nav li.dropdown.open a:hover .caret, .nav li.dropdown.open a:focus .caret,
+	.navbar .nav li.dropdown > a:hover .caret, .navbar .nav li.dropdown > a:focus .caret
+	{border-bottom-color:transparent; border-top-color:transparent;}
+	#header {padding-bottom:0}
+	.nav-collapse .nav > li .custom_new .title_customnew a {padding-left:0!important}
+	
+	/**************************End-Nav***************************/
+
+	#your_account {margin-left:20px}
+	#more_info_sheets  {padding:20px 20px 20px 0}
+	.dropdown-submenu > .dropdown-menu {background:transparent!important}
+	
+	#bottom .container {padding-bottom:20px!important}
+	.container {width:100%!important; border:0!important; padding:0!important}
+	.cms-wrapper {padding:0 20px}
+	#header .header .container {padding:30px 0px!important}
+	#topnavigation {margin: 0; padding: 0}
+	.breadcrumb {margin-left:20px}
+	.copyright, .footnav .block_content{text-align:center}
+	.footnav {padding:10px 20px 20px 20px}
+	.title_category {padding:0 10px}
+	#header .topbar .container > div, .navbar {margin:0 0}
+	body {padding-left: 0 !important; padding-right: 0 !important}	
+	#footer-bottom  .span6 {width:100%!important}		
+	.footer .container{border-bottom:1px solid #DCDCDC!important}
+	#footer-bottom .container{border-top:0}
+	.lofadva-block-1 {margin-left:20px}
+	.lof-cmssticker-default {display:none}
+	#header .topbar .container > div {margin:0; padding:0}
+	.leo_logo #header_logo {margin-left:20px}
+	#currencies_block_top {margin-right:20px}
+	.block-search-top {top:130px; right:48%;}
+	#productTabs {height: auto}
+	#lofadva-pos-2 .lofadva-block-1 p {margin-bottom:0}
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+	
+	.lofadvafooter .lof-block { width: 30% !important}
+	#lofadvafooterfooter .lof-position-wrap .lof-block:first-child {padding-left:30px}
+	#thumbs_list {width:169px; margin-left:25px!important}
+	.product_block .right_block {padding: 10px 5px}
+	#leosocial_block h2 {margin:10px 0 0 20px}
+	#leosocial_block ul {margin-top:10px}
+	#special_block_right .products span.price {margin-top:15px;}
+}
+
+@media (max-width: 800px)
+{
+	#footer-bottom .copyright {position:static!important; margin:20px 0 10px 0}
+}
+@media (max-width: 767px){
+
+	#header_user {float:none; background:#22282C; padding: 10px 20px; text-align:center}
+	#languages_block_top {float: left; margin:15px 0 10px 20px}
+	#currencies_block_top {float: right; margin:15px 20px 10px 0}
+	#shopping_cart {padding-left:0}
+	#header_nav {top:192px; margin-left:32%; right:auto}
+	#search_block_top {top:278px}
+	#header #cart_block {top:219px}
+	.leo_logo {position: static; text-align: center;}
+	.leo_logo #header_logo {margin:0 auto}
+	.topbar .container a {color:#CECFD4}
+	#header_user_info {width: 100%; padding-bottom:20px; display: block; position: absolute; left:0; top:38px; z-index: 9999;  border:0; background:#22282C}
+	#header_user_info .nav-item {float:none; padding-left:0}
+	#your_account {margin-left:0}
+	#leo-button3 {padding-left:0!important}
+	#search_block_top {top:205px; right:20px}
+	/***************End-Header*********************/
+
+	#more_info_sheets  {padding:20px}
+	.product-container .lnk_more, .product-container .lnk_view {background-position:45% -66px}
+	.product-container .box-wishlist, .product-container .box-wishlist:hover {background-position: 45% 0}
+	#leo-customhtml-slideshow .leo-adv-top img{width:100%}
+	.readmore_new  {margin-bottom:10px}
+	.view-tenth {margin-bottom: 20px}
+	.view-tenth img {width:100%}
+	#lofadvafooterfooter .lof-position-wrap .lof-block:first-child {padding-left:30px}
+	#bottom .container > div > div {margin: 0 0!important}
+	
+	#leosocial_block {padding:0}
+	#productTabs > li {padding-bottom:20px}
+	#pb-left-column h1, #usefull_link_block, #pb-left-column #view_full_size,#buy_block, .short_description_block {padding-left:20px; padding-right:20px}
+	#header #cart_block {left:0; width:100%; top:220px}
+	.right_block {display:block!important; text-align:center}
+	
+	/*Modificado Vane para móviles*/
+	/*Header*/
+	.topbar{display: none}
+	#topminibasket{display: none}
+	.container h1 {display: none}
+	#header{position:absolute;width: 100%;left:-17px;text-align:center;box-shadow:0px 2px 8px #666}
+	#header .header .container{padding:8px 0!important;background: #efefef;border:none}
+	#header_logo img{width:auto}
+	#header_logo img{height:35px}
+	#topnavigation{width:20%;float: left;position:relative;z-index:11}
+	.navbar-inner {background: #efefef!important; height:51px;box-shadow:none}
+	.navbar .btn-navbar, .navbar .btn-navbar:hover{background:#efefef}
+	.navbar .btn-navbar .icon-bar{background-color:#333333}
+	#contacto{display:block;float:right;width:25%;padding-right:10px;text-align:right;background:#efefef;position:relative;z-index:11}
+	#breadcrumb{display: none}
+	/*Menu*/
+	.dropdown-mega.level1{display: none}
+	/*Slide*/
+	.carousel.hidden-phone.leobttslider{display:block!important}
+	/*Contenido*/
+	#left_column{display: none}
+	h3.title_block, .home_categories h2{text-align:center}
+	div.home_categories li{width:auto}
+	/*Addons*/
+	div.zopim{visibility: hidden}
+	/*Proceso de compra*/
+	table#cart_summary{overflow-x:auto;display: block;}
+	#giftbox{width:97%;margin:0 auto; float:none;}
+	#carrier_area{width:97%;margin:0 auto; float:none;}
+	/*Contacto*/
+	.contact-data .contact-left {width:97%;margin:0 auto; float:none;}
+	.contact-data .contact-right {width:97%;margin:15px auto 0; float:none;}
+	/*Blog*/
+	#blog_list li{
+		width:47%;
+		height:auto;
+	}
+	#blog_list a{
+		width:100%;
+	}
+	#blog_list .block_gauche img{
+		width:100%;
+	}
+	}
+
+@media (min-width: 600px) and (max-width: 767px) {
+	.lofadvafooter .lof-block { width: 40% !important}
+	#header_logo img {margin-top:0px!important}
+	.megamenu .cols3 {min-width:inherit!important}
+}
+
+@media (max-width: 600px) {
+
+	ul.step li {width:100%}
+	.megamenu .cols3 {min-width:inherit!important}
+	.block-search-top {right:20px;top:196px}
+	.lofadvafooter .lof-block { width: 100% !important}	
+	.megamenu .cols3 {min-width:inherit!important}
+	#header_user_info a {background: transparent;}
+	#header_user_info .nav-item {margin-top:5px}
+	#header_user_info .nav-item { padding:0}
+	#header_user_info  {text-align:center}
+	#setCurrency #nav-item-content{position:absolute; top:19px; display:block}
+	#currencies_block_top li {background-position:5px -16px; margin-left:0}
+	#currencies_block_top li:hover {background-position:5px 8px}
+	.login_userinfo {float: none; width:auto;}
+	#first-languages{position: relative;}
+	.ajax_cart_no_product {text-align:center; padding-left:0}
+	#lofadvafooterfooter .lof-position-wrap .lof-block{width:100%!important}
+
+}
+@media (min-width: 480px) and (max-width: 570px) {
+	#header_nav {top:190px; margin-left:20%; right:auto}
+}
+@media (max-width: 480px) {
+	#pb-right-column #image-block #view_full_size .span_link {width:70%; left:10%}
+	#search_block_top {top:265px}
+	#lofadvafooterfooter .lof-position-wrap .lof-block{padding-left:20PX}
+	#lofadvafooterfooter .lof-position-wrap .lof-block:first-child {padding-left:0px}
+	.leo_logo {text-align:center}
+	#header_logo {display:inline-block}
+	.camera_pag{display:none}
+	.login_cart {width:100%}
+	#searchbox {text-align:center}
+	.form-search {border:0; height:35px; float:none; display:inline-block}
+	.subcategories-container .right_block  {text-align:center}
+	.p-item p.compare input {float:none!important}
+	#blog_list li{
+		width:100%;
+	}
+}
+
+@media (max-width: 400px) {
+	#header_nav {top:186px; margin-left:26%}
+	#header #cart_block {top:210px}
+	.topbar .container > div {padding-top:0}
+	.block-search-top { top: 220px}
+	.nav-item {padding-left: 0}
+	.view-tenth h2  {margin-top:0px; padding:5px}
+	#your_account {margin-left:0}
+}
+
+@media (max-width: 320px) {
+	#thumbs_list {margin-left:10px}
+	.control-group .controls select {margin-top:5px !important}
+	.form-search {border:0}
+	#buy_block p#old_price {clear:both}
+	#productsview {margin-top:10px;text-align:right}
+	.ajax_cart_no_product {padding-left:25px}
+}	
+

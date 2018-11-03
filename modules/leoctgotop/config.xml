@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>leoctgotop</name>
+            <displayName><![CDATA[Muestra Ir arriba Custom]]></displayName>
+            <version><![CDATA[1.1]]></version>
+            <description><![CDATA[Mostrar Custom HTML, Soporte Todos los ganchos]]></description>
+            <author><![CDATA[leotheme]]></author>
+            <tab><![CDATA[]]></tab>
+            <is_configurable>1</is_configurable>
+            <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+        </module>

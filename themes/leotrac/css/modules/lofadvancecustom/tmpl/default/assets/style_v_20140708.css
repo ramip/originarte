@@ -1,0 +1,53 @@
+#footer a, #footer {color:#7e7f80}
+#footer-bottom , #footer-bottom a {color:#b9bcbd}
+#lofadvafooterfooter{}
+#lofadvafooterfooter li {line-height:27px}
+#lofadvafooterfooter li a{color:#979797}
+#lofadvafooterfooter .lof-position-wrap { }
+#lofadvafooterfooter .lof-position-wrap .lof-block { padding-left:50px; overflow:hidden}
+#footer .container .nice-columns{background: url(images/bg-style.png) repeat-x}
+	#lofadvafooterfooter .lof-position-wrap .lof-block:first-child
+	{
+		padding-left:0
+	}
+	.lof-block:last-child .lof-block-wrap  {padding-right: 0}
+#lofadvafooterfooter h2
+{
+	font-weight:600; color:#2e3039
+}
+#lofadvafooterfooter h2:hover {color:#21a6df}
+.lof-position .lof-items {margin-top:10px; display:inline-block}
+.lofadva-pos-1 .lof-items {margin-top:20px}
+.add_phone {}
+/********* POSITION 2 *******************/
+#lofadva-pos-1{padding:20px 0 10px 0}
+#lofadva-pos-1 .lof-text {font-style:italic}
+#lofadva-pos-2 {  
+		padding: 15px 0 20px 0;
+		border-top:1px solid #dfe0e4;
+	}	
+	.lofadva-block-4 .lof-block-wrap {padding-right:0;}
+	#lofadva-pos-2 .lofadva-block-1 p { margin-bottom: 5px; line-height: 20px; padding-top: 5px}
+	.lof-text p.leo-telephone{display:block; background:url(images/img_about_1.png) no-repeat;
+    height: 25px; 
+	padding:0 0 0 40px;
+	}
+	.lof-text p.leo-telephone:hover {background:url(images/img_about_1_hover.png) no-repeat;}
+	.lof-text p.leo-fax:hover {background:url(images/img_aboutt_2hover.png) no-repeat;}
+	.lof-text p.leo-fax{display:block; background:url(images/img_abuotnt_2.png) no-repeat;
+    height: 25px; 
+	padding:0 0 0 40px}
+	.lof-text p.leo-mail:hover {background:url(images/img_about_3hover.png) no-repeat;}
+	.lof-text p.leo-mail {display:block; background:url(images/img_about_3.png) no-repeat;
+    height: 25px; 
+	padding:0 0 0 40px}
+#lofadvafooterfooter .lof-items li.link a{background:url(images/bg-lifooter.png) left center no-repeat; padding-left:15px}
+/*************** POSTION 3**************************/
+#footer .copyright a{
+	color:#21a6df;
+	font-weight:bold
+}
+.add_phone {font-size:20px; font-weight:600; color:#4a4a4a; font-style:none}
+#newsletter_block_left .title_block {display:none}
+.no-margin {margin-top:0}
+.text_abount_ft {font-style:italic}

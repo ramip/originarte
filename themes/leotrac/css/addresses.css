@@ -1,0 +1,111 @@
+div.addresses {
+   position:relative;
+   padding:15px;
+   border:1px solid #ccc;
+	font-size:12px;
+   background:#f8f8f8
+}
+
+ul.address {
+   list-style-type:none;
+
+   position:relative;
+ 
+}
+#address_delivery { }
+#address_invoice {margin-right:0}
+#delivery_address { }
+
+ul.address li {
+	padding:0 15px;
+	font-weight:bold;
+	line-height:18px;
+	text-transform:uppercase;
+	padding:7px 5px;
+}
+#order-detail-content a
+{
+	color:#8b8b8b;
+}
+#order-detail-content a:hover
+{
+	color:#393939;
+}
+#order-detail-content a.cart_quantity_delete
+{
+	color:#D62529;
+	background:#CCCCCC;
+}
+ul.address li.address_title {
+   height: 35px;
+   font-weight: bold;
+   line-height:35px;
+   padding:0px 0px 0px 10px;
+}
+ul.address >li:first-child + li {
+	margin-top:8px
+}
+ul.address  li.address_update {
+	margin-top:20px
+}
+ul.address  li.address_update,
+ul.address li.address_delete {
+	font-size:11px;
+   text-transform:none
+}
+
+.address_add {
+   padding:20px 0
+}
+
+.address_select {
+	border:1px solid #ccc;
+	width: 200px;
+	margin-left: 10px;
+}
+label[for=id_address_delivery], label[for=id_address_invoice] {
+	float: left;
+	width: 225px;
+	margin-top:5px
+}
+.addressesAreEquals label {
+	margin-left: 5px;
+}
+.addressesAreEquals input {
+	float: left;
+	margin-top:3px
+}
+p.address_delivery, p.addressesAreEquals {
+	padding-bottom: 14px
+}
+
+/* PAGE ADRESSES ******************************************************************************* */
+.addresses ul.address {
+   list-style-type:none;
+
+   position:relative;
+
+}
+.addresses ul.address.alternate_item,
+.addresses ul.address.last_item {margin-right:0}
+.addresses ul.address li {
+	padding:0 15px;
+	font-weight:bold;
+	line-height:18px;
+	text-transform:uppercase
+}
+.addresses ul.address .address_title {
+	margin-bottom:5px;
+	height: 29px;
+   font-weight: bold;
+   line-height:29px;
+   color:#fff;
+   background:#95c284
+}
+.addresses ul.address .address_update {margin-top:20px}
+.addresses ul.address .address_update,
+.addresses ul.address .address_delete {
+	font-size:11px;
+   text-transform:none
+}
+

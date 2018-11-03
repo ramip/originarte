@@ -1,0 +1,2 @@
+*ERROR* 	2018/06/11 - 12:56:48: The database selection cannot be made. at line 41 in file classes/db/MySQL.php
+*ERROR* 	2018/06/11 - 12:56:52: The database selection cannot be made. at line 41 in file classes/db/MySQL.php

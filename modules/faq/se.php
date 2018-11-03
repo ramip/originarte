@@ -1,0 +1,34 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{faq}prestashop>faq-column_6ec13bf7fe1d0a7d1a77ba64fb44e4c3'] = 'F.A.Q. - Vanligt förekommande frågor';
+$_MODULE['<{faq}prestashop>faq-column_ae75734d8994b5f3f6f0ca157e22f2f1'] = 'Behöver du hjälp?';
+$_MODULE['<{faq}prestashop>faq-column_95c8921b8829ab11c3d1a437ffc28dcf'] = 'FAQ-avdelning';
+$_MODULE['<{faq}prestashop>faq-column_488e1af630657ef4646115d9f5a5f89a'] = 'Gå till FAQ-avdelningen';
+$_MODULE['<{faq}prestashop>faq-footer_6ec13bf7fe1d0a7d1a77ba64fb44e4c3'] = 'Vanligt förekommande frågor';
+$_MODULE['<{faq}prestashop>faq-top_6ec13bf7fe1d0a7d1a77ba64fb44e4c3'] = 'Vanligt förekommande frågor';
+$_MODULE['<{faq}prestashop>faq_518e5b6d36a9f00e2768db8c875eb585'] = 'Lägger till en modul för att hantera FAQ på webbplatsen';
+$_MODULE['<{faq}prestashop>faq_9a684f829ed410a9f827c90d6881cc8e'] = 'Alla frågor och svar kommer att raderas. Vill du verkligen avinstallera FAQ-modulen?';
+$_MODULE['<{faq}prestashop>faq_9e736628a5792b8cc7db7b479e21834f'] = 'Du måste fylla i en fråga.';
+$_MODULE['<{faq}prestashop>faq_b885f2f1be25ccf36660c1dec3d70b3b'] = 'Frågan har lagts till';
+$_MODULE['<{faq}prestashop>faq_032bb6ae9e4cc8e82a4e0c007fe7ad49'] = 'Ett fel inträffade när frågan skapades';
+$_MODULE['<{faq}prestashop>faq_594bad2cd7dcfbda5013383411eaa229'] = 'Ett fel inträffade när frågan uppdaterades';
+$_MODULE['<{faq}prestashop>faq_73b93a2d088a3a154a5a67cc2b26dc1f'] = 'Frågan har uppdaterats';
+$_MODULE['<{faq}prestashop>faq_cd7f9839801e5e91f09797c4c4aae7c8'] = 'Ett fel inträffade när frågan raderades';
+$_MODULE['<{faq}prestashop>faq_c053003d0958ff6646cddc1088841fec'] = 'Frågan har skapats';
+$_MODULE['<{faq}prestashop>faq_a97ea56b0e00b2379736ae60869ff66a'] = 'Fråga';
+$_MODULE['<{faq}prestashop>faq_d093f58d7b4d5a375b2fc0e5bd88258a'] = 'Fråga:';
+$_MODULE['<{faq}prestashop>faq_d11414adffd84b43e3d0d0e6cb76fbee'] = 'Svar:';
+$_MODULE['<{faq}prestashop>faq_a458be0f08b7e4ff3c0f633c100176c0'] = 'Infoga';
+$_MODULE['<{faq}prestashop>faq_3156ee6e16b22b16d02ef17d0c9db5ef'] = 'Ändra FAQ:en';
+$_MODULE['<{faq}prestashop>faq_0de8a733bd26d3d5f08cac1796ca90b0'] = 'Det finns inga frågor än';
+$_MODULE['<{faq}prestashop>faq_09b679f95ba9902dc3c1b743e54a314d'] = 'FAQ-lista';
+$_MODULE['<{faq}prestashop>faq_06df33001c1d7187fdd81ea1f5b277aa'] = 'Val';
+$_MODULE['<{faq}prestashop>faq_948a2e3548aaf7f9941a3192fa607d51'] = 'Tack till';
+$_MODULE['<{faq}prestashop>faq_db15c7f2f249bdac10c3ddbbde081895'] = 'Den här modulen hostas på';
+$_MODULE['<{faq}prestashop>faq_4a14ba87ad9e1e5125aac605b1850033'] = 'Återkoppla gärna, rapportera eventuella buggar, eller annat till relevant tråd på PrestaShops forum.';
+$_MODULE['<{faq}prestashop>faq_d11755e80d72f24f0994c6841b06cbdd'] = 'Om du översätter modulen till ditt språk, vänligen ladda upp språkfilen till PrestaShops forum. Hjärtligt tack för hjälpen!';
+$_MODULE['<{faq}prestashop>faq_3c27fd116cc7e6c594c0cb3f4d2ff09f'] = 'Lista på översättare!';
+$_MODULE['<{faq}prestashop>faq_6ec13bf7fe1d0a7d1a77ba64fb44e4c3'] = 'FAQ - Vanligt förekomande frågor';
+$_MODULE['<{faq}prestashop>faq_2d95c81cf2f5fa35227a71ea0748ef16'] = 'Inga frågor än.';

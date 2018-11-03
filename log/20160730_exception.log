@@ -1,0 +1,5 @@
+*ERROR* 	2016/07/30 - 00:47:21: Method is not defined at line 295 in file controllers/front/OrderOpcController.php
+*ERROR* 	2016/07/30 - 02:37:58: Method is not defined at line 295 in file controllers/front/OrderOpcController.php
+*ERROR* 	2016/07/30 - 10:17:47: Link to database cannot be established. at line 38 in file classes/db/MySQL.php
+*ERROR* 	2016/07/30 - 10:17:50: Link to database cannot be established. at line 38 in file classes/db/MySQL.php
+*ERROR* 	2016/07/30 - 10:59:54: Method is not defined at line 295 in file controllers/front/OrderOpcController.php

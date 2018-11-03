@@ -1,0 +1,9 @@
+div.home_categories{margin-bottom: 5px}
+div.home_categories h2{display:none;margin:20px 0 10px; color:#3E4141;border-bottom:1px solid #E5E5E5;font-size:16px;font-weight:600;line-height:42px;text-transform:uppercase}
+div.home_categories .cr{clear: both;border: 0px none}div.home_categories ul{text-align:left;list-style:none}
+div.home_categories img{width:100%;margin-bottom:10px}
+div.home_categories ul{margin-top:25px;width:100%}
+div.home_categories li{float:left;margin:5px;width:22.4%;min-height:30px;padding:5px 5px 15px;text-align:center}
+div.home_categories a{color:#3E4141;font-size:14px;font-weight:600;}
+div.home_categories h5 a:hover{text-decoration:underline;}
+div.home_categories div{width:100%;}

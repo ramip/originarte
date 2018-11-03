@@ -1,0 +1,76 @@
+/* Block specials */
+#special_block_right p {
+	padding-bottom:0;
+	font-weight:bold;
+	text-align:right
+}
+#special_block_right li.product_image { padding-right:0}
+#special_block_right .products li {
+	border:none;
+}
+#special_block_right li .s_title_block, #special_block_right li h5 {
+	padding:0 0 3px 0;
+	text-align:left;
+	margin-bottom:0
+}
+#special_block_right .products span.price-discount {
+	font-size:13px;
+	text-decoration:line-through; 
+	color:#6e6f70
+}
+#special_block_right .products span.reduction {
+	position:absolute;
+	right:-15px;
+	background:transparent;
+	top:20px;
+} 
+	#special_block_right .products span.reduction span {
+		border: 1px solid #21A6DF;
+		border-radius: 100% 100% 100% 100%;
+		color: #21A6DF;
+		padding: 3px 3px;
+		position: relative;
+		right: 5px;
+		background:transparent
+	}
+#special_block_right .products span.price {
+	display:block;
+	padding:3px 0 0 0;
+	font-size:15px;
+	font-weight:600;
+	color:#F94B4B
+}
+
+.box-product .image img {
+    width: 100%;
+}
+a img {
+    border: medium none;
+}
+
+a:hover, a:focus {
+    color: #21A6DF;
+}
+a, a:visited, a b {
+    cursor: pointer;
+}
+.product-block .image {
+    text-align: center;
+}
+.fs12 {
+    font-size: 12px;
+}
+.leospecials li {display:block}
+.leospecials  .product_image a {float:left; margin-right:5px}
+.product_image {position:relative}
+.leospecials .title_block:before{
+    content: "";
+    display: block;
+    height: 65px;
+    position: absolute;
+    right:-4px;
+    top: -4px;
+    width: 65px;
+	background:url(img/icon_hot.png) no-repeat top right
+}
+.leospecials .block_content ul{border-bottom:1px solid #E5E5E5; padding-bottom:10px; margin-bottom:10px}

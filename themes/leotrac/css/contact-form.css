@@ -1,0 +1,61 @@
+
+	#contact  fieldset {
+		padding:12px;
+		border:1px solid #ccc;
+	}
+		#contact fieldset h3 {margin:0 0 10px;}
+		#contact #center_column p {margin:0; padding:0 0 10px 0;}
+		#contact #center_column p.desc_contact { padding: 10px 0 0 10px;font-size:12px}
+		
+		#contact p.text label,
+		#contact p.select label,
+		#contact p.select span,
+		#contact p.textarea label {
+			display:inline-block;
+			padding:6px 15px;
+			/*width:150px; 180 */
+			font-size:12px;
+			text-align:right
+		}
+		#contact p.textarea label {vertical-align:top}
+		#contact p.text input,
+		#contact p.select input {
+			padding:0 5px;
+			height:30px;
+			width:220px;/* 270 */
+			border:1px solid #ccc;
+			font-size: 12px;
+			color:#666;
+			line-height:17px;
+		}
+		#contact p.select select {
+			margin-right:10px;
+			border:1px solid #ccc;
+			font-size: 12px;
+			color:#666
+		}
+		#contact p.textarea textarea {
+			height:80px;
+			width:270px;
+			border:1px solid #ccc;
+			font-size: 12px;
+			color:#666
+		}
+		#contact p.submit input {margin-left:185px;}
+		
+		.contact-data{width:100%}
+		.contact-left{
+			width:58%;
+			float:left
+		}
+		.contact-right{
+			width:38%;
+			float:right;
+		}
+		.contact-right p{
+			line-height:22px;
+		}
+		.contact-right span{
+			color:#3e4141
+		}
+

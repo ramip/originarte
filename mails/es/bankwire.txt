@@ -1,0 +1,18 @@
+Hola {firstname} {lastname},
+
+Tu pedido #{id_order} ha sido recibido correctamente y será puesto en producción en cuanto recibamos el pago.
+Para enviarnos tu archivo consulta nuestra Guía Fácil: http://www.originarte.com/guia-facil.html
+Por favor, recuerda que has seleccionado transferencia bancaria. Envíala a:
+
+{bankwire_owner}
+
+{bankwire_details}
+
+Total Pedido: {total_paid}
+
+Puedes revisar tu pedido y descargar la factura desde tu cuenta de nuestra web en (sección "Historial de Pedidos").
+Si te has registrado como invitado, puedes saber el estado de tu pedido desde la sección {shop_url}guest-tracking.php en nuestra web.
+
+Muchas gracias por comprar en {shop_name}.
+
+{shop_name} - http://www.originarte.com

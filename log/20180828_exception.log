@@ -1,0 +1,2 @@
+*ERROR* 	2018/08/28 - 13:54:19: Method is not defined at line 295 in file controllers/front/OrderOpcController.php
+*ERROR* 	2018/08/28 - 19:11:35: Property CartRule->reduction_percent is not valid at line 837 in file classes/ObjectModel.php

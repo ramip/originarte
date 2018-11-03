@@ -1,0 +1,58 @@
+/* block top currencies */
+
+#currencies_block_top
+{
+	background:#fff;
+    float: right;
+	height:20px;
+	padding-right:8px;
+	border-radius: 2px 2px 2px 2px;
+	border:1px solid #d6d6d6;
+	margin-left:10px;
+	padding:0;
+	display:inline-block;
+	min-width:99px;
+	color:#5a5a5a
+	
+}
+#currencies_block_top span {padding:0 5px 0 0}
+#currencies_block_top .block-cur-languages
+{
+	  padding:0 10px 10px;
+}
+
+#currencies_block_top ul#first-currencies li {
+	margin:0 2px 0px 7px;
+}
+#currencies_block_top ul li a {opacity:0.5}
+#currencies_block_top ul li a:hover {opacity:1;}
+/*languages with jquery*/
+#setCurrency {
+	cursor: pointer;
+	position: relative;
+	top: 1px;
+}
+#setCurrency p img {
+	padding-left: 5px;
+}
+#setCurrency .currencies_ul{
+	display:none;
+    position: absolute;
+    top:19px;
+    z-index: 5000;
+	list-style-type:none;
+	background:#fff;
+	min-width:89px;
+	left:-1px;
+	border-radius: 0 0 5px 5px;
+	border:1px solid #d6d6d6;
+	border-top:0
+}
+#setCurrency .currencies_ul_hover{
+	display:block;
+	z-index: 5000;
+	padding:5px;
+	height:auto;
+    width: auto;
+}
+#setCurrency  .first-item{background:url(img/arrow.png) right 8px no-repeat; float:left; color: #c1c1c1; padding:0px 6px 0px 0px;text-align: left; width:97%}

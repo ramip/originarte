@@ -1,0 +1,2 @@
+*ERROR* 	2016/05/15 - 06:57:08: MySQL server has gone away<br /><br /><pre>SELECT *
+				FROM `ps_leohook` WHERE theme="leotrac" AND id_shop=1</pre> at line 609 in file classes/db/Db.php

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>beetailer</name>
+            <displayName><![CDATA[Beetailer]]></displayName>
+            <version><![CDATA[3.8.4]]></version>
+            <description><![CDATA[Beetailer es un servicio que te permite mostrar y promocionar tus productos en Facebook y en otras redes sociales.]]></description>
+            <author><![CDATA[Beeshopy Inc.]]></author>
+            <tab><![CDATA[social_networks]]></tab>
+	<confirmUninstall>¿Está seguro que quiere eliminar el módulo?</confirmUninstall>
+            <is_configurable>1</is_configurable>
+            <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+        </module>

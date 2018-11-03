@@ -1,0 +1,18 @@
+*ERROR* 	2014/07/30 - 17:36:25: Unknown column 'cs.position' in 'order clause'<br /><br /><pre>
+  SELECT c.*, cl.*
+  FROM `ps_category` c
+  LEFT JOIN `ps_category_lang` cl ON (c.`id_category` = cl.`id_category` AND `id_lang` = 3)
+  LEFT JOIN `ps_category_group` cg ON (cg.`id_category` = c.`id_category`)
+  WHERE level_depth > 1 And level_depth < 3
+  AND c.`active` = 1
+  AND cg.`id_group` = 3
+  ORDER BY `level_depth` ASC, cs.`position` ASC</pre> at line 609 in file classes/db/Db.php
+*ERROR* 	2014/07/30 - 17:37:04: Unknown column 'cs.position' in 'order clause'<br /><br /><pre>
+  SELECT c.*, cl.*
+  FROM `ps_category` c
+  LEFT JOIN `ps_category_lang` cl ON (c.`id_category` = cl.`id_category` AND `id_lang` = 3)
+  LEFT JOIN `ps_category_group` cg ON (cg.`id_category` = c.`id_category`)
+  WHERE level_depth > 1 And level_depth < 3
+  AND c.`active` = 1
+  AND cg.`id_group` = 3
+  ORDER BY `level_depth` ASC, cs.`position` ASC</pre> at line 609 in file classes/db/Db.php

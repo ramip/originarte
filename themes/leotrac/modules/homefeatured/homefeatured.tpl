@@ -1,0 +1,190 @@
+{*
+* 2007-2013 PrestaShop
+*
+* NOTICE OF LICENSE
+*
+* This source file is subject to the Academic Free License (AFL 3.0)
+* that is bundled with this package in the file LICENSE.txt.
+* It is also available through the world-wide-web at this URL:
+* http://opensource.org/licenses/afl-3.0.php
+* If you did not receive a copy of the license and are unable to
+* obtain it through the world-wide-web, please send an email
+* to license@prestashop.com so we can send you a copy immediately.
+*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+* versions in the future. If you wish to customize PrestaShop for your
+* needs please refer to http://www.prestashop.com for more information.
+*
+*  @author PrestaShop SA <contact@prestashop.com>
+*  @copyright  2007-2013 PrestaShop SA
+*  @license    http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+*  International Registered Trademark & Property of PrestaShop SA
+*}
+
+ {assign var='limit' value=6}
+ {assign var='columnspage' value=3}
+ {assign var='tabname' value='homefeatured'}
+
+{*print_r('<PRE>')}
+{print_r($productsAttributes)}
+{print_r('</PRE>')*}
+
+<!-- MODULE Home Featured Products -->
+<div id="featured-products_block_center" class="block products_block orange clearfix">
+	<h3 class="title_block">
+		<span>
+			{l s='Featured products' mod='homefeatured'}
+		</span>
+		
+	</h3>
+	{if isset($products) AND $products}
+		<div id="product_list" class="block_content">
+			
+			{assign var='liHeight' value=250}
+			{assign var='nbItemsPerLine' value=4}
+			{assign var='nbLi' value=$products|@count}
+			{math equation="nbLi/nbItemsPerLine" nbLi=$nbLi nbItemsPerLine=$nbItemsPerLine assign=nbLines}
+			{math equation="nbLines*liHeight" nbLines=$nbLines|ceil liHeight=$liHeight assign=ulHeight}
+			
+			
+			<div style="min-height:{$ulHeight}px;" class="row-fluid">
+			{foreach from=$products item=product name=homeFeaturedProducts}
+
+				{if $product@iteration%$columnspage==1&&$columnspage>1}
+					  <div class="row-fluid">
+				{/if}
+					
+
+				{math equation="(total%perLine)" total=$smarty.foreach.homeFeaturedProducts.total perLine=$nbItemsPerLine assign=totModulo}
+				{if $totModulo == 0}{assign var='totModulo' value=$nbItemsPerLine}{/if}
+
+				<div class="p-item span4 ajax_block_product product_block">
+
+					<div class="product-container clearfix">
+						
+						<div class="center_block">
+							<div class="bg_div_hide"></div> 
+							<a href="{$product.link|escape:'html'}" title="{$product.name|escape:html:'UTF-8'}" class="product_image"><img src="{$link->getImageLink($product.link_rewrite, $product.id_image, 'home_default')}" alt="{$product.name|escape:html:'UTF-8'}" />{if isset($product.new) && $product.new == 1}<span class="new">{l s='New' mod='homefeatured'}</span>{/if}</a>
+
+							{if isset($product.on_sale) && $product.on_sale && isset($product.show_price) && $product.show_price && !$PS_CATALOG_MODE}<span class="on_sale">{l s='On sale' mod='homefeatured'}
+								</span>{elseif isset($product.reduction) && $product.reduction && isset($product.show_price) && $product.show_price && !$PS_CATALOG_MODE}<span class="discount">{l s='Reduced price!' mod='homefeatured'}</span>
+										
+							{/if}
+							
+							<div class="div_hide_product">	
+								<a href="#" id="wishlist_button{$product.id_product}" title="{l s='Add to wishlist' mod='homefeatured'}" class="btn-add-wishlist box-wishlist" onclick="LeoWishlistCart('wishlist_block_list', 'add', '{$product.id_product}', $('#idCombination').val(), 1 ); return false;">{l s='Add to wishlist' mod='homefeatured'}</a>
+						
+								<a class="lnk_more" href="{$product.link|escape:'html'}" title="{l s='View' mod='homefeatured'}">{l s='View' mod='homefeatured'}</a>
+								
+								{*if ($product.id_product_attribute == 0 OR (isset($add_prod_display) AND ($add_prod_display == 1))) AND $product.available_for_order AND !isset($restricted_country_mode) AND $product.minimal_quantity == 1 AND $product.customizable != 2 AND !$PS_CATALOG_MODE}
+									{if ($product.quantity > 0 OR $product.allow_oosp)}
+									<a class="exclusive ajax_add_to_cart_button" rel="ajax_id_product_{$product.id_product}" href="{$link->getPageLink('cart')|escape:'html'}?qty=1&amp;id_product={$product.id_product}&amp;token={$static_token}&amp;add" title="{l s='Add to cart' mod='homefeatured'}">{l s='Add to cart' mod='homefeatured'}</a>
+									{else}
+									<span class="exclusive">{l s='Add to cart' mod='homefeatured'}</span>
+									{/if}
+								{else}
+									<div style="height:23px;"></div>
+								{/if*}
+
+							</div>
+						</div>
+						<div class="right_block">
+							<h5 class="s_title_block">
+                                                            <a href="{$product.link|escape:'html'}" title="{$product.name|truncate:50:'...'|escape:'htmlall':'UTF-8'}">{$product.name|truncate:70:'...'|escape:'htmlall':'UTF-8'}</a></h5>
+							<div class="product_desc">
+                                                            <a href="{$product.link|escape:'html'}" title="{l s='More' mod='homefeatured'}">{$product.description_short|strip_tags|truncate:300:'...'}</a>
+                                                            {assign var="feature" value=$product.features}
+                                                            {foreach from=$feature key=num item=feat}
+                                                                {$feat['name']}: {$feat['value']}<br>                                                                        
+                                                            {/foreach}
+                                                            
+                                                        </div>
+						
+							
+							{*if $product.show_price AND !isset($restricted_country_mode) AND !$PS_CATALOG_MODE}<p class="price_container"><span class="price">{if !$priceDisplay}{convertPrice price=$product.price}{else}{convertPrice price=$product.price_tax_exc}{/if}</span></p>{else}<div style="height:21px;"></div>{/if*}
+<div class="boxattribute">	
+                                        {assign var="groups" value=$productsAttributes[$product.id_product]}
+                                        {assign var="combinations" value=$productsCombinations[$product.id_product]}
+{*print_r('<PRE>')}
+{print_r($combinations)}
+{print_r('</PRE>')*}
+					{if isset($groups)}
+					<!-- attributes -->
+					<div id="attributes">
+					{foreach from=$groups key=id_attribute_group item=group}
+						{if $group.attributes|@count}
+							<fieldset class="attribute_fieldset">
+								<label class="attribute_label" for="{$product.id_product}_group_{$id_attribute_group|intval}">{$group.name|escape:'htmlall':'UTF-8'}</label>
+								{assign var="groupName" value="group_$id_attribute_group"}
+								<div class="attribute_list">
+								{if ($group.group_type == 'select')}
+                                                                    {foreach from=$group.attributes key=id_attribute item=group_attribute}
+                                                                        {if (isset($smarty.get.$groupName) && $smarty.get.$groupName|intval == $id_attribute) || $group.default == $id_attribute}
+                                                                        <input type="text" class="attr" value="{$group_attribute|escape:'htmlall':'UTF-8'}" name="un_{$product.id_product}" readonly>
+                                                                        {/if}
+                                                                    {/foreach}
+                                                                    {*
+									<select name="{$groupName}" id="{$product.id_product}_group_{$id_attribute_group|intval}" class="attribute_select" onchange="findCombination();getProductAttribute();">
+                                                                            {foreach from=$group.attributes key=id_attribute item=group_attribute}
+                                                                                    <option value="{$id_attribute|intval}"{if (isset($smarty.get.$groupName) && $smarty.get.$groupName|intval == $id_attribute) || $group.default == $id_attribute} selected="selected"{/if} title="{$group_attribute|escape:'htmlall':'UTF-8'}">{$group_attribute|escape:'htmlall':'UTF-8'}</option>
+                                                                            {/foreach}
+									</select>
+                                                                        *}
+								{elseif ($group.group_type == 'radio')}
+									<ul>
+                                                                            {foreach from=$group.attributes key=id_attribute item=group_attribute}
+                                                                                <li>
+                                                                                    {if ($group.default == $id_attribute)}
+                                                                                        <input type="text" class="attr" value="{$group_attribute|escape:'htmlall':'UTF-8'}" name="prod_{$product.id_product}" readonly>
+                                                                                    {/if}
+                                                                                    {*
+                                                                                    <input type="radio" class="attribute_radio" name="{$product.id_product}_{$groupName}" value="{$id_attribute}" {if ($group.default == $id_attribute)} checked="checked"{/if} onclick="findCombination();getProductAttribute();">
+                                                                                    {$group_attribute|escape:'htmlall':'UTF-8'}
+                                                                                    *}
+                                                                                </li>
+                                                                            {/foreach}
+									</ul>
+								{/if}
+								</div>
+							</fieldset>
+						{/if}
+					{/foreach}
+                                            <div class="clear"></div>
+					</div>
+				{/if}    
+    
+    
+{*    
+    <div class="attrl">UNIDADES</div>
+    <div class="attrr">PRODUCCION</div>*}
+                                                                {if $product.show_price AND !isset($restricted_country_mode) AND !$PS_CATALOG_MODE}<p class="price_container"><span class="price">{if !$priceDisplay}{convertPrice price=$product.price}{else}{convertPrice price=$product.price_tax_exc}{/if}</span></p>{else}<div style="height:21px;"></div>{/if}
+<a class="exclusive" href="{$product.link|escape:'html'}" title="{l s='View' mod='homefeatured'}">{l s='View more' mod='homefeatured'}</a>
+								{*if ($product.id_product_attribute == 0 OR (isset($add_prod_display) AND ($add_prod_display == 1))) AND $product.available_for_order AND !isset($restricted_country_mode) AND $product.minimal_quantity == 1 AND $product.customizable != 2 AND !$PS_CATALOG_MODE}
+									{if ($product.quantity > 0 OR $product.allow_oosp)}
+                                                                            <a class="exclusive ajax_add_to_cart_button" rel="ajax_id_product_{$product.id_product}" href="{$link->getPageLink('cart')|escape:'html'}?qty=1&amp;id_product={$product.id_product}&amp;token={$static_token}&amp;add" title="{l s='Add to cart' mod='homefeatured'}">{l s='Add' mod='homefeatured'}<br>{l s='to cart' mod='homefeatured'}</a>
+									{else}
+									<span class="exclusive">{l s='Add' mod='homefeatured'}<br>{l s='to cart' mod='homefeatured'}</span>
+									{/if}
+								{else}
+									<div style="height:23px;"></div>
+								{/if*}
+                                                                <div class="clearBoth"></div>
+</div>
+						</div>
+
+					</div>
+				</div>
+
+				{if ($product@iteration%$columnspage==0||$smarty.foreach.homeFeaturedProducts.last)&&$columnspage>1}
+					</div>
+				{/if}
+			{/foreach}
+			</div>
+		</div>
+	{else}
+		<p>{l s='No featured products' mod='homefeatured'}</p>
+	{/if}
+</div>
+<!-- /MODULE Home Featured Products -->

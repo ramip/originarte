@@ -1,0 +1,26 @@
+/* BLOCK #reinsurance_block ******************************************************************** */
+#reinsurance_block {background:#ececec;margin-top:15px}
+#reinsurance_block li {
+	float:left;
+	padding:6px 10px !important;
+	font-size:10px;
+	line-height:15px;
+	color:#3e4141;
+	text-transform:uppercase;
+	text-shadow:0 1px 0 #fff;
+}
+#reinsurance_block .width1 li {width:960px}
+#reinsurance_block .width2 li {width:470px}
+#reinsurance_block .width3 li {width:305px}
+#reinsurance_block .width4 li {width:224px}
+#reinsurance_block .width5 li {width:185px}
+#reinsurance_block li img{
+	float:left;
+	margin-right:15px;
+	width:40px;
+}
+#reinsurance_block li span {
+	float:left;
+	padding-top:3px;
+	width:55%;
+}

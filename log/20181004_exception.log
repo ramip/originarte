@@ -1,0 +1,3 @@
+*ERROR* 	2018/10/04 - 10:06:53: Method is not defined at line 295 in file controllers/front/OrderOpcController.php
+*ERROR* 	2018/10/04 - 22:47:14: Tema actual no disponible &quot;leotrac&quot;. Por favor verifique el nombre del directorio de temas y licencias. at line 165 in file classes/controller/FrontController.php
+*ERROR* 	2018/10/04 - 22:47:16: Tema actual no disponible &quot;leotrac&quot;. Por favor verifique el nombre del directorio de temas y licencias. at line 165 in file classes/controller/FrontController.php

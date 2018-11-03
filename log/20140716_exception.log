@@ -1,0 +1,3 @@
+*ERROR* 	2014/07/16 - 15:52:47: Property NewsClass->link_rewrite is not valid at line 878 in file classes/ObjectModel.php
+*ERROR* 	2014/07/16 - 15:56:00: Property NewsClass->link_rewrite is not valid at line 878 in file classes/ObjectModel.php
+*ERROR* 	2014/07/16 - 15:58:59: Property NewsClass->link_rewrite is not valid at line 878 in file classes/ObjectModel.php

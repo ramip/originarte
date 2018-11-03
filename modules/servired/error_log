@@ -1,0 +1,11 @@
+[24-Oct-2015 11:25:41 Europe/Madrid] PHP Fatal error:  Call to a member function getOrderTotal() on a non-object in /home/presta4servycia/public_html/modules/servired/respuesta_tpv.php on line 53
+[24-Oct-2015 11:26:50 Europe/Madrid] PHP Fatal error:  Call to a member function getOrderTotal() on a non-object in /home/presta4servycia/public_html/modules/servired/respuesta_tpv.php on line 53
+[24-Oct-2015 11:28:19 Europe/Madrid] PHP Fatal error:  Call to a member function getOrderTotal() on a non-object in /home/presta4servycia/public_html/modules/servired/respuesta_tpv.php on line 53
+[24-Oct-2015 11:29:37 Europe/Madrid] PHP Fatal error:  Call to a member function getOrderTotal() on a non-object in /home/presta4servycia/public_html/modules/servired/respuesta_tpv.php on line 53
+[24-Oct-2015 11:31:41 Europe/Madrid] PHP Fatal error:  Call to a member function getOrderTotal() on a non-object in /home/presta4servycia/public_html/modules/servired/respuesta_tpv.php on line 53
+[26-Oct-2015 09:44:37 Europe/Madrid] PHP Fatal error:  Call to a member function getOrderTotal() on a non-object in /home/presta4servycia/public_html/modules/servired/respuesta_tpv.php on line 53
+[26-Oct-2015 09:47:00 Europe/Madrid] PHP Fatal error:  Call to a member function getOrderTotal() on a non-object in /home/presta4servycia/public_html/modules/servired/respuesta_tpv.php on line 53
+[26-Oct-2015 09:47:53 Europe/Madrid] PHP Fatal error:  Call to a member function getOrderTotal() on a non-object in /home/presta4servycia/public_html/modules/servired/respuesta_tpv.php on line 53
+[26-Oct-2015 09:48:57 Europe/Madrid] PHP Fatal error:  Call to a member function getOrderTotal() on a non-object in /home/presta4servycia/public_html/modules/servired/respuesta_tpv.php on line 53
+[26-Oct-2015 10:07:00 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/presta4servycia/public_html/modules/servired/respuesta_tpv.php on line 117
+[26-Oct-2015 10:08:09 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/presta4servycia/public_html/modules/servired/respuesta_tpv.php on line 117

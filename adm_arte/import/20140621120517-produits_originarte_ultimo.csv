@@ -1,0 +1,949 @@
+Id producto; Ref. producto; Nombre; Descripcion corta; Precio de venta; CategorÃ­as (nombre1,nombre2,etc); Meta Titulo; Meta DescripciÃ³n; Meta Palabras clave; Etiquetas (tag1,tag2,etc); Accesorios; URL de las imÃ¡genes; Cantidad; Activo
+10;ClaseA_MATE_TV;Tarjeta de visita;"<p><span style=""color: #888888;"">Formato:</span> De 5,5x5,5 a 8,5x5,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span style=""color: #888888;"">Manipulado:</span> Corte</p>";75;Clase A - Plastificado Mate una cara;;;;;,;http://www.originarte.com/imprenta/10-216/tarjeta-de-visita.jpg,http://www.originarte.com/imprenta/10-408/tarjeta-de-visita.jpg,http://www.originarte.com/imprenta/10-215/tarjeta-de-visita.jpg;14967;1
+11;ClaseA_MATE_TV_Dip;Tarjeta de visita en Díptico;"<p><span style=""color: #888888;"">Formato Abierto:</span> De 11x5,5 a 17,5x5,5 cm</p>
+<p><span style=""color: #888888;"">Formato Cerrado:</span> De 5,5x5,5 8,5x5,5 cm</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span style=""color: #888888;"">Manipulado:</span> un hendido (dípticos)</p>";109;Clase A - Plastificado Mate una cara;;;;;,;http://www.originarte.com/imprenta/11-268/tarjeta-de-visita-en-diptico.jpg,http://www.originarte.com/imprenta/11-269/tarjeta-de-visita-en-diptico.jpg,http://www.originarte.com/imprenta/11-270/tarjeta-de-visita-en-diptico.jpg;7497;1
+12;2+2t_Estucado_TV;2+2t. Papel Estucado;"<p>Formato: De 5,5x5,5 a 8,5x5,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p>Gramaje: 350grs.</p>
+<p>Tintas: 2+2 (Pantone)</p>
+<p>Manipulado: Corte</p>
+<p>Descripción: Con esta opción es posible imprimir de 1 a 8 modelos</p>";150;Impresión en tintas directas,Impresión Tintas Directas;;;;;,;http://www.originarte.com/imprenta/12-199/tarjeta-de-visita-tintas-directas.jpg,http://www.originarte.com/imprenta/12-308/tarjeta-de-visita-tintas-directas.jpg,http://www.originarte.com/imprenta/12-198/tarjeta-de-visita-tintas-directas.jpg;7499;1
+13;2+2_Estucado_PPMate2c;2+2t. con Plastificado;"<p><span style=""color: #888888;"">Formato:</span> De 5,5x5,5 a 8,5x5,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 2+2 (Pantone)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate<a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span style=""color: #888888;"">Manipulado:</span> Corte</p>
+<p><span style=""color: #888888;"">Descripción:</span> Con esta opción es posible imprimir de 1 a 8 modelos</p>";260;Acabados especiales,Acabados especiales;;;;;,;http://www.originarte.com/imprenta/13-53/tarjeta-de-visita-2-2.jpg,http://www.originarte.com/imprenta/13-307/tarjeta-de-visita-2-2.jpg,http://www.originarte.com/imprenta/13-218/tarjeta-de-visita-2-2.jpg;7499;1
+14;;Tarjetas de visita x 2;"<p><span class=""claro"" style=""color: #888888;"">Formato: De 5,5x5,5 a </span>8,5x5,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> El precio incluye 600u. de cada modelo en la opción 1 (600x2) y 1250 unidades de cada modelo en la opción 2 (1250x2)</p>";130;Clase A - Plastificado Mate una cara;;;;;,;http://www.originarte.com/imprenta/14-202/tarjetas-de-visita-x-2.jpg,http://www.originarte.com/imprenta/14-219/tarjetas-de-visita-x-2.jpg;99996;1
+15;;Tarjetas de visita x 3;"<p><span class=""claro"" style=""color: #888888;"">Formato: De 5,5x5,5 a </span>8,5x5,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> El precio incluye 600u. de cada modelo en la opción 1 (600x3) y 1250 unidades de cada modelo en la opción 2 (1250x3)</p>";185;Clase A - Plastificado Mate una cara;;;;;,;http://www.originarte.com/imprenta/15-205/tarjetas-de-visita-x-3.jpg,http://www.originarte.com/imprenta/15-220/tarjetas-de-visita-x-3.jpg;99998;1
+16;;Tarjetas de visita x 4;"<p><span class=""claro"" style=""color: #888888;"">Formato: De 5,5x5,5 a </span>8,5x5,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> El precio incluye 600u. de cada modelo en la opción 1 (600x4) y 1250 unidades de cada modelo en la opción 2 (1250x4)</p>";240;Clase A - Plastificado Mate una cara;;;;;,;http://www.originarte.com/imprenta/16-206/tarjetas-de-visita-x-4.jpg,http://www.originarte.com/imprenta/16-221/tarjetas-de-visita-x-4.jpg;99999;1
+17;;Tarjetas de visita x 5;"<p><span class=""claro"" style=""color: #888888;"">Formato: De 5,5x5,5 a </span>8,5x5,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> El precio incluye 600u. de cada modelo en la opción 1 (600x5) y 1250 unidades de cada modelo en la opción 2 (1250x5)</p>";275;Clase A - Plastificado Mate una cara;;;;;,;http://www.originarte.com/imprenta/17-209/tarjetas-de-visita-x-5.jpg,http://www.originarte.com/imprenta/17-222/tarjetas-de-visita-x-5.jpg;100000;1
+19;150_brillo_P_XL;Folleto Flyer XL / Postal XL;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>10 x 15 cm. | A6</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 150 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color 2 caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";70;Papel est. 150 grs.- Todo color 2c;;;;;,,Muestras;http://www.originarte.com/imprenta/19-213/folleto-flyer-xl-postal-xl.jpg,http://www.originarte.com/imprenta/19-214/folleto-flyer-xl-postal-xl.jpg,http://www.originarte.com/imprenta/19-212/folleto-flyer-xl-postal-xl.jpg;24986;1
+20;150_brillo_P;Folleto Flyer Postal;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>10 x 13,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 150 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color 2 caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span><span style=""font-size: 13px;""> Corte</span></p>";63;Papel est. 150 grs.- Todo color 2c;;;;;,,Muestras;http://www.originarte.com/imprenta/20-211/folleto-flyer-postal.jpg,http://www.originarte.com/imprenta/20-386/folleto-flyer-postal.jpg,http://www.originarte.com/imprenta/20-223/folleto-flyer-postal.jpg;24992;1
+21;150_brillo_10x10;Folleto Flyer Cuadrado;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>10 x 10 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 150 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color 2 caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";60;Papel est. 150 grs.- Todo color 2c;;;;;,,Muestras;http://www.originarte.com/imprenta/21-61/folleto-flyer-cuadrado.jpg,http://www.originarte.com/imprenta/21-385/folleto-flyer-cuadrado.jpg,http://www.originarte.com/imprenta/21-225/folleto-flyer-cuadrado.jpg;24996;1
+22;150_brillo_MiniF;Folleto Flyer Mini;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>6,5 x 10 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 150 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";45;Papel est. 150 grs.- Todo color 2c;;;;;,Muestras;http://www.originarte.com/imprenta/22-62/folleto-flyer-mini.jpg,http://www.originarte.com/imprenta/22-384/folleto-flyer-mini.jpg,http://www.originarte.com/imprenta/22-227/folleto-flyer-mini.jpg;24998;1
+23;;Folleto Flyer Cupón;"<p><span class=""claro"" style=""color: #888888;"">Formato: De 5,5x5,5 a </span>8,5x5,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 250 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Acabado:</span> Plastificado Brillo 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa, que protege el papel y la impresión. El acabado brillo es más fotográfico, resalta los colores, resultando ideal para folletos, flyers y material de street marketing.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";80;Papel est. 150 grs.- Todo color 2c;;;;;,;http://www.originarte.com/imprenta/23-63/folleto-flyer-cupon.jpg,http://www.originarte.com/imprenta/23-383/folleto-flyer-cupon.jpg,http://www.originarte.com/imprenta/23-226/folleto-flyer-cupon.jpg;150000;0
+24;ClaseA_F_10x10;Folleto Flyer Cuadrado;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>10 x 10 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";90;Clase A - Plastificado Mate una cara;;;;;,;http://www.originarte.com/imprenta/24-64/fol.jpg,http://www.originarte.com/imprenta/24-382/fol.jpg,http://www.originarte.com/imprenta/24-228/fol.jpg;199999;1
+25;ClaseA_P;Folleto Flyer Postal;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>10 x 13,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";95;Clase A - Plastificado Mate una cara;;;;;,;http://www.originarte.com/imprenta/25-230/folleto-flyer-postal.jpg,http://www.originarte.com/imprenta/25-231/folleto-flyer-postal.jpg,http://www.originarte.com/imprenta/25-229/folleto-flyer-postal.jpg;199990;1
+26;ClaseA_P_XL;Folleto Flyer XL / Postal XL;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>10 x 15 cm. | A6</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";105;Clase A - Plastificado Mate una cara;;;;;,;http://www.originarte.com/imprenta/26-232/folleto-flyer-xl-postal-xl.jpg,http://www.originarte.com/imprenta/26-233/folleto-flyer-xl-postal-xl.jpg,http://www.originarte.com/imprenta/26-234/folleto-flyer-xl-postal-xl.jpg;199989;1
+27;48hrs_150gr_A6;Flyer A6;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>10 x 15 cm. | A6</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 150 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";75;Papel 150grs.;Originarte impresión flyers 24hrs.;Originarte impresión flyers 24hrs.;impresión, postales, flyers, folletos, brillo;;,;http://www.originarte.com/imprenta/27-236/flyer-a6.jpg,http://www.originarte.com/imprenta/27-237/flyer-a6.jpg,http://www.originarte.com/imprenta/27-235/flyer-a6.jpg;134996;1
+28;48hrs_150gr_10x20;Flyer 10x20,5;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>10 x 20,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 150 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";85;Papel 150grs.;;;;;,;http://www.originarte.com/imprenta/28-238/flyer-10x205.jpg,http://www.originarte.com/imprenta/28-239/flyer-10x205.jpg;135000;1
+29;48hrs_150gr_A5;Flyer A5;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>14,8 x 21 cm. | A5</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 150 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";90;Papel 150grs.;;;;;,;http://www.originarte.com/imprenta/29-69/flyer-a5.jpg,http://www.originarte.com/imprenta/29-329/flyer-a5.jpg,http://www.originarte.com/imprenta/29-240/flyer-a5.jpg;135000;1
+30;48hrs_300gr_A6;Flyer A6;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>10 x 15 cm. | A6</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 300 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";80;Papel 300grs.;;;;;,;http://www.originarte.com/imprenta/30-71/flyer-a.jpg,http://www.originarte.com/imprenta/30-401/flyer-a.jpg,http://www.originarte.com/imprenta/30-241/flyer-a.jpg;134999;1
+31;48hrs_300gr_10x20;Flyer 10x20,5;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>10 x 20,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 300 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";90;Papel 300grs.;;;;;,;http://www.originarte.com/imprenta/31-72/flyer-10x205.jpg,http://www.originarte.com/imprenta/31-309/flyer-10x205.jpg,http://www.originarte.com/imprenta/31-242/flyer-10x205.jpg;135000;1
+32;48hrs_300gr_A5;Flyer A5;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>14,8 x 21 cm. | A5</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 300 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";95;Papel 300grs.;;;;;,;http://www.originarte.com/imprenta/32-73/flyer-.jpg,http://www.originarte.com/imprenta/32-243/flyer-.jpg;135000;1
+33;;Folleto A6;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>10,5 x 14,8 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 150 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>
+<p></p>";130;Papel 150grs.;;;;;,;http://www.originarte.com/imprenta/33-245/folleto-a6.jpg,http://www.originarte.com/imprenta/33-246/folleto-a6.jpg,http://www.originarte.com/imprenta/33-244/folleto-a6.jpg;35000;0
+34;;Diseño de Flyer;<p>Diseñamos el contenido de tu flyer para llegar a un gran número de público.</p>;80;Diseño | Maquetación;;;diseño, flyer, folleto, afiche, barcelona, bcn, madrid, vitoria;;150_brillo_P,ClaseA_P;http://www.originarte.com/imprenta/34-184/diseno-flyer.jpg;2000;1
+35;;Flyer 10x20,5;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>10 x 20,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 150 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Acabado:</span> Sin acabado</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>
+<p></p>";140;Papel 150grs.;;;;;,;http://www.originarte.com/imprenta/35-247/flyer-10x205.jpg,http://www.originarte.com/imprenta/35-248/flyer-10x205.jpg;350000;0
+36;;Flyer A5;"<p><span class=""claro"" style=""color: #888888;"">Formato:</span> 14,8 x 21 cm. | A5</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 150 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Acabado:</span> Sin acabado</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>
+<p></p>";150;Papel 150grs.;;;;;,;http://www.originarte.com/imprenta/36-77/flyer-a5.jpg,http://www.originarte.com/imprenta/36-328/flyer-a5.jpg,http://www.originarte.com/imprenta/36-249/flyer-a5.jpg;350000;0
+37;;Folleto A6;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>10 x 15 cm. | A6</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 300 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>
+<p></p>";135;Papel 300grs.;;;;;,;http://www.originarte.com/imprenta/37-251/folleto-a6.jpg,http://www.originarte.com/imprenta/37-400/folleto-a6.jpg,http://www.originarte.com/imprenta/37-250/folleto-a6.jpg;35000;0
+38;;Flyer 10x20,5;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>10 x 20,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 300 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Acabado:</span> Sin acabado</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>
+<p></p>";150;Papel 300grs.;;;;;,;http://www.originarte.com/imprenta/38-79/flyer-10x205.jpg,http://www.originarte.com/imprenta/38-310/flyer-10x205.jpg,http://www.originarte.com/imprenta/38-252/flyer-10x205.jpg;350000;0
+39;;Flyer A5;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>14,8 x 21 cm. | A5</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 300 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";170;Papel 300grs.;;;;;,;http://www.originarte.com/imprenta/39-80/flyer-a5.jpg,http://www.originarte.com/imprenta/39-253/flyer-a5.jpg;350000;0
+40;ClaseA_10x20;Tarjetón Invitación;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>10 x 20,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";125;Clase A . Plastificado Mate una cara,Clase A - Plastificado Mate una cara;;;;;;http://www.originarte.com/imprenta/40-255/tarjeton-invitacion.jpg,http://www.originarte.com/imprenta/40-254/tarjeton-invitacion.jpg,http://www.originarte.com/imprenta/40-380/tarjeton-invitacion.jpg;199999;1
+41;ClaseA_INV_XL;Tarjetón Invitación XL;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>13,5 x 20,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";160;Clase A . Plastificado Mate una cara;;;;;;http://www.originarte.com/imprenta/41-82/tarjeton-invitacion-xl.jpg,http://www.originarte.com/imprenta/41-333/tarjeton-invitacion-xl.jpg,http://www.originarte.com/imprenta/41-256/tarjeton-invitacion-xl.jpg;200000;1
+42;ClaseA_INV_Dip;Folleto Díptico Invitación;"<p><span class=""claro"" style=""color: #888888;"">Formato Abierto:</span> 20 x 20 cm.</p>
+<p><span class=""claro"" style=""color: #888888;"">Formato Cerrado:</span> 10 x 20 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> un hendido (dípticos)</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> Se entrega plegado.</p>";230;Clase A . Plastificado Mate una cara;;;;;,;http://www.originarte.com/imprenta/42-83/folleto-diptico-invitacion.jpg,http://www.originarte.com/imprenta/42-257/folleto-diptico-invitacion.jpg;150000;1
+43;;Tarjetón Invitación;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>10 x 20,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 250 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Acabado:</span> Plastificado Brillo 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa, que protege el papel y la impresión. El acabado brillo es más fotográfico, resalta los colores, resultando ideal para folletos, flyers y material de street marketing.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";160;Invitaciones con Plastificado Brillo;;;;;;http://www.originarte.com/imprenta/43-84/tarjeton-invitacion.jpg,http://www.originarte.com/imprenta/43-321/tarjeton-invitacion.jpg,http://www.originarte.com/imprenta/43-258/tarjeton-invitacion.jpg;150000;1
+44;;Tarjetón Invitación XL;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>13,5 x 20,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 250 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Acabado:</span> Plastificado Brillo 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa, que protege el papel y la impresión. El acabado brillo es más fotográfico, resalta los colores, resultando ideal para folletos, flyers y material de street marketing.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";200;Invitaciones con Plastificado Brillo;;;;;;http://www.originarte.com/imprenta/44-85/tarjeton-invita.jpg,http://www.originarte.com/imprenta/44-259/tarjeton-invita.jpg;150000;1
+45;ClaseA_PtoLibro;Punto de libro | Señalador;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>5,5 x 15 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";90;Clase A - Plastificado Mate una cara;;;;;;http://www.originarte.com/imprenta/45-86/punto-de-libro-senalador.jpg,http://www.originarte.com/imprenta/45-322/punto-de-libro-senalador.jpg,http://www.originarte.com/imprenta/45-260/punto-de-libro-senalador.jpg;199995;1
+46;ClaseA_PtoLibro_XL;Punto de libro | Señalador XL;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>5,5 x 20,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";110;Clase A - Plastificado Mate una cara;;;;;;http://www.originarte.com/imprenta/46-87/punto-de-libro-senalador-xl.jpg,http://www.originarte.com/imprenta/46-323/punto-de-libro-senalador-xl.jpg,http://www.originarte.com/imprenta/46-262/punto-de-libro-senalador-xl.jpg;199998;1
+47;150_Brillo_Dip_A5;Díptico A5;"<p><span style=""color: #888888;"">Formato Abierto:</span> A5</p>
+<p><span style=""color: #888888;"">Formato Cerrado:</span> A6</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 150 gr.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color 2 caras)</p>
+<p><span style=""color: #888888;"">Manipulado:</span> un hendido (dípticos)</p>
+<p><span style=""color: #888888;"">Descripción:</span> Se entrega plegado.</p>";109;Papel est. 150 grs.- Todo color 2c;;;;;,Muestras;http://www.originarte.com/imprenta/47-266/diptico-a5.jpg,http://www.originarte.com/imprenta/47-267/diptico-a5.jpg,http://www.originarte.com/imprenta/47-265/diptico-a5.jpg;40000;1
+49;150_Brillo_Dip_A4;Díptico A4;"<p><span class=""claro"" style=""color: #888888;"">Formato Abierto:</span> 21 x 29,7 cm. (A4)</p>
+<p><span class=""claro"" style=""color: #888888;"">Formato Cerrado:</span> 14,8 x 21 cm. (A5)</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 150 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color 2 caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> un hendido (dípticos)</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> Se entrega plegado.</p>
+<p></p>";129;Papel est. 150 grs.- Todo color 2c;;;;;,;http://www.originarte.com/imprenta/49-276/diptico-a4.jpg,http://www.originarte.com/imprenta/49-277/diptico-a4.jpg,http://www.originarte.com/imprenta/49-271/diptico-a4.jpg;39999;1
+50;;Diseño de Tarjeta de visita;<p>Diseñamos tu tarjeta de visita con tu información de contacto y logotipo.</p>;40;Diseño | Maquetación;;;;;ClaseA_MATE_TV,2+2t_Estucado_TV;http://www.originarte.com/imprenta/50-185/diseno-de-tarjeta-de-visita.jpg;1996;1
+52;150_brillo_10x20;Flyer Tarjetón;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>10 x 20,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 150 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";98;Papel est. 150 grs.- Todo color 2c;;;;;,Muestras;http://www.originarte.com/imprenta/52-91/folleto-flyer-xl-postal-xl.jpg,http://www.originarte.com/imprenta/52-320/folleto-flyer-xl-postal-xl.jpg,http://www.originarte.com/imprenta/52-224/folleto-flyer-xl-postal-xl.jpg;24996;1
+53;;Diseño de Mini Flyer;<p>Diseñamos tu Mini Flyer con toda la información que necesites para comunicar tu negocio.</p>;60;Diseño | Maquetación;;;;;150_brillo_MiniF,ClaseA_F_Mini;http://www.originarte.com/imprenta/53-183/diseno-de-mini-flyer.jpg;2500;1
+54;;Diseño de Díptico o Tríptico;<p>Diseñamos tus folletos desplegables con toda la información que tu empresa requiere.</p>;120;Diseño | Maquetación;;;;;150_Brillo_Dip_A4,150_Brillo_Trip_A4;http://www.originarte.com/imprenta/54-448/diseno-de-diptico-o-triptico.jpg,http://www.originarte.com/imprenta/54-449/diseno-de-diptico-o-triptico.jpg;2499;1
+55;150_Brillo_Dip_A3;Díptico A3;"<p><span class=""claro"" style=""color: #888888;"">Formato Abierto:</span> 29,7 x 42 cm. (A3)</p>
+<p><span class=""claro"" style=""color: #888888;"">Formato Cerrado:</span> 21 x 29,7 cm. (A4)</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 150 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"">Acabado:</span><span> Barniz Acrílico Brillo 2 caras</span><span></span><span></span></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> un hendido (dípticos)</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> Se entrega plegado.</p>";212;Papel est. 150 grs.- Todo color 2c;;;;;,,Muestras;http://www.originarte.com/imprenta/55-94/diptico-a4.jpg,http://www.originarte.com/imprenta/55-292/diptico-a4.jpg,http://www.originarte.com/imprenta/55-272/diptico-a4.jpg;40000;1
+56;ClaseA_Dip_P;Díptico Postal;"<p><span class=""claro"" style=""color: #888888;"">Formato Abierto:</span> 27 x 10 cm.</p>
+<p><span class=""claro"" style=""color: #888888;"">Formato Cerrado:</span> 13,5 x 10 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> un hendido (dípticos)</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> Se entrega plegado.</p>";160;Clase A - Plastificado Mate una cara;;;;;,;http://www.originarte.com/imprenta/56-95/diptico-postal.jpg,http://www.originarte.com/imprenta/56-287/diptico-postal.jpg,http://www.originarte.com/imprenta/56-273/diptico-postal.jpg;7500;1
+57;ClaseA_Dip_CD;Díptico CD;"<p><span class=""claro"" style=""color: #888888;"">Formato Abierto:</span> 12 x 24 cm.</p>
+<p><span class=""claro"" style=""color: #888888;"">Formato Cerrado:</span> 12 x 12 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> un hendido (dípticos)</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> Se entrega plegado.</p>";180;Clase A - Plastificado Mate una cara;;;;;,;http://www.originarte.com/imprenta/57-280/diptico-postal.jpg,http://www.originarte.com/imprenta/57-281/diptico-postal.jpg,http://www.originarte.com/imprenta/57-274/diptico-postal.jpg;12500;1
+58;ClaseA_Dip_A4;Díptico A4;"<p><span class=""claro"" style=""color: #888888;"">Formato Abierto:</span> 21 x 29,7 cm. (A4)</p>
+<p><span class=""claro"" style=""color: #888888;"">Formato Cerrado:</span> 21 x 14,8 cm. (A5)</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Un hendido (dípticos)</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> Se entrega plegado.</p>";310;Clase A - Plastificado Mate una cara;;;;;,;http://www.originarte.com/imprenta/58-278/diptico-postal.jpg,http://www.originarte.com/imprenta/58-279/diptico-postal.jpg,http://www.originarte.com/imprenta/58-275/diptico-postal.jpg;7500;1
+59;;Díptico Postal;"<p><span class=""claro"" style=""color: #888888;"">Formato Abierto:</span> 27 x 10 cm.</p>
+<p><span class=""claro"" style=""color: #888888;"">Formato Cerrado:</span> 13,5 x 10 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 250 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Acabado:</span> Plastificado Brillo 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa, que protege el papel y la impresión. El acabado brillo es más fotográfico, resalta los colores, resultando ideal para folletos, flyers y material de street marketing.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Un hendido (dípticos)</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> Se entrega en plano.</p>";210;Plastificado Brillo una cara;;;;;,;http://www.originarte.com/imprenta/59-98/diptico-postal.jpg,http://www.originarte.com/imprenta/59-288/diptico-postal.jpg,http://www.originarte.com/imprenta/59-289/diptico-postal.jpg;5000;0
+60;;Díptico CD;"<p><span class=""claro"" style=""color: #888888;"">Formato Abierto:</span> 12 x 24 cm.</p>
+<p><span class=""claro"" style=""color: #888888;"">Formato Cerrado:</span> 12 x 12 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 250 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Acabado:</span> Plastificado Brillo 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa, que protege el papel y la impresión. El acabado brillo es más fotográfico, resalta los colores, resultando ideal para folletos, flyers y material de street marketing.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Un hendido (dípticos)</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> Se entrega en plano.</p>";260;Plastificado Brillo una cara;;;;;,;http://www.originarte.com/imprenta/60-99/diptico-postal.jpg,http://www.originarte.com/imprenta/60-290/diptico-postal.jpg,http://www.originarte.com/imprenta/60-291/diptico-postal.jpg;5000;0
+61;;Díptico Invitación;"<p><span class=""claro"" style=""color: #888888;"">Formato Abierto:</span> 20 x 20 cm.</p>
+<p><span class=""claro"" style=""color: #888888;"">Formato Cerrado:</span> 10 x 20 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 250 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Acabado:</span> Plastificado Brillo 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa, que protege el papel y la impresión. El acabado brillo es más fotográfico, resalta los colores, resultando ideal para folletos, flyers y material de street marketing.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Un hendido (dípticos)</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> Se entrega en plano.</p>";290;Plastificado Brillo una cara;;;;;,;http://www.originarte.com/imprenta/61-100/diptico-postal.jpg,http://www.originarte.com/imprenta/61-282/diptico-postal.jpg,http://www.originarte.com/imprenta/61-283/diptico-postal.jpg;5000;0
+62;;Díptico A4;"<p><span class=""claro"" style=""color: #888888;"">Formato Abierto:</span> 21 x 29,7 cm. (A4)</p>
+<p><span class=""claro"" style=""color: #888888;"">Formato Cerrado:</span> 14,8 x 21 cm. (A5)</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 250 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Acabado:</span> Plastificado Brillo 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa, que protege el papel y la impresión. El acabado brillo es más fotográfico, resalta los colores, resultando ideal para folletos, flyers y material de street marketing.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Un hendido (dípticos)</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> Se entrega en plano.</p>";360;Plastificado Brillo una cara;;;;;,;http://www.originarte.com/imprenta/62-101/diptico-postal.jpg,http://www.originarte.com/imprenta/62-284/diptico-postal.jpg,http://www.originarte.com/imprenta/62-286/diptico-postal.jpg,http://www.originarte.com/imprenta/62-285/diptico-postal.jpg;5000;0
+63;150_Brillo_Trip_A4;Tríptico A4;"<p><span class=""claro"" style=""color: #888888;"">Formato Abierto:</span> 21 x 29,7 cm. (A4)</p>
+<p><span class=""claro"" style=""color: #888888;"">Formato Cerrado:</span> 9,9 x 21 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 150 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color 2 caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> 2 hendidos (trípticos)</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> Se entrega plegado.</p>
+<p></p>";129;Papel est. 150 grs.- Todo color 2c;Originarte impresión: Trípticos en impresión offset;;;;,,Muestras;http://www.originarte.com/imprenta/63-157/triptico-a4.jpg,http://www.originarte.com/imprenta/63-158/triptico-a4.jpg,http://www.originarte.com/imprenta/63-293/triptico-a4.jpg;40000;1
+64;150_brillo_Trip_Buzoneo;Tríptico Buzoneo;"<p><span class=""claro"" style=""color: #888888;"">Formato Abierto:</span> 16 x 48 cm.</p>
+<p><span class=""claro"" style=""color: #888888;"">Formato Cerrado:</span> 16 x 16 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 150 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color 2 caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> 2 hendidos (trípticos)</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> Se entrega plegado.</p>
+<p></p>";153;Papel est. 150 grs.- Todo color 2c;;;;;,,Muestras;http://www.originarte.com/imprenta/64-159/triptico-a4.jpg,http://www.originarte.com/imprenta/64-160/triptico-a4.jpg,http://www.originarte.com/imprenta/64-294/triptico-a4.jpg;34998;1
+65;;Tríptico CD;"<p><span class=""claro"" style=""color: #888888;"">Formato Abierto:</span> 12 x 36 cm.</p>
+<p><span class=""claro"" style=""color: #888888;"">Formato Cerrado:</span> 12 x 12 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> 2 hendidos (trípticos)</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> Se entrega plegado.</p>";260;Clase A - Plastificado Mate una cara;;;;;,;http://www.originarte.com/imprenta/65-161/triptico-cd.jpg,http://www.originarte.com/imprenta/65-162/triptico-cd.jpg,http://www.originarte.com/imprenta/65-299/triptico-cd.jpg;7500;1
+66;;Tríptico A4;"<p><span class=""claro"" style=""color: #888888;"">Formato Abierto:</span> 21 x 29,7 cm. (A4)</p>
+<p><span class=""claro"" style=""color: #888888;"">Formato Cerrado:</span> 9,9 x 21 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> 2 hendidos (trípticos)</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> Se entrega plegado.</p>";310;Clase A - Plastificado Mate una cara;;;;;,;http://www.originarte.com/imprenta/66-165/triptico-cd.jpg,http://www.originarte.com/imprenta/66-167/triptico-cd.jpg,http://www.originarte.com/imprenta/66-297/triptico-cd.jpg;7499;1
+67;;Tríptico XL;"<p><span class=""claro"" style=""color: #888888;"">Formato Abierto:</span> 40,5 x 13,5 cm.</p>
+<p><span class=""claro"" style=""color: #888888;"">Formato Cerrado:</span> 13,5 x 13,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> 2 hendidos (trípticos)</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> Se entrega plegado.</p>";310;Clase A - Plastificado Mate una cara;;;;;,;http://www.originarte.com/imprenta/67-163/triptico-cd.jpg,http://www.originarte.com/imprenta/67-164/triptico-cd.jpg,http://www.originarte.com/imprenta/67-298/triptico-cd.jpg;7500;1
+68;;Tríptico CD;"<p><span class=""claro"" style=""color: #888888;"">Formato Abierto:</span> 12 x 36 cm.</p>
+<p><span class=""claro"" style=""color: #888888;"">Formato Cerrado:</span> 12 x 12 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 250 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Acabado:</span> Plastificado Brillo 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa, que protege el papel y la impresión. El acabado brillo es más fotográfico, resalta los colores, resultando ideal para folletos, flyers y material de street marketing.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> 2 hendidos (trípticos)</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> Se entrega en plano.</p>";300;Plastificado Brillo una cara;;;;;,;http://www.originarte.com/imprenta/68-170/triptico-cd.jpg,http://www.originarte.com/imprenta/68-171/triptico-cd.jpg,http://www.originarte.com/imprenta/68-296/triptico-cd.jpg;5000;0
+69;;Tríptico A4;"<p><span class=""claro"" style=""color: #888888;"">Formato Abierto:</span> 21 x 29,7 cm. (A4)</p>
+<p><span class=""claro"" style=""color: #888888;"">Formato Cerrado:</span> 9,9 x 21 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 250 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Acabado:</span> Plastificado Brillo 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa, que protege el papel y la impresión. El acabado brillo es más fotográfico, resalta los colores, resultando ideal para folletos, flyers y material de street marketing.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> 2 hendidos (trípticos)</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> Se entrega en plano.</p>";360;Plastificado Brillo una cara;;;;;;http://www.originarte.com/imprenta/69-172/triptico-cd.jpg,http://www.originarte.com/imprenta/69-173/triptico-cd.jpg,http://www.originarte.com/imprenta/69-300/triptico-cd.jpg;5000;0
+70;;Tríptico XL;"<p><span class=""claro"" style=""color: #888888;"">Formato Abierto:</span> 40,5 x 13,5 cm.</p>
+<p><span class=""claro"" style=""color: #888888;"">Formato Cerrado:</span> 13,5 x 13,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 250 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Acabado:</span> Plastificado Brillo 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa, que protege el papel y la impresión. El acabado brillo es más fotográfico, resalta los colores, resultando ideal para folletos, flyers y material de street marketing.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> 2 hendidos (trípticos)</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> Se entrega en plano.</p>";360;Plastificado Brillo una cara;;;;;;http://www.originarte.com/imprenta/70-168/triptico-cd.jpg,http://www.originarte.com/imprenta/70-169/triptico-cd.jpg,http://www.originarte.com/imprenta/70-301/triptico-cd.jpg;5000;0
+71;150_brillo_Cuadr_A4;Cuadríptico A4;"<p><span class=""claro"" style=""color: #888888;"">Formato Abierto:</span> 21 x 29,7 cm. (A4)</p>
+<p><span class=""claro"" style=""color: #888888;"">Formato Cerrado:</span> A6</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 150 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> 2 plegados (Cuadrípticos)</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> Se entrega plegado</p>
+<p></p>";160;Papel 150grs.;;;;;,;http://www.originarte.com/imprenta/71-110/cuadriptico-a4.jpg,http://www.originarte.com/imprenta/71-394/cuadriptico-a4.jpg,http://www.originarte.com/imprenta/71-395/cuadriptico-a4.jpg,http://www.originarte.com/imprenta/71-312/cuadriptico-a4.jpg;15000;1
+72;150_brillo_Cuadr_A3;Cuadríptico A3;"<p><span class=""claro"" style=""color: #888888;"">Formato Abierto:</span> 42 x 29,7 cm. (A3)</p>
+<p><span class=""claro"" style=""color: #888888;"">Formato Cerrado:</span> 14,8 x 21 cm. (A5)</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 150 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> 2 plegados (Cuadrípticos)</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> Se entrega plegado</p>
+<p></p>";232;Papel 150grs.;;;;;,;http://www.originarte.com/imprenta/72-397/cuadriptico-a4.jpg,http://www.originarte.com/imprenta/72-398/cuadriptico-a4.jpg,http://www.originarte.com/imprenta/72-399/cuadriptico-a4.jpg,http://www.originarte.com/imprenta/72-313/cuadriptico-a4.jpg;32500;1
+73;;Diseño de Póster;<p>Diseñamos el cartel ideal para tus campañas publicitarias.</p>;100;Diseño | Maquetación;;;;;100gr_PO_A3,100gr_PO_A4_Troquel;http://www.originarte.com/imprenta/73-181/diseno-de-poster.jpg;2500;1
+74;100gr_PO_A4;Póster A4;"<p><span style=""color: #888888;"">Formato: A4</span></p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje: 100 gr.</span></p>
+<p><span style=""color: #888888;"">Tintas: Color una cara (4+0t)</span></p>
+<p><span style=""color: #888888;"">Manipulado: Corte</span></p>
+<p><span style=""color: #888888;"">Descripción: Cantidades menores de 500 unidades se imprimen en digital</span></p>";80;Papel de 100 grs.;;;;;;http://www.originarte.com/imprenta/74-112/poster-a4.jpg;39996;1
+75;100gr_PO_A3;Póster A3;"<p>Formato: A3</p>
+<p>Papel: Estucado Brillo</p>
+<p>Gramaje: 100 gr.</p>
+<p>Tintas: Color una cara (4+0t)</p>
+<p>Manipulado: Corte</p>
+<p>Descripción: Cantidades menores de 500 unidades se imprimen en digital</p>";100;Papel de 100 grs.;;;;;;http://www.originarte.com/imprenta/75-113/poster-a4.jpg;39996;1
+76;100gr_PO_A4_Troquel;Póster A4 Troquelado;"<p>Formato: A4</p>
+<p>Papel: Estucado Brillo</p>
+<p>Gramaje: 100 gr.</p>
+<p>Tintas: Color una cara (4+0t)</p>
+<p>Manipulado: Troquelado</p>
+<p>Descripción: El troquel permite arrancar fácilmente el trozo correspondiente a los datos de contacto</p>";160;Papel de 100 grs.;;;;;;http://www.originarte.com/imprenta/76-115/poster-a4.jpg;40000;1
+77;100gr_PO_A2;Póster A2;"<p>Formato: A2</p>
+<p>Papel: Estucado Brillo</p>
+<p>Gramaje: 100 gr.</p>
+<p>Tintas: Color una cara (4+0t)</p>
+<p>Manipulado: Troquelado</p>
+<p>Descripción: El troquel permite arrancar fácilmente el trozo correspondiente a los datos de contacto</p>";325;Papel de 100 grs.;;;;;;http://www.originarte.com/imprenta/77-116/poster-a4.jpg;40000;1
+78;100gr_PO_70x100;Póster 70x100;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>70 x 100 cm.</p>
+<p><span class=""claro"" style=""color: #888888;""> Papel:</span> Estucado Brillo</p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 100 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> Color una cara (4+0t)</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Troquelado</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> El troquel permite arrancar fácilmente el trozo correspondiente a los datos de contacto</p>
+<p></p>";350;Papel de 100 grs.;;;;;;http://www.originarte.com/imprenta/78-117/poster-a4.jpg;40000;1
+79;100gr_PO_87x127;Póster 87x127;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>87 x 127 cm.</p>
+<p><span class=""claro"" style=""color: #888888;""> Papel:</span> Estucado Brillo</p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 100 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> Color una cara (4+0t)</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Troquelado</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> El troquel permite arrancar fácilmente el trozo correspondiente a los datos de contacto</p>
+<p></p>";850;Papel de 100 grs.;;;;;;http://www.originarte.com/imprenta/79-118/poster-a4.jpg;20000;1
+80;;Revista A6 | 8 pág.;"<p>Formato Abierto: A5</p>
+<p>Formato Cerrado: A6</p>
+<p>Papel: Estucado Brillo</p>
+<p>Gramaje: 130 gr.</p>
+<p>Tintas: 4+4 (todo color dos caras)</p>
+<p>Acabado: Sin acabado</p>
+<p>Manipulado: Plegado y Grapado</p>
+<p>Descripción: 8 páginas</p>";244;Revista A6 | Programa de Mano;;;;;;http://www.originarte.com/imprenta/80-314/revista-a6-8-pag.jpg,http://www.originarte.com/imprenta/80-119/revista-a6-8-pag.jpg,http://www.originarte.com/imprenta/80-315/revista-a6-8-pag.jpg;7500;1
+81;;Revista A6 | 16 pág.;"<p>Formato Abierto: A5</p>
+<p>Formato Cerrado: A6</p>
+<p>Papel: Estucado Brillo</p>
+<p>Gramaje: 130 gr.</p>
+<p>Tintas: 4+4 (todo color dos caras)</p>
+<p>Acabado: Sin acabado</p>
+<p>Manipulado: Plegado y Grapado</p>
+<p>Descripción: 16 páginas</p>";379;Revista A6 | Programa de Mano;;;;;;http://www.originarte.com/imprenta/81-317/revista-a6-8-pag.jpg,http://www.originarte.com/imprenta/81-120/revista-a6-8-pag.jpg,http://www.originarte.com/imprenta/81-316/revista-a6-8-pag.jpg;7500;1
+82;;Revista A6 | 32 pág.;"<p>Formato Abierto: A5</p>
+<p>Formato Cerrado: A6</p>
+<p>Papel: Estucado Brillo</p>
+<p>Gramaje: 130 gr.</p>
+<p>Tintas: 4+4 (todo color dos caras)</p>
+<p>Acabado: Sin acabado</p>
+<p>Manipulado: Plegado y Grapado</p>
+<p>Descripción: 32 páginas</p>";590;Revista A6 | Programa de Mano;;;;;;http://www.originarte.com/imprenta/82-121/revista-a6-8-pag.jpg,http://www.originarte.com/imprenta/82-318/revista-a6-8-pag.jpg,http://www.originarte.com/imprenta/82-319/revista-a6-8-pag.jpg;12500;1
+83;;Revista A5 | 8 pág.;"<p>Formato Abierto: 21 x 29,7 cm. (A4)</p>
+<p>Formato Cerrado: 14,8 x 21 cm. (A5)</p>
+<p>Papel: Estucado Brillo</p>
+<p>Gramaje: 130 gr.</p>
+<p>Tintas: 4+4 (todo color dos caras)</p>
+<p>Acabado: Sin acabado</p>
+<p>Manipulado: Plegado y Grapado</p>
+<p>Descripción: 8 páginas</p>";360;Revista A5 | Magazine;;;;;;http://www.originarte.com/imprenta/83-122/revista-a5-8-pag.jpg,http://www.originarte.com/imprenta/83-410/revista-a5-8-pag.jpg,http://www.originarte.com/imprenta/83-411/revista-a5-8-pag.jpg;20000;1
+84;;Revista A5 | 16 pág.;"<p>Formato Abierto: 21 x 29,7 cm. (A4)</p>
+<p>Formato Cerrado: 14,8 x 21 cm. (A5)</p>
+<p>Papel: Estucado Brillo</p>
+<p>Gramaje: 130 gr.</p>
+<p>Tintas: 4+4 (todo color dos caras)</p>
+<p>Acabado: Sin acabado</p>
+<p>Manipulado: Plegado y Grapado</p>
+<p>Descripción: 16 páginas</p>";513;Revista A5 | Magazine;;;;;;http://www.originarte.com/imprenta/84-123/revista-a5-8-pag.jpg,http://www.originarte.com/imprenta/84-412/revista-a5-8-pag.jpg,http://www.originarte.com/imprenta/84-413/revista-a5-8-pag.jpg;20000;1
+85;;Revista A5 | 32 pág.;"<p>Formato Abierto: 21 x 29,7 cm. (A4)</p>
+<p>Formato Cerrado: 14,8 x 21 cm. (A5)</p>
+<p>Papel: Estucado Brillo</p>
+<p>Gramaje: 130 gr.</p>
+<p>Tintas: 4+4 (todo color dos caras)</p>
+<p>Acabado: Sin acabado</p>
+<p>Manipulado: Plegado y Grapado</p>
+<p>Descripción: 32 páginas</p>";751;Revista A5 | Magazine;;;;;;http://www.originarte.com/imprenta/85-124/revista-a5-8-pag.jpg,http://www.originarte.com/imprenta/85-416/revista-a5-8-pag.jpg,http://www.originarte.com/imprenta/85-417/revista-a5-8-pag.jpg;20000;1
+86;;2+0 tintas con barniz exterior;"<p>Formato Cerrado: 22 x 30,5 cm.</p>
+<p>Papel: Estucado Brillo</p>
+<p>Gramaje: 300 gr.</p>
+<p>Tintas: 2+0 PANTONE</p>
+<p>Acabado: Barniz Brillo o Mate una cara</p>
+<p>Manipulado: Troquelado</p>";345;Troqueladas Automontables con tarjetero;;;;;;http://www.originarte.com/imprenta/86-125/sin-plastificado-exterior.jpg,http://www.originarte.com/imprenta/86-304/sin-plastificado-exterior.jpg,http://www.originarte.com/imprenta/86-305/sin-plastificado-exterior.jpg,http://www.originarte.com/imprenta/86-306/sin-plastificado-exterior.jpg;7500;1
+87;;2+0 tintas con plastificado exterior;"<p>Formato Cerrado: 22 x 30,5 cm.</p>
+<p>Papel: Estucado Mate</p>
+<p>Gramaje: 350 gr.</p>
+<p>Tintas: 2+0 PANTONE</p>
+<p>Acabado: Plastificado Brillo o Mate una cara</p>
+<p>Manipulado: Troquelado</p>";445;Troqueladas Automontables con tarjetero;;;;;;http://www.originarte.com/imprenta/87-127/sin-plastificado-exterior.jpg,http://www.originarte.com/imprenta/87-302/sin-plastificado-exterior.jpg,http://www.originarte.com/imprenta/87-406/sin-plastificado-exterior.jpg,http://www.originarte.com/imprenta/87-303/sin-plastificado-exterior.jpg;7500;1
+88;sobre-americano-2t;Sobre 2+0 tintas PANTONE;"<p>Formato: 11,5 x 22,5 cm</p>
+<p>Papel: Offset Extra blanco</p>
+<p>Gramaje: 90grs.</p>
+<p>Tintas: 2+0 PANTONE</p>
+<p>Descripción: Sobre con o sin ventana</p>";95;Sobre americano con o sin ventana;;;;;;http://www.originarte.com/imprenta/88-128/sobre-americano.jpg,http://www.originarte.com/imprenta/88-402/sobre-americano.jpg;20000;1
+89;sobre-bolsa-2t;Sobre 2+0 tintas PANTONE;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>22,9 x 32,4 cm</p>
+<p><span class=""claro"" style=""color: #888888;""> Papel:</span> Offset Extra blanco</p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 100grs.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 2+0 PANTONE</p>";140;Sobre Bolsa;;;;;;http://www.originarte.com/imprenta/89-480/sobre-americano.jpg,http://www.originarte.com/imprenta/89-481/sobre-americano.jpg;20000;1
+90;carta-recic-2t;Papel Carta 2+0t.;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>A4</p>
+<p><span style=""color: #888888;"">Acabado:</span> Cyclus 100% Reciclado<a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel Offset 100% reciclado, fabricado sin cloro ni blanqueantes ópticados. Certificado Ángel Azul, Cisne Nórdico y NAPM.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 90grs.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 2+0</p>";120;Papel Reciclado Cyclus Offset;;;;;;http://www.originarte.com/imprenta/90-130/papel-carta-a4.jpg;7500;1
+91;;Pegatina pequeña;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>5,5 x 5,5 cm.</p>
+<p><span class=""claro"" style=""color: #888888;""> Papel:</span> Adhesivo</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> Todo color una cara (4+0t)</p>
+<p>Impresión digital</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";60;Impreso en papel adhesivo;;;;;;http://www.originarte.com/imprenta/91-131/pegatina-pequena.jpg;7498;1
+92;;Pegatina Tarjeta de Visita;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>8,5 x 5,5 cm.</p>
+<p><span class=""claro"" style=""color: #888888;""> Papel:</span> Adhesivo</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> Todo color una cara (4+0t)</p>
+<p>Impresión digital</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";80;Impreso en papel adhesivo;;;;;;http://www.originarte.com/imprenta/92-132/pegatina-pequena.jpg;7500;1
+93;;Pegatina Mini Postal;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>6,5 x 10 cm.</p>
+<p><span class=""claro"" style=""color: #888888;""> Papel:</span> Adhesivo</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> Todo color una cara (4+0t)</p>
+<p>Impresión digital </p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";90;Impreso en papel adhesivo;;;;;;http://www.originarte.com/imprenta/93-133/pegatina-pequena.jpg;7500;1
+94;;Pegatina Postal;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>10 x 13,5 cm.</p>
+<p><span class=""claro"" style=""color: #888888;""> Papel:</span> Adhesivo</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> Todo color una cara (4+0t)</p>
+<p>Impresión digital</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";100;Impreso en papel adhesivo;;;;;;http://www.originarte.com/imprenta/94-134/pegatina-pequena.jpg;7498;1
+95;;Calendario de bolsillo;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>8,5 x 5,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";110;Clase A - Plastificado Mate una cara;;;;;;http://www.originarte.com/imprenta/95-135/calendario-de-bolsillo.jpg,http://www.originarte.com/imprenta/95-393/calendario-de-bolsillo.jpg;7500;1
+96;;Calendario de bolsillo XL;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>6,5 x 10 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";120;Clase A - Plastificado Mate una cara;;;;;;http://www.originarte.com/imprenta/96-137/calendario-de-bolsillo.jpg,http://www.originarte.com/imprenta/96-324/calendario-de-bolsillo.jpg,http://www.originarte.com/imprenta/96-326/calendario-de-bolsillo.jpg;7500;1
+97;;Calendario Punto de Libro;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>5,5 x 15 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";130;Clase A - Plastificado Mate una cara;;;;;;http://www.originarte.com/imprenta/97-140/calendario-de-bolsillo.jpg,http://www.originarte.com/imprenta/97-392/calendario-de-bolsillo.jpg;7500;1
+98;;Calendario Punto de Libro XL;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>5,5 x 20,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";150;Clase A - Plastificado Mate una cara;;;;;;http://www.originarte.com/imprenta/98-391/calendario-de-bolsillo.jpg,http://www.originarte.com/imprenta/98-327/calendario-de-bolsillo.jpg;7500;1
+99;150_brillo_Trip_A3;Tríptico A3;"<p><span class=""claro"" style=""color: #888888;"">Formato Abierto:</span> 29,7 x 42 cm. (A3)</p>
+<p><span class=""claro"" style=""color: #888888;"">Formato Cerrado:</span> 14 x 29,7 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 150 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color 2 caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> 2 hendidos (trípticos)</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> Se entrega plegado.</p>
+<p></p>";212;Papel est. 150 grs.- Todo color 2c;;;;;,;http://www.originarte.com/imprenta/99-155/triptico-a4.jpg,http://www.originarte.com/imprenta/99-156/triptico-a4.jpg,http://www.originarte.com/imprenta/99-295/triptico-a4.jpg;40000;1
+100;150_brillo_Cuadr_105x297;Cuadríptico A3 a 105x297mm;"<p><span class=""claro"" style=""color: #888888;"">Formato Abierto:</span> 29,7 x 42 cm. (A3)</p>
+<p><span class=""claro"" style=""color: #888888;"">Formato Cerrado:</span> 105 x 29,7 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 150 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> 2 plegados (Cuadrípticos)</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> Se entrega plegado</p>
+<p></p>";212;Papel 150grs.,Papel 150grs.;;;;;;http://www.originarte.com/imprenta/100-141/cuadriptico-a4.jpg,http://www.originarte.com/imprenta/100-142/cuadriptico-a4.jpg,http://www.originarte.com/imprenta/100-311/cuadriptico-a4.jpg;32500;1
+101;;Revista A5 | 24 pág.;"<p>Formato Abierto: 21 x 29,7 cm. (A4)</p>
+<p>Formato Cerrado: 14,8 x 21 cm. (A5)</p>
+<p>Papel: Estucado Brillo</p>
+<p>Gramaje: 130 gr.</p>
+<p>Tintas: 4+4 (todo color dos caras)</p>
+<p>Acabado: Sin acabado</p>
+<p>Manipulado: Plegado y Grapado</p>
+<p>Descripción: 24 páginas</p>";780;Revista A5 | Magazine;;;;;;http://www.originarte.com/imprenta/101-143/revista-a5-8-pag.jpg,http://www.originarte.com/imprenta/101-414/revista-a5-8-pag.jpg,http://www.originarte.com/imprenta/101-415/revista-a5-8-pag.jpg;7500;0
+102;;Revista A5 Plus | 8 pág.;"<p>Formato Abierto: 24 x 33 cm.</p>
+<p>Formato Cerrado: 16,5 x 24 cm.</p>
+<p>Papel: Estucado Brillo</p>
+<p>Gramaje: 130 gr.</p>
+<p>Tintas: 4+4 (todo color dos caras)</p>
+<p>Acabado: Sin acabado</p>
+<p>Manipulado: Plegado y Grapado</p>
+<p>Descripción: 8 páginas</p>";379;Revista A5 Plus | Minicatálogo;;;;;;http://www.originarte.com/imprenta/102-152/revista-a5-plus-8-pag.jpg,http://www.originarte.com/imprenta/102-153/revista-a5-plus-8-pag.jpg;20000;1
+103;;Revista A5 Plus | 16 pág.;"<p>Formato Abierto: 24 x 33 cm.</p>
+<p>Formato Cerrado: 16,5 x 24 cm.</p>
+<p>Papel: Estucado Brillo</p>
+<p>Gramaje: 130 gr.</p>
+<p>Tintas: 4+4 (todo color dos caras)</p>
+<p>Acabado: Sin acabado</p>
+<p>Manipulado: Plegado y Grapado</p>
+<p>Descripción: 16 páginas</p>";525;Revista A5 Plus | Minicatálogo;;;;;;http://www.originarte.com/imprenta/103-186/revista-a5-plus-8-pag.jpg,http://www.originarte.com/imprenta/103-187/revista-a5-plus-8-pag.jpg;20000;1
+104;;Revista A5 Plus | 32 pág.;"<p>Formato Abierto: 24 x 33 cm.</p>
+<p>Formato Cerrado: 16,5 x 24 cm.</p>
+<p>Papel: Estucado Brillo</p>
+<p>Gramaje: 130 gr.</p>
+<p>Tintas: 4+4 (todo color dos caras)</p>
+<p>Acabado: Sin acabado</p>
+<p>Manipulado: Plegado y Grapado</p>
+<p>Descripción: 32 páginas</p>";798;Revista A5 Plus | Minicatálogo;;;;;;http://www.originarte.com/imprenta/104-188/revista-a5-plus-8-pag.jpg,http://www.originarte.com/imprenta/104-189/revista-a5-plus-8-pag.jpg;20000;1
+105;;Revista A4 | 8 pág.;"<p>Formato Abierto: 29,7 x 42 cm. (A3)</p>
+<p>Formato Cerrado: 21 x 29,7 cm. (A4)</p>
+<p>Papel: Estucado Brillo</p>
+<p>Gramaje: 130 gr.</p>
+<p>Tintas: 4+4 (todo color dos caras)</p>
+<p>Acabado: Sin acabado</p>
+<p>Manipulado: Plegado y Grapado</p>
+<p>Descripción: 8 páginas</p>";560;Revista A4 | Catálogo;;;;;;http://www.originarte.com/imprenta/105-144/revista-a4-8-pag.jpg,http://www.originarte.com/imprenta/105-145/revista-a4-8-pag.jpg;10000;1
+108;;Revista A4 | 16 pág.;"<div class=""product_desc"">
+<p>Formato Abierto: 29,7 x 42 cm. (A3)</p>
+<p>Formato Cerrado: 21 x 29,7 cm. (A4)</p>
+<p>Papel: Estucado Brillo</p>
+<p>Gramaje: 130 gr.</p>
+<p>Tintas: 4+4 (todo color dos caras)</p>
+<p>Acabado: Sin acabado</p>
+<p>Manipulado: Plegado y Grapado</p>
+<p>Descripción: 16 páginas</p>
+</div>";765;Revista A4 | Catálogo;;;;;;http://www.originarte.com/imprenta/108-150/revista-a4-16-pag.jpg,http://www.originarte.com/imprenta/108-151/revista-a4-16-pag.jpg;20000;1
+109;;Revisión de originales;<p>Evita resultados inesperados.<br />Para cualquier producto que encargues en originarte.com<br /><br /></p>;0;Preimpresión;;;;;,;http://www.originarte.com/imprenta/109-180/revision-de-originales.jpg,http://www.originarte.com/imprenta/109-445/revision-de-originales.jpg;2663;1
+110;;Revista A4 | 24 pág.;"<div class=""product_desc"">
+<p>Formato Abierto: 29,7 x 42 cm. (A3)</p>
+<p>Formato Cerrado: 21 x 29,7 cm. (A4)</p>
+<p>Papel: Estucado Brillo</p>
+<p>Gramaje: 130 gr.</p>
+<p>Tintas: 4+4 (todo color dos caras)</p>
+<p>Acabado: Sin acabado</p>
+<p>Manipulado: Plegado y Grapado</p>
+<p>Descripción: 24 páginas</p>
+</div>";1 208,00;Revista A4 | Catálogo;;;;;;http://www.originarte.com/imprenta/110-190/revista-a4-16-pag.jpg,http://www.originarte.com/imprenta/110-191/revista-a4-16-pag.jpg;15000;1
+111;;Revista A4 | 32 pág.;"<div class=""product_desc"">
+<p>Formato Abierto: 29,7 x 42 cm. (A3)</p>
+<p>Formato Cerrado: 21 x 29,7 cm. (A4)</p>
+<p>Papel: Estucado Brillo</p>
+<p>Gramaje: 130 gr.</p>
+<p>Tintas: 4+4 (todo color dos caras)</p>
+<p>Acabado: Sin acabado</p>
+<p>Manipulado: Plegado y Grapado</p>
+<p>Descripción: 32 páginas</p>
+</div>";1 257,00;Revista A4 | Catálogo;;;;;;http://www.originarte.com/imprenta/111-192/revista-a4-16-pag.jpg,http://www.originarte.com/imprenta/111-193/revista-a4-16-pag.jpg;15000;1
+112;;Flyer A6;"<p><span style=""color: #888888;"">Formato:</span> 10 x 15 cm. | A6</p>
+<p><span style=""color: #888888;"">Papel:</span> Reciclado 100% <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel Cyclus Offset basado en fibra 100% reciclada conforme a la norma RAL UZ-14, sin blanqueantes ópticos. Su excelente opacidad permite la reproducción perfecta de imágenes, resaltada por su textura y sensación visual.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 300 gr.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Manipulado:</span> Corte</p>";160;Papel Reciclado Cyclus Offset,Papel Reciclado Cyclus Offset;;;;;,;http://www.originarte.com/imprenta/112-330/flyer-a6.jpg,http://www.originarte.com/imprenta/112-331/flyer-a6.jpg,http://www.originarte.com/imprenta/112-332/flyer-a6.jpg;34998;0
+113;;4+0 tintas con barniz exterior;"<p>Formato Cerrado: 22 x 30,5 cm.</p>
+<p>Papel: Estucado Brillo</p>
+<p>Gramaje: 300 gr.</p>
+<p>Tintas: 4+0 CMYK</p>
+<p>Acabado: Barniz Brillo o Mate una cara</p>
+<p>Manipulado: Troquelado</p>";440;Troqueladas Automontables con tarjetero;;;;;;http://www.originarte.com/imprenta/113-334/sin-plastificado-exterior.jpg,http://www.originarte.com/imprenta/113-335/sin-plastificado-exterior.jpg,http://www.originarte.com/imprenta/113-336/sin-plastificado-exterior.jpg,http://www.originarte.com/imprenta/113-337/sin-plastificado-exterior.jpg;7500;1
+114;;4+0 tintas con plastificado exterior;"<p>Formato Cerrado: 22 x 30,5 cm.</p>
+<p>Papel: Estucado Mate</p>
+<p>Gramaje: 350 gr.</p>
+<p>Tintas: 4+0 CMYK</p>
+<p>Acabado: Plastificado Brillo o Mate una cara</p>
+<p>Manipulado: Troquelado</p>";530;Troqueladas Automontables con tarjetero;;;;;;http://www.originarte.com/imprenta/114-338/sin-plastificado-exterior.jpg,http://www.originarte.com/imprenta/114-339/sin-plastificado-exterior.jpg,http://www.originarte.com/imprenta/114-407/sin-plastificado-exterior.jpg,http://www.originarte.com/imprenta/114-340/sin-plastificado-exterior.jpg;7500;1
+115;2+2t_Reciclado_TV;2+2t. Papel Reciclado;"<p>Formato: De 5,5x5,5 a 8,5x5,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Reciclado 100% <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel Cyclus Offset basado en fibra 100% reciclada conforme a la norma RAL UZ-14, sin blanqueantes ópticos. Su excelente opacidad permite la reproducción perfecta de imágenes, resaltada por su textura y sensación visual.</span></a></p>
+<p>Gramaje: 350grs.</p>
+<p>Tintas: 2+2 (Pantone)</p>
+<p>Manipulado: Corte</p>
+<p>Descripción: Con esta opción es posible imprimir de 1 a 8 modelos</p>";170;Impresión en tintas directas,Impresión Tintas Directas;;;;;,;http://www.originarte.com/imprenta/115-342/tarjeta-de-visita-tintas-directas.jpg,http://www.originarte.com/imprenta/115-344/tarjeta-de-visita-tintas-directas.jpg,http://www.originarte.com/imprenta/115-341/tarjeta-de-visita-tintas-directas.jpg;7498;1
+116;2+2t_Verjurado_TV;2+2t. Papel Verjurado;"<p>Formato: De 5,5x5,5 a 8,5x5,5 cm.</p>
+<p>Papel: Verjurado <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel Conqueror Verjurado Diamond White, 100% fibra de algodón, sin cloro ni ácidos. Acabado texturizado, suave y elegante, ofrece un toque distintivo en la comunicación de tu empresa.</span></a></p>
+<p>Gramaje: 300grs.</p>
+<p>Tintas: 2+2 (Pantone)</p>
+<p>Manipulado: Corte</p>
+<p>Descripción: Con esta opción es posible imprimir de 1 a 8 modelos</p>";230;Impresión en tintas directas,Impresión Tintas Directas;;;;;,;http://www.originarte.com/imprenta/116-348/tarjeta-de-visita-tintas-directas.jpg,http://www.originarte.com/imprenta/116-349/tarjeta-de-visita-tintas-directas.jpg,http://www.originarte.com/imprenta/116-350/tarjeta-de-visita-tintas-directas.jpg,http://www.originarte.com/imprenta/116-345/tarjeta-de-visita-tintas-directas.jpg;7500;1
+117;4+4t_Estucado_TV;4+4t. Papel Estucado;"<p><span style=""color: #888888;"">Formato: De 5,5x5,5 a 8,5x5,5 cm.</span></p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p style=""color: #888888;"">Gramaje: 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Manipulado:</span><span> </span><span>Corte</span><span></span></p>
+<p><span style=""color: #888888;"">Descripción:</span><span> Con esta opción es posible imprimir de 1 a 8 modelos</span> </p>";200;Todo color sin plastificar,Estucado mate;;;;;,;http://www.originarte.com/imprenta/117-358/44t-papel-estucado.jpg,http://www.originarte.com/imprenta/117-359/44t-papel-estucado.jpg,http://www.originarte.com/imprenta/117-357/44t-papel-estucado.jpg;7500;1
+118;4+4t_reciclado_TV;4+4t. Papel Reciclado;"<p><span style=""color: #888888;"">Formato:</span> De 5,5x5,5 a 8,5x5,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Reciclado 100% <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel Cyclus Offset basado en fibra 100% reciclada conforme a la norma RAL UZ-14, sin blanqueantes ópticos. Su excelente opacidad permite la reproducción perfecta de imágenes, resaltada por su textura y sensación visual.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Manipulado:</span>Corte</p>
+<p><span style=""color: #888888;"">Descripción:</span> Con esta opción es posible imprimir de 1 a 8 modelos</p>";230;Todo color sin plastificar,Estucado mate;;;;;,;http://www.originarte.com/imprenta/118-351/44t-papel-estucado.jpg,http://www.originarte.com/imprenta/118-352/44t-papel-estucado.jpg,http://www.originarte.com/imprenta/118-353/44t-papel-estucado.jpg;7500;1
+119;4+4t_Verjurado_TV;4+4t. Papel Verjurado;"<p><span style=""color: #888888;"">Formato:</span> De 5,5x5,5 a 8,5x5,5 cm.</p>
+<p>Papel: Verjurado <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel Conqueror Verjurado Diamond White, 100% fibra de algodón, sin cloro ni ácidos. Acabado texturizado, suave y elegante, ofrece un toque distintivo en la comunicación de tu empresa.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 300grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Manipulado:</span> Corte</p>
+<p><span style=""color: #888888;"">Descripción:</span> Con esta opción es posible imprimir de 1 a 8 modelos</p>";300;Todo color sin plastificar,Estucado mate;;;;;,;http://www.originarte.com/imprenta/119-360/44t-papel-estucado.jpg,http://www.originarte.com/imprenta/119-361/44t-papel-estucado.jpg,http://www.originarte.com/imprenta/119-362/44t-papel-estucado.jpg,http://www.originarte.com/imprenta/119-356/44t-papel-estucado.jpg;7500;1
+120;sobre-americano-3t;Sobre 3+0 tintas PANTONE;"<p>Formato: 11,5 x 22,5 cm</p>
+<p>Papel: Offset Extra blanco</p>
+<p>Gramaje: 90grs.</p>
+<p>Tintas: 3+0 PANTONE</p>
+<p>Descripción: Sobre con o sin ventana</p>";130;Sobre americano con o sin ventana;;;;;;http://www.originarte.com/imprenta/120-363/sobre-americano.jpg,http://www.originarte.com/imprenta/120-403/sobre-americano.jpg;20000;1
+121;sobre-americano-4t;Sobre 4+0 tintas CMYK;"<p>Formato: 11,5 x 22,5 cm</p>
+<p>Papel: Offset Extra blanco</p>
+<p>Gramaje: 90grs.</p>
+<p>Tintas: 4+0 CMYK</p>
+<p>Descripción: Sobre con o sin ventana</p>";160;Sobre americano con o sin ventana;;;;;;http://www.originarte.com/imprenta/121-364/sobre-americano.jpg,http://www.originarte.com/imprenta/121-404/sobre-americano.jpg;19999;1
+122;sobre-bolsa-3t;Sobre 3+0 tintas PANTONE;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>22,9 x 32,4 cm</p>
+<p><span class=""claro"" style=""color: #888888;""> Papel:</span> Offset Extra blanco</p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 100grs.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 3+0 PANTONE</p>";170;Sobre Bolsa;;;;;;http://www.originarte.com/imprenta/122-365/sobre-americano.jpg;20000;1
+123;sobre-bolsa-4t;Sobre todo color;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>22,9 x 32,4 cm</p>
+<p><span class=""claro"" style=""color: #888888;""> Papel:</span> Offset Extra blanco</p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 100grs.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+0 CMYK</p>";210;Sobre Bolsa;;;;;;http://www.originarte.com/imprenta/123-366/sobre-americano.jpg;20000;1
+124;sobre-folio-2t;Sobre 2+0 tintas PANTONE;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>26 x 36 cm</p>
+<p><span class=""claro"" style=""color: #888888;""> Papel:</span> Offset Extra blanco</p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 100grs.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 2+0 PANTONE</p>";150;Sobre Folio Prolongado;;;;;;http://www.originarte.com/imprenta/124-367/sobre-americano.jpg;20000;1
+125;sobre-folio-3t;Sobre 3+0 tintas PANTONE;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>26 x 36 cm</p>
+<p><span class=""claro"" style=""color: #888888;""> Papel:</span> Offset Extra blanco</p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 100grs.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 3+0 PANTONE</p>";180;Sobre Folio Prolongado;;;;;;http://www.originarte.com/imprenta/125-368/sobre-americano.jpg;20000;1
+126;sobre-folio-4t;Sobre todo color;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>26 x 36 cm</p>
+<p><span class=""claro"" style=""color: #888888;""> Papel:</span> Offset Extra blanco</p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 100grs.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+0 CMYK</p>";220;Sobre Folio Prolongado;;;;;;http://www.originarte.com/imprenta/126-477/sobre-americano.jpg;20000;1
+127;sobre-a5-2t;Sobre 2+0 tintas PANTONE;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>16,2 x 22,9 cm</p>
+<p><span class=""claro"" style=""color: #888888;""> Papel:</span> Offset Extra blanco</p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 90grs.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 2+0 PANTONE</p>";120;Sobre A5;;;;;;http://www.originarte.com/imprenta/127-370/sobre-americano.jpg,http://www.originarte.com/imprenta/127-405/sobre-americano.jpg;20000;1
+128;sobre-a5-3t;Sobre 3+0 tintas PANTONE;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>16,2 x 22,9 cm</p>
+<p><span class=""claro"" style=""color: #888888;""> Papel:</span> Offset Extra blanco</p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 90grs.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 3+0 PANTONE</p>";150;Sobre A5;;;;;;http://www.originarte.com/imprenta/128-371/sobre-americano.jpg;20000;1
+129;sobre-a5-4t;Sobre todo color;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>16,2 x 22,9 cm</p>
+<p><span class=""claro"" style=""color: #888888;""> Papel:</span> Offset Extra blanco</p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 90grs.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+0 CMYK</p>";180;Sobre A5;;;;;;http://www.originarte.com/imprenta/129-372/sobre-americano.jpg;20000;1
+131;ClaseA_F_Mini;Folleto Flyer Mini;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>6,5 x 10 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";85;Clase A - Plastificado Mate una cara;;;;;,;http://www.originarte.com/imprenta/131-375/folleto-flyer-mini.jpg,http://www.originarte.com/imprenta/131-381/folleto-flyer-mini.jpg,http://www.originarte.com/imprenta/131-376/folleto-flyer-mini.jpg;10000;1
+132;carta-offset-2t;Papel Carta 2+0t.;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>A4</p>
+<p><span class=""claro"" style=""color: #888888;""> Papel:</span> Offset Extra Blanco <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Offset extra pre-pint (especial garantizado para impresión ink-jet y láser). Extra blanco, EcoLabel, FSC y ECF.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 90grs.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 2+0</p>";110;Papel Offset Extra Blanco;;;;;;http://www.originarte.com/imprenta/132-377/papel-carta-a4.jpg;7499;1
+133;carta-offset-4t;Papel Carta 4+0t.;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>A4</p>
+<p><span class=""claro"" style=""color: #888888;""> Papel:</span> Offset Extra Blanco <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Offset extra pre-pint (especial garantizado para impresión ink-jet y láser). Extra blanco, EcoLabel, FSC y ECF.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 90grs.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+0</p>";160;Papel Offset Extra Blanco;;;;;;http://www.originarte.com/imprenta/133-378/papel-carta-a4.jpg;7498;1
+134;carta-recic-4t;Papel Carta 4+0t.;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>A4</p>
+<p><span style=""color: #888888;"">Acabado:</span> Cyclus 100% Reciclado<a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel Offset 100% reciclado, fabricado sin cloro ni blanqueantes ópticados. Certificado Ángel Azul, Cisne Nórdico y NAPM.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 90grs.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+0</p>";170;Papel Reciclado Cyclus Offset;;;;;;http://www.originarte.com/imprenta/134-379/papel-carta-a4.jpg;7500;1
+135;;Díptico Cuadrado;"<p><span class=""claro"" style=""color: #888888;"">Formato Abierto:</span> 10 x 20 cm.</p>
+<p><span class=""claro"" style=""color: #888888;"">Formato Cerrado:</span> 10 x 10 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> un hendido (dípticos)</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> Se entrega plegado.</p>";150;Clase A - Plastificado Mate una cara;Originarte impresión offset díptico postal;Originarte impresión offset díptico postal;impresion diptico, diptico cuadrado, impresion offset, dipticos barcelona;;,;;7500;0
+136;;Calendario sin barniz;"<p><span class=""claro"" style=""color: #888888;"">Formato abierto: </span><span style=""font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal;"">11 x 22 x 6 cm.</span></p>
+<p style=""font-style: normal; font-size: 13px; font-family: Helvetica, Arial, sans-serif;""><span class=""claro"" style=""color: #888888;"">Papel:</span> Cartulina Foldind</p>
+<p style=""font-style: normal; font-size: 13px; font-family: Helvetica, Arial, sans-serif;""><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 300grs.</p>
+<p style=""font-style: normal; font-size: 13px; font-family: Helvetica, Arial, sans-serif;""><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+0</p>
+<p style=""font-style: normal; font-size: 13px; font-family: Helvetica, Arial, sans-serif;""><span class=""claro"">Manipulado:</span><span> Engomado</span></p>";200;Calendario de mesa;Calendario de mesa;Calendario de mesa, calendario engomado;calendario de mesa, calendario engomado, calendario automontable;;;http://www.originarte.com/imprenta/136-387/calendario-de-mesa-todo-color.jpg,http://www.originarte.com/imprenta/136-388/calendario-de-mesa-todo-color.jpg,http://www.originarte.com/imprenta/136-418/calendario-de-mesa-todo-color.jpg;10000;1
+137;;Calendario con barniz;"<p><span class=""claro"" style=""color: #888888;"">Formato abierto: </span><span style=""font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal;"">11 x 22 x 6 cm.</span></p>
+<p style=""font-style: normal; font-size: 13px; font-family: Helvetica, Arial, sans-serif;""><span class=""claro"" style=""color: #888888;"">Papel:</span> Cartulina Foldind</p>
+<p style=""font-style: normal; font-size: 13px; font-family: Helvetica, Arial, sans-serif;""><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 300grs.</p>
+<p style=""font-style: normal; font-size: 13px; font-family: Helvetica, Arial, sans-serif;""><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+0</p>
+<p style=""font-style: normal; font-size: 13px; font-family: Helvetica, Arial, sans-serif;"">Acabado: Barniz brillo</p>
+<p style=""font-style: normal; font-size: 13px; font-family: Helvetica, Arial, sans-serif;""><span class=""claro"" style=""color: #888888;"">Manipulado:</span><span> Engomado</span></p>";240;Calendario de mesa;Calendario de mesa;Calendario de mesa, calendario engomado;calendario de mesa, calendario engomado, calendario automontable;;;http://www.originarte.com/imprenta/137-389/calendario-de-mesa-todo-color.jpg,http://www.originarte.com/imprenta/137-390/calendario-de-mesa-todo-color.jpg,http://www.originarte.com/imprenta/137-419/calendario-de-mesa-todo-color.jpg;10000;1
+138;;4+4 tintas con barniz dos caras;"<p>Formato Cerrado: 22 x 30,5 cm.</p>
+<p>Papel: Estucado Brillo</p>
+<p>Gramaje: 300 gr.</p>
+<p>Tintas: 4+4 CMYK</p>
+<p>Acabado: Barniz Brillo o Mate dos caras</p>
+<p>Manipulado: Troquelado</p>";500;Troqueladas Automontables con tarjetero;;;;;;http://www.originarte.com/imprenta/138-420/sin-plastificado-exterior.jpg,http://www.originarte.com/imprenta/138-421/sin-plastificado-exterior.jpg,http://www.originarte.com/imprenta/138-422/sin-plastificado-exterior.jpg;7500;1
+139;;Flyer A5;"<p><span style=""color: #888888;"">Formato:</span> 14,8 x 21 cm. | A5</p>
+<p><span style=""color: #888888;"">Papel:</span> Reciclado 100% <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel Cyclus Offset basado en fibra 100% reciclada conforme a la norma RAL UZ-14, sin blanqueantes ópticos. Su excelente opacidad permite la reproducción perfecta de imágenes, resaltada por su textura y sensación visual.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 300 gr.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Manipulado:</span> Corte</p>";200;Papel Reciclado Cyclus Offset,Papel Reciclado Cyclus Offset;Originarte Impresión flyer A5 reciclado;Originarte Impresión flyer A5 reciclado;impresion, offset, barcelona, madrid, valencia, flyers, reciclado;;,;http://www.originarte.com/imprenta/139-427/flyer-a5-reciclado.jpg;35000;0
+140;;Flyer Tarjetón;"<p><span style=""color: #888888;"">Formato:</span> 10 x 21 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Reciclado 100% <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel Cyclus Offset basado en fibra 100% reciclada conforme a la norma RAL UZ-14, sin blanqueantes ópticos. Su excelente opacidad permite la reproducción perfecta de imágenes, resaltada por su textura y sensación visual.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 300 gr.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Manipulado:</span> Corte</p>";180;Papel Reciclado Cyclus Offset,Papel Reciclado Cyclus Offset;Originarte Impresión flyer tarjetón reciclado;Originarte Impresión flyer tarjetón reciclado;impresion, offset, barcelona, madrid, valencia, flyers, reciclado;;,;http://www.originarte.com/imprenta/140-428/flyer-tarjeton-10x21-papel-reciclado.jpg,http://www.originarte.com/imprenta/140-430/flyer-tarjeton-10x21-papel-reciclado.jpg;35000;0
+141;115gr_Mapa_9,9x17,4;Desplegable 9,9x17,4 a 50x35;"<p><span class=""claro"" style=""color: #888888;"">Formato Abierto:</span> 35 x 50 cm.</p>
+<p><span class=""claro"" style=""color: #888888;"">Formato Cerrado:</span> 9,9 x 17,4 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 115 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Plegado en acordeón 5 caras y replegado díptico</p>
+<p><span class=""claro"" style=""color: #888888;"">Descripción:</span> Se entrega plegado</p>
+<p></p>";350;Papel 115grs.;;;;;;http://www.originarte.com/imprenta/141-438/cuadriptico-a4.jpg,http://www.originarte.com/imprenta/141-439/cuadriptico-a4.jpg;27500;1
+142;48hrs_reciclado_A6;Flyer A6;"<p><span style=""color: #888888;"">Formato:</span> 10 x 15 cm. | A6</p>
+<p><span style=""color: #888888;"">Papel:</span> Reciclado 100% <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel Cyclus Offset basado en fibra 100% reciclada conforme a la norma RAL UZ-14, sin blanqueantes ópticos. Su excelente opacidad permite la reproducción perfecta de imágenes, resaltada por su textura y sensación visual.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 300 gr.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Manipulado:</span> Corte</p>";85;Papel Reciclado Cyclus Offset,Papel Reciclado Cyclus Offset;;;;;,;http://www.originarte.com/imprenta/142-431/flyer-a6.jpg,http://www.originarte.com/imprenta/142-432/flyer-a6.jpg,http://www.originarte.com/imprenta/142-433/flyer-a6.jpg;74999;1
+143;48hrs_reciclado_10x20;Flyer Tarjetón;"<p><span style=""color: #888888;"">Formato:</span> 10 x 21 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Reciclado 100% <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel Cyclus Offset basado en fibra 100% reciclada conforme a la norma RAL UZ-14, sin blanqueantes ópticos. Su excelente opacidad permite la reproducción perfecta de imágenes, resaltada por su textura y sensación visual.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 300 gr.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Manipulado:</span> Corte</p>";95;Papel Reciclado Cyclus Offset,Papel Reciclado Cyclus Offset;Originarte Impresión flyer tarjetón reciclado;Originarte Impresión flyer tarjetón reciclado;impresion, offset, barcelona, madrid, valencia, flyers, reciclado;;,;http://www.originarte.com/imprenta/143-434/flyer-tarjeton-10x21-papel-reciclado.jpg,http://www.originarte.com/imprenta/143-435/flyer-tarjeton-10x21-papel-reciclado.jpg;75000;1
+144;48hrs_reciclado_A5;Flyer A5;"<p><span style=""color: #888888;"">Formato:</span> 14,8 x 21 cm. | A5</p>
+<p><span style=""color: #888888;"">Papel:</span> Reciclado 100% <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel Cyclus Offset basado en fibra 100% reciclada conforme a la norma RAL UZ-14, sin blanqueantes ópticos. Su excelente opacidad permite la reproducción perfecta de imágenes, resaltada por su textura y sensación visual.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 300 gr.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Manipulado:</span> Corte</p>";100;Papel Reciclado Cyclus Offset,Papel Reciclado Cyclus Offset;Originarte Impresión flyer A5 reciclado;Originarte Impresión flyer A5 reciclado;impresion, offset, barcelona, madrid, valencia, flyers, reciclado;;,;http://www.originarte.com/imprenta/144-436/flyer-a5-reciclado.jpg,http://www.originarte.com/imprenta/144-437/flyer-a5-reciclado.jpg;75000;1
+145;;Punto de libro | Señalador;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>5,5 x 15 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 250grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Brillo 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa, que protege el papel y la impresión. El acabado brillo es más fotográfico, resalta los colores, resultando ideal para folletos, flyers y material de street marketing.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";110;Plastificado Brillo una cara;;;;;;http://www.originarte.com/imprenta/145-440/punto-de-libro-senalador.jpg;110000;0
+146;;Punto de libro | Señalador XL;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>5,5 x 20,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 250grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Brillo 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa, que protege el papel y la impresión. El acabado brillo es más fotográfico, resalta los colores, resultando ideal para folletos, flyers y material de street marketing.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>";130;Plastificado Brillo una cara;Originarte impresión punto de libro señalador brillo;Originarte impresión punto de libro señalador brillo;impresion, offset, punto libro, señalador, barcelona, valencia, madrid;;;http://www.originarte.com/imprenta/146-441/punto-de-libro-senalador-plastificado-brillo.jpg;110000;0
+147;Mantel_4t;Mantel todo color;"<p><span style=""font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal;"">Formato: A3 (29,7 x 42 cm)</span></p>
+<p><span style=""font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal;"">Papel: Offset Extra blanco</span></p>
+<p><span style=""font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal;"">Gramaje: 80grs.</span></p>
+<p style=""margin-top: 0px; margin-bottom: 0px; font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal;""><span style=""font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal;"">Tintas: 4+0 CMYK</span></p>";230;Papel offset;;;;;;http://www.originarte.com/imprenta/147-442/mantel-todo-color.jpg;35000;1
+148;Mantel_2t;Mantel 2+0 tintas;"<p><span style=""font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal;"">Formato: A3 (29,7 x 42 cm)</span></p>
+<p><span style=""font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal;"">Papel: Offset Extra blanco</span></p>
+<p><span style=""font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal;"">Gramaje: 80grs.</span></p>
+<p style=""margin-top: 0px; margin-bottom: 0px; font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal;""><span style=""font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal;"">Tintas: 2+0</span></p>";150;Papel offset;;;;;;http://www.originarte.com/imprenta/148-443/mantel-todo-color.jpg;35000;1
+149;Mantel_1t;Mantel 1+0 tintas;"<p><span style=""font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal;"">Formato: A3 (29,7 x 42 cm)</span></p>
+<p><span style=""font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal;"">Papel: Offset Extra blanco</span></p>
+<p><span style=""font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal;"">Gramaje: 80grs.</span></p>
+<p style=""margin-top: 0px; margin-bottom: 0px; font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal;""><span style=""font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal;"">Tintas: 1+0</span></p>";120;Papel offset;;;;;;http://www.originarte.com/imprenta/149-444/mantel-todo-color.jpg;35000;1
+150;;Diseño web profesional;<p>Desarrollamos tu sitio web con Wordpress (open CMS) personalizándolo según tus necesidades específicas de comunicación.</p>;490;Sitio web institucional;Originarte: Diseño y maquetación web;Originarte: Diseño y maquetación web;diseño web, maquetacion, paginas web, tienda online, vender online;;;http://www.originarte.com/imprenta/150-446/diseno-web-con-gestor-de-contenidos.jpg;5000;1
+151;;Formación;<p>Te enseñamos a gestionar y actualizar el contenido de tu web. No es necesario tener conocimientos de programación.</p>;40;Completa tu presencia en internet;Originarte: Formación en gestión de contenidos online;Originarte: Te enseñamos a actualizar tu web;web, crear mi web, actualizar mi web;;,;http://www.originarte.com/imprenta/151-447/formacion-gestor-contenidos-web.jpg;5000;1
+152;;Ruta Centro;"<p>Tamaño flyer: hasta A6</p>
+<p>Zona: Gótico, Raval y Borne. Barcelona</p>
+<p>Tiempo: Una semana</p>";60;Distribución de Folletos;Originarte: Distribución de folletos y flyers;Distribución de folletos y flyers en el centro de Barcelona;distribucion, barcelona, folletos, flyers, centro, noche;;;http://www.originarte.com/imprenta/152-450/ruta-centro.jpg;0;1
+153;;Ruta Urbana;"<p>Tamaño flyer: hasta A6</p>
+<p>Zona: Gótico, Raval, Borne, Eixample y Gracia. Barcelona</p>
+<p>Tiempo: Una semana</p>";90;Distribución de Folletos;Originarte: Distribución de folletos y flyers;Distribución de folletos y flyers en el centro de Barcelona;distribucion, barcelona, folletos, flyers, centro, noche, ciudad;;;http://www.originarte.com/imprenta/153-451/ruta-urbana.jpg;0;1
+155;;Ruta Centro (nocturna);"<p>Tamaño flyer: hasta A6</p>
+<p>Zona: Gótico, Raval y Borne. Barcelona</p>
+<p>Tiempo: Una semana</p>";100;Distribución de Folletos;Originarte: Distribución de folletos y flyers;Distribución de folletos y flyers en el centro de Barcelona de noche;distribucion, barcelona, folletos, flyers, centro, noche;;;http://www.originarte.com/imprenta/155-452/ruta-centro-nocturna.jpg;0;1
+156;;Buzoneo en Barcelona;"<p><span>Tamaño flyer: hasta A5</span></p>
+<p>Zona: Barcelona</p>
+<p>Si quieres más de una zona consulta precios</p>
+<p><a href=""http://www.originarte.es/Blog/?trabajosorg=campanas-buzoneo"" target=""_blank"">Ver ejemplos</a></p>";100;Buzoneo;Buzoneo en Barcelona provincia;Reparto de flyers en la provincia de Barcelona;buzoneo, barcelona, flyers, distribucion, publicidad, folletos;;;http://www.originarte.com/imprenta/156-463/buzoneo-barcelona.jpg;0;1
+157;;Parabriseado en Barcelona;"<p><span>Flyers hasta tamaño A5</span></p>
+<p>Zona: Barcelona</p>
+<p>Si quieres más de una zona consulta precios</p>";0;Parabriseado;Parabriseado de publicidad;Parabriseado en la provincia de Barcelona;barcelona, flyers, distribucion, publicidad, parabriseo, coches;;;http://www.originarte.com/imprenta/157-454/parabriseado-en-barcelona.jpg;0;1
+158;;Perching en Barcelona;"<p>Tamaño flyer: hasta A5</p>
+<p>Zona: Barcelona</p>
+<p>Si quieres más de una zona consulta precios</p>
+<p><a href=""http://www.originarte.es/Blog/?trabajosorg=campanas-buzoneo"">Ver ejemplos</a></p>";0;Perching;Originarte: Distribución de folletos y flyers;Distribución de folletos y flyers en el centro de Barcelona de noche;distribucion, barcelona, folletos, flyers, centro, noche;;;http://www.originarte.com/imprenta/158-455/ruta-centro-nocturna.jpg;0;1
+159;;Posters A4;"<p>Fachadas de tiendas</p>
+<p>Pivotes cedidos por el ayuntamiento</p>
+<p>Paneles de anuncios</p>";90;Pegado de carteles;Pegado de carteles;Distribución y pegado de posters en Barcelona;pegar, carteles, colgar, distribuir, posters, barcelona;;;http://www.originarte.com/imprenta/159-466/posters-a4.jpg,http://www.originarte.com/imprenta/159-456/posters-a4.jpg;0;1
+160;;Posters A3;"<p>Pivotes cedidos por el ayuntamiento</p>
+<p>Paneles de anuncios</p>";110;Pegado de carteles;Pegado de carteles;Distribución y pegado de posters en Barcelona;pegar, carteles, colgar, distribuir, posters, barcelona, a3;;;http://www.originarte.com/imprenta/160-457/posters-a3.jpg;0;1
+161;;Posters 100x70;"<p>Pivotes cedidos por el ayuntamiento</p>
+<p>Paneles de anuncios</p>";100;Pegado de carteles;Pegado de carteles;Distribución y pegado de posters en Barcelona;pegar, carteles, colgar, distribuir, posters, barcelona, grandes, 100x70;;;http://www.originarte.com/imprenta/161-458/posters-100-70.jpg;0;1
+162;;Barcelona Centro;"<p>Lunes a viernes de 9:00 a 20:00</p>
+<p>Tiempo estimado de reparto:<br />Para 2500 flyers: 3 hs.<br />Para 5000 flyers: 5 hs.<br />Para 10000 flyers: 10 hs. </p>
+<p>Fuera del centro consulta precios</p>";45;Reparto en mano;Reparto en mano;Distribución de flyers o folletos en mano;reparto, mano, mano a mano, flyers, folletos, ditpicos, tripticos;;;http://www.originarte.com/imprenta/162-464/en-mano-barcelona.jpg,http://www.originarte.com/imprenta/162-459/en-mano-barcelona.jpg,http://www.originarte.com/imprenta/162-465/en-mano-barcelona.jpg;0;1
+163;150_brillo_13,5x20,5;Flyer / Tarjeton XL;"<p><span class=""claro"" style=""color: #888888;"">Formato:</span> 13,5 x 20,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 150 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span> Corte</p>
+<p></p>";108;Papel est. 150 grs.- Todo color 2c;;;;;,;http://www.originarte.com/imprenta/163-460/flyer-a5.jpg,http://www.originarte.com/imprenta/163-462/flyer-a5.jpg,http://www.originarte.com/imprenta/163-461/flyer-a5.jpg;249997;1
+164;;Ruta Universidades;"<p>Tamaño flyer: hasta A5</p>
+<p>Universidades seleccionadas de Barcelona.</p>";90;Distribución de Folletos;Originarte: Distribución de folletos y flyers;Distribución de folletos y flyers en el centro de Barcelona de noche;distribucion, barcelona, folletos, flyers, centro, noche;;,;http://www.originarte.com/imprenta/164-467/ruta-centro-nocturna.jpg,http://www.originarte.com/imprenta/164-468/ruta-centro-nocturna.jpg;0;1
+165;;Ruta Hoteles;"<p>Tamaño flyer: hasta A5</p>
+<p>Hoteles seleccionados de Barcelona.</p>";100;Distribución de Folletos;Originarte: Distribución de folletos y flyers;Distribución de folletos y flyers en el centro de Barcelona de noche;distribucion, barcelona, folletos, flyers, centro, noche;;150_brillo_P,48hrs_150gr_A5;http://www.originarte.com/imprenta/165-469/ruta-centro-nocturna.jpg,http://www.originarte.com/imprenta/165-470/ruta-centro-nocturna.jpg,http://www.originarte.com/imprenta/165-471/ruta-centro-nocturna.jpg;0;1
+166;;Ruta Centros Cívicos;"<p>Tamaño flyer: hasta A5.</p>
+<p>50 centros cívicos de Barcelona.</p>";60;Distribución de Folletos;Originarte: Distribución de folletos y flyers;Distribución de folletos y flyers en el centro de Barcelona de noche;distribucion, barcelona, folletos, flyers, centro, noche;;150_brillo_P,48hrs_150gr_A5;http://www.originarte.com/imprenta/166-472/ruta-centro-nocturna.jpg;0;1
+167;;Ruta Bibliotecas;"<p>Tamaño flyer: hasta A5.</p>
+<p>37 bibliotecas de Barcelona.</p>";60;Distribución de Folletos;Originarte: Distribución de folletos y flyers;Distribución de folletos y flyers en el centro de Barcelona de noche;distribucion, barcelona, folletos, flyers, centro, noche;;150_brillo_P,48hrs_150gr_A5;http://www.originarte.com/imprenta/167-473/ruta-centro-nocturna.jpg,http://www.originarte.com/imprenta/167-474/ruta-centro-nocturna.jpg;0;1
+168;;Ruta Universidades Posters A4;"<p>Paneles de anuncios.</p>
+<p>Universidades de Barcelona.</p>";125;Pegado de carteles;Originarte: Distribución de posters y carteles;Distribución de posters y carteles en universidades de Barcelona de noche;distribucion, barcelona, posters, carteles;;100gr_PO_A4,;http://www.originarte.com/imprenta/168-475/distribucion-posters-universidades-barcelona.jpg;0;1
+170;;Ruta Universidades Posters A3;"<p>Paneles de anuncios.</p>
+<p>Universidades de Barcelona.</p>";125;Pegado de carteles;Originarte: Distribución de posters y carteles;Distribución de posters y carteles en universidades de Barcelona de noche;distribucion, barcelona, posters, carteles;;,100gr_PO_A3;http://www.originarte.com/imprenta/170-476/distribucion-posters-universidades-barcelona.jpg;0;1
+171;Muestras;Solicitar muestras gratis;<p>Te enviamos una carpeta de muestras con productos para que puedas conocer mejor las opciones de impresión con las que trabajamos.</p>;0;Inicio;;;;;;http://www.originarte.com/imprenta/171-482/solicitar-muestras-gratis.jpg;1000;1
+172;90_offset_A4;Complet A4;<p>Formato abierto: 23 x 29,7 cm.<br />Formato cerrado: 21 x 9,9 cm.<br />Papel: Offset Extra Blanco<br />Gramaje: 90 gr.<br />Tintas: 4+4 (todo color 2 caras)<br />Manipulado: Plegado tríptico complet<br />Descripción: Apto para envío sin sobre</p>;360;Papel offset 90grs.- Todo color 2c;Carta complet A4;Envío comercial sin sobre;envio comercial, carta sin sobre, autoensobrado, complet, complex;;;http://www.originarte.com/imprenta/172-483/complet-a4-carta-comercial.jpg,http://www.originarte.com/imprenta/172-484/complet-a4-carta-comercial.jpg,http://www.originarte.com/imprenta/172-485/complet-a4-carta-comercial.jpg;40000;1
+173;menu-a4;Menú A4;<p>Formato Abierto: A4<br />Formato Cerrado: A5 o 10,5 x 29,7 cm.<br />Papel: Estucado Mate<br />Gramaje: 300 gr.<br />Tintas: 4+4 digital (todo color 2 caras)<br />Acabado: Plastificado Mate 2 caras<br />Manipulado: un hendido (dípticos)</p>;90;Papel 300 grs. - Todo color 2c - Plastificado mate 2c;Originarte: Impresión digital de menús para restaurantes A4;Carta plastificada dos caras, tamaño A4;carta, menu, restaurante, impresion, digital, plastificado, impermeable;;;http://www.originarte.com/imprenta/173-486/menu-a4-carta-restaurante.jpg,http://www.originarte.com/imprenta/173-490/menu-a4-carta-restaurante.jpg,http://www.originarte.com/imprenta/173-487/menu-a4-carta-restaurante.jpg,http://www.originarte.com/imprenta/173-488/menu-a4-carta-restaurante.jpg,http://www.originarte.com/imprenta/173-489/menu-a4-carta-restaurante.jpg;10000;1
+174;menu-a3;Menú A3;<p>Formato Abierto: A3<br />Formato Cerrado: A4<br />Papel: Estucado Mate<br />Gramaje: 300 gr.<br />Tintas: 4+4 digital (todo color 2 caras)<br />Acabado: Plastificado Mate 2 caras<br />Manipulado: un hendido (dípticos)</p>;120;Papel 300 grs. - Todo color 2c - Plastificado mate 2c;Originarte: Impresión digital de menús para restaurantes A3;Carta plastificada dos caras, tamaño A3;carta, menu, restaurante, impresion, digital, plastificado, impermeable;;;http://www.originarte.com/imprenta/174-491/menu-carta-restaurante-a3.jpg,http://www.originarte.com/imprenta/174-492/menu-carta-restaurante-a3.jpg,http://www.originarte.com/imprenta/174-493/menu-carta-restaurante-a3.jpg,http://www.originarte.com/imprenta/174-494/menu-carta-restaurante-a3.jpg;10000;1
+175;rev-a4-12p;Revista A4 | 12 pág.;"<p>Formato Abierto: 29,7 x 42 cm. (A3)</p>
+<p>Formato Cerrado: 21 x 29,7 cm. (A4)</p>
+<p>Papel: Estucado Brillo</p>
+<p>Gramaje: 130 gr.</p>
+<p>Tintas: 4+4 (todo color dos caras)</p>
+<p>Manipulado: Plegado y Grapado</p>
+<p>Descripción: 12 páginas</p>";751;Revista A4 | Catálogo;;;;;;http://www.originarte.com/imprenta/175-495/revista-a4-8-pag.jpg,http://www.originarte.com/imprenta/175-496/revista-a4-8-pag.jpg;10000;1
+176;2+2_Estucado_Barniz2c;2+2t. con Barniz;"<p><span style=""color: #888888;"">Formato:</span> De 5,5x5,5 a 8,5x5,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 2+2 (Pantone)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Barniz <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Fina capa de barniz sobre la pieza ya impresa que protege el papel y la impresión de roces o ralladuras y da un ligero acabado brillo o mate.</span></a></p>
+<p><span style=""color: #888888;"">Manipulado:</span> Corte</p>
+<p><span style=""color: #888888;"">Descripción:</span> Con esta opción es posible imprimir de 1 a 8 modelos</p>";190;Acabados especiales,Acabados especiales;;;;;,;http://www.originarte.com/imprenta/176-497/tarjeta-de-visita-2-2.jpg,http://www.originarte.com/imprenta/176-499/tarjeta-de-visita-2-2.jpg,http://www.originarte.com/imprenta/176-498/tarjeta-de-visita-2-2.jpg;7499;1
+177;4+4t_Estucado_Barniz;4+4t. con Barniz;"<p><span style=""color: #888888;"">Formato: De 5,5x5,5 a 8,5x5,5 cm.</span></p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p style=""color: #888888;"">Gramaje: 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Barniz <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Fina capa de barniz sobre la pieza ya impresa que protege el papel y la impresión de roces o ralladuras y da un ligero acabado brillo o mate.</span></a></p>
+<p><span style=""color: #888888;"">Manipulado:</span><span> </span><span>Corte</span><span></span></p>
+<p><span style=""color: #888888;"">Descripción:</span><span> Con esta opción es posible imprimir de 1 a 8 modelos</span> </p>";240;Acabados especiales,Acabados especiales;;;;;,;http://www.originarte.com/imprenta/177-501/44t-papel-estucado.jpg,http://www.originarte.com/imprenta/177-502/44t-papel-estucado.jpg,http://www.originarte.com/imprenta/177-500/44t-papel-estucado.jpg;7500;1
+178;4+4t_Estucado_Ppdo_TV;4+4t. con Plastificado;"<p><span style=""color: #888888;"">Formato: De 5,5x5,5 a 8,5x5,5 cm.</span></p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p style=""color: #888888;"">Gramaje: 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate<a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span style=""color: #888888;"">Manipulado:</span><span> </span><span>Corte</span><span></span></p>
+<p><span style=""color: #888888;"">Descripción:</span><span> Con esta opción es posible imprimir de 1 a 8 modelos</span> </p>";310;Acabados especiales,Acabados especiales;;;;;,;http://www.originarte.com/imprenta/178-504/44t-papel-estucado.jpg,http://www.originarte.com/imprenta/178-505/44t-papel-estucado.jpg,http://www.originarte.com/imprenta/178-503/44t-papel-estucado.jpg;7500;1
+179;carta-offset-1t;Papel Carta 1+0t.;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>A4</p>
+<p><span class=""claro"" style=""color: #888888;""> Papel:</span> Offset Extra Blanco <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Offset extra pre-pint (especial garantizado para impresión ink-jet y láser). Extra blanco, EcoLabel, FSC y ECF.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 90grs.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 1+0</p>";100;Papel Offset Extra Blanco;;;;;;http://www.originarte.com/imprenta/179-506/papel-carta-a4.jpg;7499;1
+180;carta-offset-3t;Papel Carta 3+0t.;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>A4</p>
+<p><span class=""claro"" style=""color: #888888;""> Papel:</span> Offset Extra Blanco <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Offset extra pre-pint (especial garantizado para impresión ink-jet y láser). Extra blanco, EcoLabel, FSC y ECF.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 90grs.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 3+0</p>";140;Papel Offset Extra Blanco;;;;;;http://www.originarte.com/imprenta/180-518/papel-carta-a4.jpg;7499;1
+181;carta-recic-1t;Papel Carta 1+0t.;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>A4</p>
+<p><span style=""color: #888888;"">Acabado:</span> Cyclus 100% Reciclado<a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel Offset 100% reciclado, fabricado sin cloro ni blanqueantes ópticados. Certificado Ángel Azul, Cisne Nórdico y NAPM.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 90grs.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 1+0</p>";110;Papel Reciclado Cyclus Offset;;;;;;http://www.originarte.com/imprenta/181-508/papel-carta-a4.jpg;7500;1
+182;carta-recic-3t;Papel Carta 3+0t.;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>A4</p>
+<p><span style=""color: #888888;"">Acabado:</span> Cyclus 100% Reciclado<a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel Offset 100% reciclado, fabricado sin cloro ni blanqueantes ópticados. Certificado Ángel Azul, Cisne Nórdico y NAPM.</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 90grs.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 3+0</p>";150;Papel Reciclado Cyclus Offset;;;;;;http://www.originarte.com/imprenta/182-509/papel-carta-a4.jpg;7500;1
+183;sobre-americano-1t;Sobre 1+0 tintas PANTONE;"<p>Formato: 11,5 x 22,5 cm</p>
+<p>Papel: Offset Extra blanco</p>
+<p>Gramaje: 90grs.</p>
+<p>Tintas: 1+0 PANTONE</p>
+<p>Descripción: Sobre con o sin ventana</p>";75;Sobre americano con o sin ventana;;;;;;http://www.originarte.com/imprenta/183-510/sobre-americano.jpg,http://www.originarte.com/imprenta/183-511/sobre-americano.jpg;22500;1
+184;sobre-a5-1t;Sobre 1+0 tintas PANTONE;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>16,2 x 22,9 cm</p>
+<p><span class=""claro"" style=""color: #888888;""> Papel:</span> Offset Extra blanco</p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 90grs.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 1+0 PANTONE</p>";90;Sobre A5;;;;;;http://www.originarte.com/imprenta/184-512/sobre-americano.jpg,http://www.originarte.com/imprenta/184-513/sobre-americano.jpg;20000;1
+185;sobre-bolsa-1t;Sobre 1+0 tintas PANTONE;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>22,9 x 32,4 cm</p>
+<p><span class=""claro"" style=""color: #888888;""> Papel:</span> Offset Extra blanco</p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 100grs.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 1+0 PANTONE</p>";110;Sobre Bolsa;;;;;;http://www.originarte.com/imprenta/185-514/sobre-americano.jpg,http://www.originarte.com/imprenta/185-515/sobre-americano.jpg;20000;1
+186;sobre-folio-1t;Sobre 1+0 tintas PANTONE;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>26 x 36 cm</p>
+<p><span class=""claro"" style=""color: #888888;""> Papel:</span> Offset Extra blanco</p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 100grs.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 1+0 PANTONE</p>";120;Sobre Folio Prolongado;;;;;;http://www.originarte.com/imprenta/186-516/sobre-americano.jpg;20000;1
+187;150_Brillo_Dip_tarjeton;Díptico Invitación;"<p><span style=""color: #888888;"">Formato Abierto:</span> 20 x 21 cm.</p>
+<p><span style=""color: #888888;"">Formato Cerrado:</span> 10 x 21 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado Brillo <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorStar. Estucado multicapa brillante dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y muy buen brillo de papel, lo que le da muy buen resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 150 gr.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color 2 caras)</p>
+<p><span style=""color: #888888;"">Manipulado:</span> un hendido (dípticos)</p>
+<p><span style=""color: #888888;"">Descripción:</span> Se entrega plegado.</p>";129;Papel est. 150 grs.- Todo color 2c;;;;;,,Muestras;http://www.originarte.com/imprenta/187-517/diptico-a5.jpg;40000;1
+188;;Presencia básica en internet;<p>Una página con la información más relevante de tu empresa. Una forma sencilla y económica de tener tu presencia en internet.</p>;280;Sitio web institucional;Originarte: Presencia básica en internet;Originarte: Presencia básica en internet o landing page;diseño web, maquetacion, paginas web, tienda online, vender online, desarrollo web, landing page;;;http://www.originarte.com/imprenta/188-519/presencia-web-landing-page.jpg;5000;1
+189;;Alojamiento y dominio;<p>Te ofrecemos tu dominio y un plan de alojamiento anual.</p>;35;Completa tu presencia en internet;Originarte: Alojamiento y dominio;Originarte:  Alojamiento y dominio en Barcelona;web, hosting, alojamiento, dominio, comprar, barcelona;;,;http://www.originarte.com/imprenta/189-520/alojamiento-hosting-domino.jpg;5000;1
+190;;Community Managing;<p>Gestionamos tu presencia semanal en Facebook.</p>;35;Completa tu presencia en internet;Originarte: Community Managing;Originarte: Tu empresa en las redes sociales;web, facebook, twitter, seo, social, managing, barcelona;;,;;5000;0
+191;;Alta en redes sociales;<p>Te damos de alta y configuramos tu cuenta en Facebook, Twitter, Instagram, Linkedin...</p>;45;Completa tu presencia en internet;Originarte: Alta en redes sociales;Originarte: Alta en facebook, twitter, instagram...;web, facebook, twitter, seo, social, managing, barcelona;;,;http://www.originarte.com/imprenta/191-521/alta-configuracion-facebook-twitter-redes-sociales.jpg;5000;1
+192;350-cart-paipai;Paipái | Abanico;"<p><span class=""claro"" style=""color: #888888;"">Formato: </span>15 x 27,1 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Cartulina gráfica <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Ideal para trabajos que precisen de un acabado de gran calidad y resistencia. Certificaciones FSC y PEFC</span></a></p>
+<p><span class=""claro"" style=""color: #888888;"">Gramaje:</span> 350 gr.</p>
+<p><span class=""claro"" style=""color: #888888;"">Tintas:</span> 4+4 (todo color 2 caras)</p>
+<p><span class=""claro"" style=""color: #888888;"">Manipulado:</span><span style=""font-size: 13px;""> Contracolado y troquelado<br /></span></p>";440;Cartulina gráfica 350grs.;Originarte: Impresión de Paipáis, abanicos;Impresión offset todo color de abanicos o paipáis promocionales;impresion, offset, abanico, paipai, pai pai, todo color;;;http://www.originarte.com/imprenta/192-522/paipai-abanico-impresion-offset.jpg,http://www.originarte.com/imprenta/192-524/paipai-abanico-impresion-offset.jpg,http://www.originarte.com/imprenta/192-523/paipai-abanico-impresion-offset.jpg;20000;1
+193;;Diseño de Logotipo;<p>Diseñamos tu logotipo, la imagen de marca de tu empresa. Incluye aplicación en tarjeta de visita, papel carta y sobres.</p>;300;Diseño | Maquetación;Originarte: Diseño de logotipo;Desarrollo de logotipo para tu empresa y aplicación;diseño, logo, logotipo, empresa, desarrollo;;ClaseA_MATE_TV,2+2t_Estucado_TV;http://www.originarte.com/imprenta/193-525/diseno-logotipo-empresa.jpg;1996;1
+194;ClaseA_MATE_TV_oferta;Tarjeta de visita SuperOferta;"<p><span style=""color: #888888;"">Formato:</span> De 5,5x5,5 a 8,5x5,5 cm.</p>
+<p><span style=""color: #888888;"">Papel:</span> Estucado mate <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Papel CreatorSilk. Estucado multicapa semimate dos caras. Pasta química. Tiene una excelente blancura, elevado brillo de tintas y un tacto sedoso, lo que da un extraordinario resultado final.</span></a></p>
+<p><span style=""color: #888888;"">Gramaje:</span> 350grs.</p>
+<p><span style=""color: #888888;"">Tintas:</span> 4+4 (todo color dos caras)</p>
+<p><span style=""color: #888888;"">Acabado:</span> Plastificado Mate 1 cara <a class=""tooltip""><img src=""http://www.originarte.com/images/icons/info-descripcion.png"" alt=""Más info"" /><span>Capa de polipropileno sobre la pieza ya impresa que protege el papel y la impresión. El plastificado mate da un acabado cálido aterciopelado, ideal para tarjetas de visita, postales, invitaciones y todo elemento que requiera un acabado de calidad.</span></a></p>
+<p><span style=""color: #888888;"">Manipulado:</span> Corte</p>";50;Inicio;Impresión tarjetas de visita, oferta especial;Consigue tus tarjetas de visita con un descuento por tiempo limitado;tarjetas visita, descuento, oferta;;;http://www.originarte.com/imprenta/194-527/tarjeta-de-visita-oferta.jpg,http://www.originarte.com/imprenta/194-528/tarjeta-de-visita-oferta.jpg,http://www.originarte.com/imprenta/194-526/tarjeta-de-visita-oferta.jpg;2485;1

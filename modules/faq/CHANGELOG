@@ -1,0 +1,75 @@
+CHANGELOG
+PrestaShop Module FAQ
+Hosted on SourceForge : http://sourceforge.net/projects/modprestafaq/
+Thread about this module : http://www.prestashop.com/forums/viewthread/33081/
+
+
+v.1.4.3 (r.147)
+------------------------------------------------------
+Tested and validate for PrestaShop version 1.4.6.2
+Submitted to PrestaStore !
+Add Greek translation. Thanks to Vitoratos Dimitrios !
+Add Romanian translation. Thanks to Robertino Vasilescu !
+Add Hungarian translation. Thanks to Mojs László !
+Create templates optimized for iPrestaShop theme (http://iprestashop.net)
+Update spanish translation. Thanks to David Alegria !
+Add Russian translation. Thanks to Paul
+Add Danish translation. Thanks to Ibrahim !
+Add Georgian translation. Thanks to Archil Gobejishvili
+Add INDONESIAN translation. Thanks to Yudha W.Manggala
+Add translations : Catalan, Lithuanian, Slovenian, Czech, Ukranian
+
+
+v.1.3.2 (r.70)
+------------------------------------------------------
+Tested and validate for PrestaShop version 1.3.1
+Enhance dedicated page : add a name for loop to add numbering.
+Correct some minor errors.
+Add Italian translation. Thanks to Di Giuseppe Luigi !
+Add Swedish translation. Thanks to Hjalmarsson, Mats !
+Add Slovak translation. Thanks to Mojš Ladisla !
+Add Danish translation. Thanks to Elund Christensen !
+Add Polish translation. Thanks to Jakub Gzyl !
+Add Turkish translation. Thanks to Caglar !
+
+
+v.1.2.2 (r.54)
+------------------------------------------------------
+Create this CHANGELOG
+Erase all tables when uninstall module and add a warning before.
+Create a template for hook top add an available hook on footer.
+Optimize query for controller and display a message if none question is registered.
+Add breadcrumb on dedicated page.
+Change CSS classes name for avoid bug with generic class name.
+Overwrite template faq.tpl if exists in current theme directory (/themes/<current theme>/modules/faq/faq.tpl).
+Correction when updating a question and ameliorate multi-language support.
+Update French translation. Thanks to me (Joel Gaujard) !
+Add Indonesian language. Thanks to Zaid !
+Add Russian translation. Thanks to Newtc !
+Add German language. Thanks to Rumata !
+Add Dutch translation. Thanks to Rob Vermelis !
+Add Spanish translation. Thanks to Michel Martins !
+
+
+v.1.2.1 (r.29)
+------------------------------------------------------
+Module compatible with PS 1.2.5
+Better appareance.
+Modify index to redirect to controller.
+Debug when a quote is submit in question or answer.
+Add credit and traductors list.
+
+
+v.1.0.1 (r.16)
+------------------------------------------------------
+Create a completely independent module.
+Add 2 hooks : left column and header.
+Remove include CSS and JS. Now called in <head>.
+French translation. Thanks to LUDO !
+Correct some errors.
+
+
+v.1.0 (r.2)
+------------------------------------------------------
+Import from PrestaShop forum
+

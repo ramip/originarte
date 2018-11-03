@@ -1,0 +1,84 @@
+/* CMS pages ****************************************************************************** */
+#cms #center_column ul,
+#cms #center_column ol,
+#cms #center_column dl { margin-left:25px; margin-bottom:20px;color:#232323;}
+
+#cms #center_column ul li,
+#cms #center_column ol li,
+#cms #center_column dl li{list-style:circle}
+
+#cms #center_column a{color:#232323;text-decoration:underline}
+
+#cms #center_column li { margin-bottom:5px }
+
+#cms #center_column h1{color:#3E4141;text-transform:uppercase;border-bottom:1px solid #3E4141;padding-bottom:8px;font-weight:600}
+
+#cms #center_column h4{text-transform:uppercase;}
+
+#cms #center_column p{color:#3E4141}
+
+.paso{border-bottom: 1px solid;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    padding-bottom: 5px;}
+	
+.paso.rosa {border-color:#de0068}
+
+.paso.azul {border-color:#0097e7}
+
+.paso.gris {border-color:#3E4141}
+
+.titulo-paso{border-bottom:1px solid;margin: 0 0 10px;padding: 0 0 5px;}
+
+.titulo-paso h3{padding:5px;color:#FFFFFF;width:auto;display:inline;text-transform:uppercase}
+
+.paso.rosa .titulo-paso{border-color:#de0068}
+
+.paso.rosa .titulo-paso h3{background:#de0068}
+
+.paso.azul .titulo-paso{border-color:#0097e7}
+
+.paso.azul .titulo-paso h3{background:#0097e7}
+
+.paso.gris .titulo-paso{border-color:#3E4141}
+
+.paso.gris .titulo-paso h3{background:#3E4141}
+
+div.izquierda{float:left;width:23%;}
+
+div.izquierda p{font-size:10px;line-height:16px;margin:10px 0 5px;text-align:justify}
+
+div.derecha{float:right;width:75%}
+
+div.clear{clear:both}
+
+/* CSS Preguntas Frecuentes */
+
+.faq_question {
+margin: 0px;
+padding: 8px;
+display: inline-block;
+cursor: pointer;
+font-weight: bold;
+}
+
+.faq_answer_container {
+height: 0px;
+overflow: hidden;
+padding: 0px;
+background:#fff
+}
+
+.faq.open .faq_question {
+color: #fff;
+}
+
+.faq {
+background: #e1e1e1;
+border-bottom: 3px solid #fff;
+}
+
+.faq.open {
+background: #635858;
+border:none;
+}

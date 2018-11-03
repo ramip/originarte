@@ -1,0 +1,21 @@
+#featured-products_block_center{position:relative;}
+#featured-products_block_center div.last_item_of_line .product-container{}
+#featured-products_block_center div.last_item_of_line  {}
+#featured-products_block_center h5 {}
+
+#featured-products_block_center .product_image {
+	display:block;
+}
+#featured-products_block_center .product_desc {}
+#featured-products_block_center .product_desc,
+#featured-products_block_center .product_desc a {
+	
+}
+
+#featured-products_block_center .price_container {
+}
+#featured-products_block_center .price {
+}
+#featured-products_block_center .p-item .ajax_add_to_cart_button {}
+#featured-products_block_center .p-item span.exclusive {}
+#featured-products_block_center  #productsview {margin:10px 0 0 0}

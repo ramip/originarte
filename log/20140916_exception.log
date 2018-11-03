@@ -1,0 +1,4 @@
+*ERROR* 	2014/09/16 - 17:59:28: Property Customer->firstname is not valid at line 837 in file classes/ObjectModel.php
+*ERROR* 	2014/09/16 - 17:59:40: Property Customer->firstname is not valid at line 837 in file classes/ObjectModel.php
+*ERROR* 	2014/09/16 - 18:03:31: Property Customer->firstname is not valid at line 837 in file classes/ObjectModel.php
+*ERROR* 	2014/09/16 - 18:05:02: Property Customer->firstname is not valid at line 837 in file classes/ObjectModel.php

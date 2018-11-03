@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>leomanufacturerscroll</name>
+            <displayName><![CDATA[Leo Manufacturers Scroll]]></displayName>
+            <version><![CDATA[1.0.1]]></version>
+            <description><![CDATA[Leo Manufacturers Scroll - Support Responsive]]></description>
+            <author><![CDATA[LeoTheme]]></author>
+            <tab><![CDATA[LeoTheme]]></tab>
+            <is_configurable>1</is_configurable>
+            <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+        </module>

@@ -1,0 +1,5 @@
+*ERROR* 	2017/03/23 - 18:50:50: MySQL server has gone away<br /><br /><pre>
+		SELECT c.name,IFNULL(cl.`value`, c.`value`) AS value
+		FROM `ps_configuration` c
+		LEFT JOIN `ps_configuration_lang` cl ON (c.`id_configuration` = cl.`id_configuration` AND cl.`id_lang` = 3)
+		WHERE `name` LIKE 'leoctnavfooter%' AND (`id_shop_group` = NULL OR `id_shop_group` = 1) AND (`id_shop` = NULL OR `id_shop` = 1)</pre> at line 609 in file classes/db/Db.php

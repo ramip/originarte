@@ -1,0 +1,86 @@
+.subcategories-container
+{
+	padding-bottom:20px;
+	text-align:center
+}
+.subcategories .s_title_block
+{
+	padding:0
+}
+.subcategories .cat_desc
+{
+	height:30px;
+	overflow:hidden;
+	background:none;
+	color:#7E7F80
+}
+/*-----------end-subcategories--------------*/
+
+h1{margin-bottom:10px;}
+table#cart_summary tr.cart_item.even
+{
+	background:#F3F3F3;
+}
+.content_scene_cat {
+	background:#fff;
+	margin-bottom:20px;
+}
+.cat_desc {
+	line-height:18px;
+	background:#2b2b2b;
+	padding:10px 20px;
+	 color:#c1c1c1;
+	font-style:italic
+}
+.cat_desc p {padding:0; }
+.cat_desc .lnk_more {
+   padding:0 10px;
+   color:#21A6DF;
+   font-weight:bold;
+}
+/* ************************************************************************************************
+      SUB CATEGORIES
+************************************************************************************************ */
+.inline_list {
+	list-style-type:none;
+}
+.inline_list  li {
+	padding:0;
+}
+.inline_list  li .img {
+}
+.inline_list  li img {
+}
+.inline_list  li .cat_name {
+}
+.subcategories-container
+{
+	border: 1px solid #D6D6D6;
+    transition: all 0.5s linear 0s;
+}
+.subcategories-container:hover {
+    border: 1px solid #21a6df;
+    transition: all 0.5s linear 0s;
+}
+.subcategories .subcategories-container
+{
+	margin:20px 0 0 0
+}
+.subcategories-container .right_block
+{
+	padding:0px 10px
+}
+.img_subcate
+{
+	text-align:center;
+}
+.category-product-count
+{
+	font-size:12px;
+	color:#E2E2E2;
+}
+.title_category {font-size:15px; font-weight:600; padding:0 20px; background:#21A6DF; color:#fff; margin-top:20px; line-height:39px; display: none}
+/*Imagen de cabecera de diseño*/
+.cabecera-diseno{
+	width:100%
+}

@@ -1,0 +1,210 @@
+<?php
+/**
+ * @author HDClic
+ * @copyright permanent www.hdclic.com
+ * @version Release: $Revision: 1.5 / 1.6 $
+ */
+
+class AdminPrestaBlogAjaxController extends ModuleAdminController
+{
+	public function ajaxProcessPrestaBlogRun()
+	{
+		$currentLang = (int)$this->context->language->id;
+
+		switch(Tools::getValue('do')) {
+			case "sortBlocs" :
+				if(Tools::getValue('sortblocLeft'))
+					$sortblocLeft = serialize(Tools::getValue('sortblocLeft'));
+				else
+					$sortblocLeft = serialize(array(0 => ""));
+
+				if(Tools::getValue('sortblocRight'))
+					$sortblocRight = serialize(Tools::getValue('sortblocRight'));
+				else
+					$sortblocRight = serialize(array(0 => ""));
+				 				
+				Configuration::updateValue('prestablog_sbl', $sortblocLeft, false, null, (int)Tools::getValue('id_shop'));
+				Configuration::updateValue('prestablog_sbl', $sortblocLeft);
+				Configuration::updateValue('prestablog_sbr', $sortblocRight, false, null, (int)Tools::getValue('id_shop'));
+				Configuration::updateValue('prestablog_sbr', $sortblocRight);
+				break;
+				
+			case "loadProductsLink" :
+				$PrestaBlog = new PrestaBlog();
+				if(Tools::getValue('req')) {
+						$listProductLinked = array();
+						$listProductLinked = preg_split("/;/", rtrim(Tools::getValue('req'), ';'));
+						
+						if(sizeof($listProductLinked)) {
+							foreach($listProductLinked As $ProductLink) {
+								$productSearch = new Product((int)$ProductLink, false, $currentLang);
+								$productCover = Image::getCover($productSearch->id);
+								$image_product = new Image((int)$productCover["id_image"]);
+								$imageThumbPath = ImageManager::thumbnail(_PS_IMG_DIR_.'p/'.$image_product->getExistingImgPath().'.jpg', 'product_mini_'.$productSearch->id.'.jpg', 45, 'jpg');
+								
+								echo '
+										<tr class="'.($productSearch->active?'':'disabled_product ').'noInlisted_'.$productSearch->id.'">
+											<td class="center">'.$productSearch->id.'</td>
+											<td class="center">'.$imageThumbPath.'</td>
+											<td>'.$productSearch->name.'</td>
+											<td class="center">
+												<img src="../modules/prestablog/img/disabled.gif" rel="'.$productSearch->id.'" class="delinked" />
+											</td>
+										</tr>'."\n";
+							}
+							echo '
+								<script type="text/javascript">
+									$("img.delinked").click(function() {
+										var idP = $(this).attr("rel");
+										$("#currentProductLink input.linked_"+idP).remove();
+										$(".noInlisted_"+idP).remove();
+										ReloadLinkedProducts();
+										ReloadLinkedSearchProducts();
+									});
+								</script>'."\n";
+						}
+						else
+							echo '<tr><td colspan="4" class="center">'.$PrestaBlog->MessageCallBack['no_result_linked'].'</td></tr>'."\n";
+				}
+				else
+					echo '<tr><td colspan="4" class="center">'.$PrestaBlog->MessageCallBack['no_result_linked'].'</td></tr>'."\n";
+				
+				break;
+			
+			case "searchProducts" :
+				if(Tools::getValue('req') != "") {
+					if(Tools::strlen(Tools::getValue('req')) >= (int)Configuration::get('prestablog_nb_car_min_linkprod')) {
+						$start = 0;
+						$pas = (int)Configuration::get('prestablog_nb_list_linkprod');
+						
+						if(Tools::getValue('start'))
+							$start = (int)Tools::getValue('start');
+						
+						$end = (int)$pas + (int)$start;
+						
+						$listProductLinked = array();
+						
+						if(Tools::getValue('listLinkedProducts') != "")
+							$listProductLinked = preg_split("/;/", rtrim(Tools::getValue('listLinkedProducts'), ';'));
+						
+						$resultSearch = array();
+						$PrestaBlog = new PrestaBlog();
+						$rSQL_search = '';
+						$rSQL_lang = '';
+						
+						$Query = Tools::strtoupper(pSQL(Trim(Tools::getValue('req'))));
+						$Querys = array_filter(explode(" ", $Query));
+						
+						$list_champs_product_lang = array(
+							"description",
+							"description_short",
+							"link_rewrite",
+							"name",
+							"meta_title",
+							"meta_description",
+							"meta_keywords"
+						);
+						
+						foreach($Querys As $key => $value) {
+							foreach($list_champs_product_lang As $valueC)
+								$rSQL_search .= ' UPPER(pl.`'.$valueC.'`) LIKE \'%'.$value.'%\' '."\n".' OR';
+						}
+						
+						if(Tools::getValue('lang') != "")
+							$currentLang = (int)Tools::getValue('lang');
+						
+						$rSQL_lang = 'AND pl.`id_lang` = '.$currentLang;
+						$rSQL_Shop = 'AND ps.`id_shop` = '.(int)Tools::getValue('id_shop');
+						
+						$rSQL_search = ' WHERE ('.rtrim($rSQL_search, "OR").') '.$rSQL_lang.' '.$rSQL_Shop;
+						
+						$rSQL_pLink = '';
+						
+						foreach($listProductLinked As $ProductLink)
+							$rSQL_pLink .= ' AND pl.`id_product` <> '.(int)$ProductLink;
+						
+						$rSQL_search .= $rSQL_pLink;
+						
+						$countSearch = Db::getInstance(_PS_USE_SQL_SLAVE_)->GetRow('SELECT COUNT(DISTINCT pl.`id_product`) AS `value`
+									FROM 	`'._DB_PREFIX_.'product_lang` AS pl
+									LEFT JOIN `'._DB_PREFIX_.'product_shop` AS ps ON (ps.`id_product` = pl.`id_product`)
+									'.$rSQL_search.';');
+						
+						$rSQL	=	'SELECT DISTINCT(pl.`id_product`)
+									FROM 	`'._DB_PREFIX_.'product_lang` AS pl
+									LEFT JOIN `'._DB_PREFIX_.'product_shop` AS ps ON (ps.`id_product` = pl.`id_product`)
+									'.$rSQL_search.'
+									ORDER BY pl.`name`
+									LIMIT '.$start.', '.$pas.' ;';
+
+
+						$resultSearch = Db::getInstance(_PS_USE_SQL_SLAVE_)->ExecuteS($rSQL);
+						
+						if(sizeof($resultSearch)) {
+							foreach($resultSearch As $value) {
+								$productSearch = new Product((int)$value["id_product"], false, $currentLang);
+								$productCover = Image::getCover($productSearch->id);
+								$image_product = new Image((int)$productCover["id_image"]);
+								$imageThumbPath = $imageThumbPath = ImageManager::thumbnail(_PS_IMG_DIR_.'p/'.$image_product->getExistingImgPath().'.jpg', 'product_mini_'.$productSearch->id.'.jpg', 45, 'jpg');
+								
+								echo '	<tr class="'.($productSearch->active?'':'disabled_product ').'Outlisted noOutlisted_'.$productSearch->id.'">
+											<td class="center">
+												<img src="../modules/prestablog/img/linked.png" rel="'.$productSearch->id.'" class="linked" />
+											</td>
+											<td class="center">'.$productSearch->id.'</td>
+											<td class="center" style="width:50px;">'.$imageThumbPath.'</td>
+											<td>'.$productSearch->name.'</td>
+										</tr>'."\n";
+							}
+							echo '
+								<tr class="prestablog-footer-search">
+									<td colspan="4">
+										'.$PrestaBlog->MessageCallBack['total_results'].' : '.$countSearch["value"].'
+										'.($end < (int)$countSearch["value"]?'<span id="prestablog-next-search" class="prestablog-search">'.$PrestaBlog->MessageCallBack['next_results'].'<img src="../modules/prestablog/img/list-next2.gif" /></span>':'').'
+										'.($start > 0?'<span id="prestablog-prev-search" class="prestablog-search"><img src="../modules/prestablog/img/list-prev2.gif" />'.$PrestaBlog->MessageCallBack['prev_results'].'</span>':'').'
+									</td>
+								</tr>'."\n";
+							echo '
+								<script type="text/javascript">
+									$("span#prestablog-prev-search").click(function() {
+										ReloadLinkedSearchProducts('.($start-$pas).');
+									});
+									$("span#prestablog-next-search").click(function() {
+										ReloadLinkedSearchProducts('.($start+$pas).');
+									});
+									$("img.linked").click(function() {
+										var idP = $(this).attr("rel");
+										$("#currentProductLink").append(\'<input type="text" name="productsLink[]" value="\'+idP+\'" class="linked_\'+idP+\'" />\');
+										$(".noOutlisted_"+idP).remove();
+										ReloadLinkedProducts();
+										ReloadLinkedSearchProducts();
+									});
+								</script>'."\n";
+						}
+						else
+							echo '
+								<tr class="warning">
+									<td colspan="4" class="center">'.$PrestaBlog->MessageCallBack['no_result_search'].'</td>
+								</tr>'."\n";
+								
+					}
+					else {
+						$PrestaBlog = new PrestaBlog();
+						echo '
+							<tr class="warning">
+								<td colspan="4" class="center">'.$PrestaBlog->MessageCallBack['no_result_search'].'</td>
+							</tr>'."\n";
+					}
+				}
+				
+				break;
+			case "search" :
+				break;
+				
+			default :
+				break;
+		}
+	}
+}
+
+?>

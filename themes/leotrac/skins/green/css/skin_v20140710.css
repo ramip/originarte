@@ -1,0 +1,104 @@
+
+input.button_mini, input.button_small, input.button, input.button_large,
+input.button_mini_disabled, input.button_small_disabled, input.button_disabled, input.button_large_disabled,
+input.exclusive_mini, input.exclusive_small, input.exclusive, input.exclusive_large,
+input.exclusive_mini_disabled, input.exclusive_small_disabled, input.exclusive_disabled, input.exclusive_large_disabled,
+a.button_mini, a.button_small, a.button, a.button_large,
+a.exclusive_mini, a.exclusive_small, a.exclusive, a.exclusive_large,
+span.button_mini, span.button_small, span.button, span.button_large,
+span.exclusive_mini, span.exclusive_small, span.exclusive, span.exclusive_large, span.exclusive_large_disabled,
+#toolspanelcontent #bottombox input[type="submit"], #toolspanelcontent #bottombox input
+{
+	background: url("../images/bg-button.png") 
+}
+#add_to_cart:hover,
+input[type="button"]:hover,
+input[type="submit"]:hover,
+input[type="reset"]:hover,
+.button:hover, button:hover,
+input.button_mini:hover, input.button_small:hover, input.button:hover, input.button_large:hover,
+input.button_mini_disabled, input.button_small_disabled, input.button_disabled, input.button_large_disabled,
+input.exclusive_mini:hover, input.exclusive_small:hover, input.exclusive:hover, input.exclusive_large:hover,
+input.exclusive_mini_disabled:hover, input.exclusive_small_disabled:hover, input.exclusive_disabled:hover, input.exclusive_large_disabled:hover,
+a.button_mini:hover, a.button_small:hover, a.button:hover, a.button_large:hover,
+a.exclusive_mini:hover, a.exclusive_small:hover, a.exclusive:hover, a.exclusive_large:hover,
+span.button_mini:hover, span.button_small:hover, span.button:hover, span.button_large:hover,
+span.exclusive_mini:hover, span.exclusive_small:hover, span.exclusive:hover, span.exclusive_large:hover, span.exclusive_large_disabled:hover , #toolspanelcontent #bottombox input:hover, #bt_compare, form.pagination .button_mini
+{
+	 border-color: #09A049 #04843B #047333!important;	
+	 background-position: 0 -27px;
+}
+textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="date"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, input[type="number"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="color"]:focus, .uneditable-input:focus 
+{border-color:rgba(242, 93, 60, 0.8); box-shadow:0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(242, 93, 60, 0.6)}
+
+#languages_block_top, #header #cart_block, .dropdown-menu,
+.dropdown-submenu > .dropdown-menu, .navbar .btn-navbar, .navbar .btn-navbar:hover,
+.column .blue .title_block, .custom_new .readmore_new a, #center_column .blue .title_block > span, 
+span.hot, span.new, ul.products li .product .new, ul.products li .product .hot, span.onsale, ul.products li .product .onsale,
+.div_hide_product,
+.navbar .nav li.dropdown.open > .dropdown-toggle, .navbar .nav li.dropdown.active > .dropdown-toggle, .navbar .nav li.dropdown.open.active > .dropdown-toggle, #cart_title span, table.std thead, table.table_blockthead, #order-opc h2 span, #new_account_form h3,
+ul.step li.step_done, #languages_block_top .item-data, ul.step li.step_current_end, #center_column .fox_search,
+.idTabs .selected:hover, .idTabs a:hover, .idTabs a.selected
+{
+	background:#95c284!important
+}
+.view-list .div_hide_product {background:transparent!important}
+.navbar .nav > li > a:focus:after, .navbar .nav > li.active > a:after, .navbar .nav > li > a:active:after 
+{
+	border-width:10px 10px 10px 0;
+	border-color: #95c284 transparent transparent;
+}
+#shopping_cart a { background: url("../images/icon-cart.png") no-repeat scroll 5px 10px transparent;}
+#topminibasket #shopping_cart .title_cart {color:#95c284}
+.navbar .nav > li > .dropdown-menu:after {border-bottom:6px solid #95c284}
+#special_block_right .products span.reduction span {border:1px solid #95c284; color:#95c284}
+#newsletter_block_left input.button_mini {background-color:#95c284}
+#lofadvafooterfooter h2:hover, #footer a:hover, .s_title_block a:hover, .topbar .item-top a:hover,
+.breadcrumb > li, #footer .copyright a, a:hover, a:focus, .red,
+ul.pagination li.disabled span, ul.pagination .current span, ul.pagination a:hover, #header_user_info a.logout, div.tags_block p a:hover,
+.breadcrumb > .active
+{
+	color:#95c284
+}
+.blue .title_block:before {border-color:transparent #95c284 #95c284 transparent}
+.blue .title_block:after {border-color:#95c284 transparent transparent !important}
+.product_block #add_to_cart:hover, .product_block .ajax_add_to_cart_button:hover ,
+.product-container .box-wishlist:hover, .product-container .lnk_more:hover, .product-container .lnk_view:hover
+{
+	background-color:#06662f!important;
+	background-image:transparent!important;
+}
+.navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus,
+.navbar .nav > li > a:focus, .navbar .nav > li > a:hover, .title_category
+{background:#95c284}
+.subcategories-container:hover {border-color:#95c284}
+.leobttslider .carousel-control.right {background-color:#95c284; border-top:1px solid #20262A}
+.leo_btn i { background-image: url("../images/icon-btn.png")}
+#header_user_info a.logout {background:url(../images/logout.png) no-repeat 0 5px}
+.view-list .product-container  .ajax_add_to_cart_button, .view-list .product-container  .exclusive
+{
+	background: url(../images/bg-button.png) repeat-x;
+}
+.view-list .product-container  .ajax_add_to_cart_button:hover, .view-list .product-container  .exclusive:hover {
+   background-position: 0 -27px;
+   border-color: #09A049 #04843B #047333!important;
+}
+#more_info_tabs li a.selected:after {border-color:#95c284 transparent transparent}
+.carousel-control, .lof-cmssticker-default .ticker-controls li a {background-image:url("../images/carousel-button.png") }
+#categories_block_left li a {background:url("../images/icon-category.png") no-repeat 16px 13px}
+#categories_block_left li a.selected, #categories_block_left li a:hover
+ {background:url("../images/icon-category.png") no-repeat 16px -38px; color:#95c284}
+.leobttslider .carousel-indicators li.active{ 
+	border: 1px solid #95c284;
+}
+.lof-text p.leo-telephone:hover {background:url(../images/img_about_1hover.png) no-repeat;}
+.lof-text p.leo-fax:hover {background:url(../images/img_about_2hover.png) no-repeat;}
+.lof-text p.leo-mail:hover {background:url(../images/img_about_3hover.png) no-repeat;}
+.view-list .product-container .box-wishlist:hover, .view-list .product-container .lnk_more:hover, .product-container .lnk_view:hover{color:#95c284}
+
+.bt_compare{ border-color:#09A049 #04843B #047333!important}
+#bt_compare_bottom:hover, #bt_compare:hover{border-color: #3E3E3E #303030 #222222!important}
+#off-canvas-nav .offcanvas-mainnav {background:#95c284 }
+
+
+

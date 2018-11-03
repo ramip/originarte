@@ -1,0 +1,57 @@
+.view-list .row-fluid [class*="span"]{
+	width:100%!important;
+	
+	margin-left:0!important;
+}
+.view-list .center_block{
+	float:left;
+	overflow:hidden;
+	width:30%;
+}
+.view-list .product_img_link{
+	display:block;
+}
+.view-list .right_block{
+	display:block;
+	width:66%;
+	margin-left:3%
+}
+	.p-item  .compare label { display:inline; font-size:11px; color: #999	}
+		.p-item p.compare input {
+			font-size: 12px;
+			margin: 0 5px 0 0;
+			vertical-align: middle;
+		}
+		.product-container a.product_img_link img {
+			vertical-align: bottom;
+		}
+		.center_block h3
+		{
+			line-height:20px;
+		}
+		.center_block h3 a
+		{
+			font-weight:bold;
+			font-size:14px;
+		}
+	.product_block p.product_desc {
+		overflow: hidden;
+		padding:0;
+		line-height:16px;
+	}
+	.product_block  p.product_desc,
+	.product_block p.product_desc a {
+		color:#666;
+	}
+	.leo-product-suffix  .on_sale {background:none; text-indent:-9999px}
+	.p-item .online_only {
+		margin:0 0 10px 0
+	}
+		.p-item span.availability {
+			display:none;
+			color: #488C40
+		}
+	.online_only
+	{
+		display:none;
+	}

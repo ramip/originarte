@@ -1,0 +1,20 @@
+Hola {firstname} {lastname},
+
+Tu pedido #{id_order} ha sido recibido correctamente y se ha generado la factura correspondiente. Será puesto en producción en cuanto recibamos el pago.
+Puedes realizar una transferencia bancaria a la siguiente cuenta:
+
+{bankwire_owner}
+
+{bankwire_details}
+
+Total Pedido: {total_paid}
+
+Puedes revisar tu pedido y descargar la factura desde tu cuenta de nuestra web en (sección "Historial de Pedidos").
+Si te has registrado como invitado, puedes saber el estado de tu pedido desde la sección {shop_url}guest-tracking.php en nuestra web.
+
+Muchas gracias por comprar en {shop_name}.
+
+{shop_name} - http://www.originarte.com
+
+
+http://www.originarte.com desarrollado por PrestaShop®

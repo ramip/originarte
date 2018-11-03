@@ -1,0 +1,85 @@
+/* Special style for block cart*/
+#left_column #cart_block, #right_column #cart_block {
+}
+#header  #cart_block .title_block, #header  #cart_block h4 {
+	display: none;
+}
+#header #cart_block {
+	z-index: 9999;
+	display:none;
+	position: absolute;
+	right:-1px;
+	top: 105px;
+	height: auto;
+	width: 289px;
+	background:#21a6df;
+	color:#fff
+}
+#header #cart_block a, #header #cart_block .price {color:#fff}
+#cart_block.cart_block_hover {display:block}
+#cart_block .title_block  span, #header  #cart_block h4 {
+	float: right;
+	padding-left: 10px;
+	text-transform: none;
+	background-position: left top;
+	background-repeat: no-repeat;
+	cursor: pointer
+}
+#cart_block  .block_content {padding:8px}
+
+#cart_block #cart_block_summary {display:none}
+#cart_block .quantity-formated {
+	display:inline-block;
+	margin-right:5px;
+	min-width:18px;
+}
+#cart_block .cart_block_product_name {font-weight:bold}
+#cart_block .remove_link {
+	float:right;
+	display:inline-block;
+	margin:1px 0 0 5px;
+	height:12px;
+	width:12px
+}
+#cart_block .remove_link a {
+	display:inline-block;
+	height:15px;
+	width:12px;
+	background: url(img/icon/delete.png) no-repeat 0 0
+}
+#cart_block .price {float:right}
+#cart_block #cart_block_list dl {padding-bottom:10px}
+#cart_block #cart_block_list dt {padding:4px 0}
+#cart_block #cart_block_list dt a {font-weight:bold}
+#cart_block #cart_block_list dd {margin-left:20px}
+#cart_block #cart-prices {
+	padding:10px 4px;
+	line-height:20px;
+	font-weight:bold;
+	border-top:1px solid #fff
+}
+#cart_block #cart_block_shipping_cost,
+#cart_block #cart_block_total {float:right}
+#cart_block #cart_block_shipping_cost {font-weight:bold}
+/* 
+#cart_block #cart-buttons .button_small {
+background:#494949; border:1px solid #292929;text-align:center;font-size:14px; margin-left:5px; border-radius: 4px 4px 4px 4px}
+#cart_block #cart-buttons  #button_order_cart {
+	text-align:center;
+	margin:0px 0px 0px 10px;
+	color:#fff;
+	background:#494949;
+	border:1px solid #292929;
+	border: 2px 2px 2px 2px;
+	font-size:14px;
+	margin-left:10px;
+	padding:6px 10px;
+} */
+#cart_block #cart-buttons  #button_order_cart:hover, #cart-buttons .button_small:hover {background:##F94B4B!important; border:1px solid ##F94B4B!important; color:#FFFFFF}
+#cart-buttons{text-align: center;}
+#cart_block #cart-buttons  #button_order_cart:hover {color:#fff}
+#cart_block table#vouchers {clear: both; width:100%}
+#cart_block table#vouchers tr td {padding: 2px}
+#cart_block table#vouchers tr td.quantity {margin-right:5px; min-width:18px}
+#cart_block table#vouchers tr td.delete {padding-left:0; padding-right:0; text-align: right; width: 15px}
+

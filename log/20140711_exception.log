@@ -1,0 +1,4 @@
+*ERROR* 	2014/07/11 - 17:47:31: Property NewsClass->link_rewrite is not valid at line 878 in file classes/ObjectModel.php
+*ERROR* 	2014/07/11 - 17:49:25: Property NewsClass->link_rewrite is not valid at line 878 in file classes/ObjectModel.php
+*ERROR* 	2014/07/11 - 17:52:51: Property NewsClass->link_rewrite is not valid at line 878 in file classes/ObjectModel.php
+*ERROR* 	2014/07/11 - 18:12:24: Link to database cannot be established. at line 38 in file classes/db/MySQL.php

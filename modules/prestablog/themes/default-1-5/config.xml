@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<theme>
+	<!-- root js path is your theme prestablog folder -->
+	<!-- modules/prestablog/themes/[theme]/js/ -->
+	<js>slide.js</js>
+	<images>
+		<thumb> <!--Image prevue pour les miniatures dans les listes -->
+			<width>215</width>
+			<height>190</height>
+		</thumb>
+		<slide> <!--Image prevue pour les slides -->
+			<width>555</width>
+			<height>246</height>
+		</slide>
+	</images>
+	<categories>
+		<thumb> <!--Image prevue pour les miniatures dans les listes -->
+			<width>198</width>
+			<height>150</height>
+		</thumb>
+		<full> <!--Image prevue pour la description de la catÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©gorie en liste 1ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¨re page -->
+			<width>535</width>
+			<height>236</height>
+		</full>
+	</categories>
+</theme>

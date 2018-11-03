@@ -1,0 +1,9 @@
+*ERROR* 	2014/10/01 - 19:16:55: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND id_category IN (3,4,5,33,14,11,23,25,12,13,17,19,30,107,108,109,110,10,24,' at line 7<br /><br /><pre>SELECT DISTINCT c.id_parent, c.id_category, c.level_depth ,cl.name, cl.link_rewrite
+            FROM `ps_category` c
+            INNER JOIN `ps_category_lang` cl ON (c.`id_category` = cl.`id_category` AND cl.`id_lang` = 3 AND cl.id_shop = 1 )
+            INNER JOIN `ps_category_shop` cs ON (cs.`id_category` = c.`id_category` AND cs.`id_shop` = 1)
+            WHERE (c.`active` = 1 OR c.`id_category` = 2)
+            AND c.`id_category` != 1
+            AND c.id_category IN (SELECT id_category FROM `ps_category_group` WHERE `id_group` IN () AND id_category IN (3,4,5,33,14,11,23,25,12,13,17,19,30,107,108,109,110,10,24,111,112,32,113,114,115,116,117,118,46,36,119,6,101,102,103,104,26,31,120,20,15,18,105))
+            ORDER BY `level_depth` ASC, cs.`position`</pre> at line 609 in file classes/db/Db.php
+*ERROR* 	2014/10/01 - 23:34:07: Method is not defined at line 295 in file controllers/front/OrderOpcController.php
