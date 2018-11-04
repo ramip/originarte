@@ -1,6 +1,6 @@
 <?php
-/*
-* 2007-2014 PrestaShop
+/**
+* 2007-2015 PrestaShop
 *
 * NOTICE OF LICENSE
 *
@@ -18,9 +18,9 @@
 * versions in the future. If you wish to customize PrestaShop for your
 * needs please refer to http://www.prestashop.com for more information.
 *
-*  @author PrestaShop SA <contact@prestashop.com>
-*  @copyright  2007-2014 PrestaShop SA
-*  @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
+*  @author    PrestaShop SA <contact@prestashop.com>
+*  @copyright 2007-2015 PrestaShop SA
+*  @license   http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
 *  International Registered Trademark & Property of PrestaShop SA
 */
 
@@ -217,7 +217,7 @@ abstract class DbCore
 		$class = 'MySQL';
 		if (extension_loaded('mysql') && PHP_VERSION_ID < 50500)
 			$class = 'MySQL';
-		elseif (extension_loaded('mysqli'))
+		elseif (extension_loaded('mysqli') && (PHP_VERSION_ID < 50300 || extension_loaded('mysqlnd')))
 			$class = 'DbMySQLi';
 		elseif (PHP_VERSION_ID >= 50200 && extension_loaded('pdo_mysql'))
 			$class = 'DbPDO';

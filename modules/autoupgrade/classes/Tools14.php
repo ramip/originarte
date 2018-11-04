@@ -1,6 +1,6 @@
 <?php
-/*
-* 2007-2014 PrestaShop
+/**
+* 2007-2015 PrestaShop
 *
 * NOTICE OF LICENSE
 *
@@ -18,9 +18,9 @@
 * versions in the future. If you wish to customize PrestaShop for your
 * needs please refer to http://www.prestashop.com for more information.
 *
-*  @author PrestaShop SA <contact@prestashop.com>
-*  @copyright  2007-2014 PrestaShop SA
-*  @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
+*  @author    PrestaShop SA <contact@prestashop.com>
+*  @copyright 2007-2015 PrestaShop SA
+*  @license   http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
 *  International Registered Trademark & Property of PrestaShop SA
 */
 
@@ -1265,6 +1265,11 @@ class Tools14
 		if (in_array(ini_get('allow_url_fopen'), array('On', 'on', '1')) || !preg_match('/^https?:\/\//', $url))
 		{
 			$var = @file_get_contents($url, $use_include_path, $stream_context);
+
+			/* PSCSX-3205 buffer output ? */
+			if (Tools14::getValue('ajaxMode') && ob_get_level() && ob_get_length() > 0)
+				ob_clean();
+
 			if ($var)
 				return $var;
 		}
@@ -2085,9 +2090,9 @@ FileETag INode MTime Size
 		{
 			require_once(dirname(__FILE__).'/pclzip.lib.php');
 			$zip = new PclZip($fromFile);
-			$list = $zip->extract(PCLZIP_OPT_PATH, $toDir);
-			foreach ($list as $extractedFile)
-				if ($extractedFile['status'] != 'ok')
+			$list = $zip->extract(PCLZIP_OPT_PATH, $toDir, PCLZIP_OPT_REPLACE_NEWER);
+			foreach ($list as $file)
+				if ($file['status'] != 'ok' && $file['status'] != 'already_a_directory')
 					return false;
 			return true;
 		}

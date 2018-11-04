@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
         <module>
             <name>blockleoprodcarousel</name>
-            <displayName><![CDATA[Leo Products Carousel Block]]></displayName>
+            <displayName><![CDATA[Leo Productos Carousel Bloquear]]></displayName>
             <version><![CDATA[1.1]]></version>
-            <description><![CDATA[Display Products of Categories in Carousel.]]></description>
+            <description><![CDATA[Mostrar productos de las categor&iacute;as de Carousel.]]></description>
             <author><![CDATA[leotheme]]></author>
             <tab><![CDATA[pricing_promotion]]></tab>
             <is_configurable>1</is_configurable>

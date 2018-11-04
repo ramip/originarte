@@ -1,6 +1,6 @@
 <?php
-/*
-* 2007-2014 PrestaShop
+/**
+* 2007-2015 PrestaShop
 *
 * NOTICE OF LICENSE
 *
@@ -18,9 +18,9 @@
 * versions in the future. If you wish to customize PrestaShop for your
 * needs please refer to http://www.prestashop.com for more information.
 *
-*  @author PrestaShop SA <contact@prestashop.com>
-*  @copyright  2007-2014 PrestaShop SA
-*  @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
+*  @author    PrestaShop SA <contact@prestashop.com>
+*  @copyright 2007-2015 PrestaShop SA
+*  @license   http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
 *  International Registered Trademark & Property of PrestaShop SA
 */
 
@@ -34,13 +34,34 @@ class DbMySQLiCore extends Db
 	 */
 	public function	connect()
 	{
+		$socket = false;
+		$port = false;
 		if (strpos($this->server, ':') !== false)
 		{
 			list($server, $port) = explode(':', $this->server);
+			if (is_numeric($port) === false)
+			{
+				$socket = $port;
+				$port = false;
+			}
+		}
+		elseif (strpos($this->server, '/') !== false)
+		{
+			$socket = $this->server;
+		}
+
+		if ($socket)
+		{
+			$this->link = @new mysqli(null, $this->user, $this->password, $this->database, null, $socket);
+		}
+		elseif ($port)
+		{
 			$this->link = @new mysqli($server, $this->user, $this->password, $this->database, $port);
 		}
 		else
+		{
 			$this->link = @new mysqli($this->server, $this->user, $this->password, $this->database);
+		}
 
 		// Do not use object way for error because this work bad before PHP 5.2.9
 		if (mysqli_connect_error())
@@ -193,7 +214,7 @@ class DbMySQLiCore extends Db
 		$link->close();
 		return 0;
 	}
-	
+
 	public static function checkCreatePrivilege($server, $user, $pwd, $db, $prefix, $engine)
 	{
 		$link = @new mysqli($server, $user, $pwd, $db);

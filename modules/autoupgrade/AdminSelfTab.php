@@ -1,6 +1,6 @@
 <?php
-/*
-* 2007-2014 PrestaShop
+/**
+* 2007-2015 PrestaShop
 *
 * NOTICE OF LICENSE
 *
@@ -18,15 +18,15 @@
 * versions in the future. If you wish to customize PrestaShop for your
 * needs please refer to http://www.prestashop.com for more information.
 *
-*  @author PrestaShop SA <contact@prestashop.com>
-*  @copyright  2007-2014 PrestaShop SA
-*  @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
+*  @author    PrestaShop SA <contact@prestashop.com>
+*  @copyright 2007-2015 PrestaShop SA
+*  @license   http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
 *  International Registered Trademark & Property of PrestaShop SA
 */
 
 // @since 1.4.5.0
 // add the following comment in a module file to skip it in translations
-// IGNORE_THIS_FILE_FOR_TRANSLATION 
+// IGNORE_THIS_FILE_FOR_TRANSLATION
 abstract class AdminSelfTab
 {
 	/** @var integer Tab id */
@@ -251,9 +251,9 @@ abstract class AdminSelfTab
 		echo '
 		<script type="text/javascript">
 			id_language = Number('.$defaultLanguage.');
-			
+
 			function addRemoteAddr(){
-				var length = $(\'input[name=PS_MAINTENANCE_IP]\').attr(\'value\').length;	
+				var length = $(\'input[name=PS_MAINTENANCE_IP]\').attr(\'value\').length;
 				if (length > 0)
 					$(\'input[name=PS_MAINTENANCE_IP]\').attr(\'value\',$(\'input[name=PS_MAINTENANCE_IP]\').attr(\'value\') +\','.Tools14::getRemoteAddr().'\');
 				else
@@ -384,7 +384,7 @@ abstract class AdminSelfTab
 				case 'container_end':
 					echo (isset($field['content']) === true ? $field['content'] : '').'</div>';
 				break;
-				
+
 				case 'maintenance_ip':
 					echo '<input type="'.$field['type'].'"'.(isset($field['id']) === true ? ' id="'.$field['id'].'"' : '').' size="'.(isset($field['size']) ? (int)($field['size']) : 5).'" name="'.$key.'" value="'.($field['type'] == 'password' ? '' : htmlentities($val, ENT_COMPAT, 'UTF-8')).'" />'.(isset($field['next']) ? '&nbsp;'.strval($field['next']) : '').' &nbsp;<a href="#" class="button" onclick="addRemoteAddr(); return false;">'.$this->l('Add my IP').'</a>';
 				break;
@@ -652,23 +652,23 @@ abstract class AdminSelfTab
 		foreach ($rules['required'] AS $field)
 			if (($value = Tools14::getValue($field)) == false AND (string)$value != '0')
 				if (!Tools14::getValue($this->identifier) OR ($field != 'passwd' AND $field != 'no-picture'))
-					$this->_errors[] = $this->l('the field').' <b>'.call_user_func(array($className, 'displayFieldName'), $field, $className).'</b> '.$this->l('is required');
+					$this->_errors[] = sprintf($this->l('The field named %s is required.'), call_user_func(array($className, 'displayFieldName'), $field, $className));
 
 		/* Checking for multilingual required fields */
 		foreach ($rules['requiredLang'] AS $fieldLang)
 			if (($empty = Tools14::getValue($fieldLang.'_'.$defaultLanguage->id)) === false OR $empty !== '0' AND empty($empty))
-				$this->_errors[] = $this->l('the field').' <b>'.call_user_func(array($className, 'displayFieldName'), $fieldLang, $className).'</b> '.$this->l('is required at least in').' '.$defaultLanguage->name;
+				$this->_errors[] = sprintf($this->l('The field named %1$s is required at least in the %2$s language.'), call_user_func(array($className, 'displayFieldName'), $fieldLang, $className), $defaultLanguage->name);
 
 		/* Checking for maximum fields sizes */
 		foreach ($rules['size'] AS $field => $maxLength)
 			if (Tools14::getValue($field) !== false AND Tools14::strlen(Tools14::getValue($field)) > $maxLength)
-				$this->_errors[] = $this->l('the field').' <b>'.call_user_func(array($className, 'displayFieldName'), $field, $className).'</b> '.$this->l('is too long').' ('.$maxLength.' '.$this->l('chars max').')';
+				$this->_errors[] = sprintf($this->l('The field named %1$s is too long (%2$s chars max).'), call_user_func(array($className, 'displayFieldName'), $field, $className), $maxLength);
 
 		/* Checking for maximum multilingual fields size */
 		foreach ($rules['sizeLang'] AS $fieldLang => $maxLength)
 			foreach ($languages AS $language)
 				if (Tools14::getValue($fieldLang.'_'.$language['id_lang']) !== false AND Tools14::strlen(Tools14::getValue($fieldLang.'_'.$language['id_lang'])) > $maxLength)
-					$this->_errors[] = $this->l('the field').' <b>'.call_user_func(array($className, 'displayFieldName'), $fieldLang, $className).' ('.$language['name'].')</b> '.$this->l('is too long').' ('.$maxLength.' '.$this->l('chars max, html chars including').')';
+					$this->_errors[] = sprintf($this->l('The field named %1$s (for %2$s language) is too long (%3$s chars max, including HTML chars).'), call_user_func(array($className, 'displayFieldName'), $fieldLang, $className), $language['name'], $maxLength);
 
 		/* Overload this method for custom checking */
 		$this->_childValidation();
@@ -729,8 +729,8 @@ abstract class AdminSelfTab
 	}
 
 	/**
-	 * ajaxPreProcess is a method called in ajax-tab.php before displayConf(). 
-	 * 
+	 * ajaxPreProcess is a method called in ajax-tab.php before displayConf().
+	 *
 	 * @return void
 	 */
 	public function ajaxPreProcess()
@@ -739,7 +739,7 @@ abstract class AdminSelfTab
 
 	/**
 	 * ajaxProcess is the default handle method for request with ajax-tab.php
-	 * 
+	 *
 	 * @return void
 	 */
 	public function ajaxProcess()
@@ -1835,5 +1835,11 @@ abstract class AdminSelfTab
 				Tools14::redirectAdmin($currentIndex.'&conf=6'.'&token='.$this->token);
 			}
 		}
+	}
+
+	/* Dirty fix bug PNM-2673 */
+	public function addCSS($tmp)
+	{
+		return $tmp;
 	}
 }
